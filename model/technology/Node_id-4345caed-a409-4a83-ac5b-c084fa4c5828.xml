@@ -1,0 +1,20 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Server DICOM Gateway_NEM"
+    id="id-4345caed-a409-4a83-ac5b-c084fa4c5828">
+  <properties
+      key="Organizace_Provozovatel"
+      value="NEM"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Datum_aktualizace"
+      value="25.10.2018"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Vaněk"/>
+</archimate:Node>

@@ -1,0 +1,11 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JIP-KAAS"
+    id="id-04a0789e-ce8b-4fcc-8856-c580e7268e31">
+  <properties
+      key="Datum_zakreslení"
+      value="9.10.2018"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+</archimate:ApplicationService>

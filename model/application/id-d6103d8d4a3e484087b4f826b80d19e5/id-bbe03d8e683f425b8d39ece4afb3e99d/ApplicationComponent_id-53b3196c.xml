@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kniha úrazů_KU"
+    id="id-53b3196c">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+</archimate:ApplicationComponent>

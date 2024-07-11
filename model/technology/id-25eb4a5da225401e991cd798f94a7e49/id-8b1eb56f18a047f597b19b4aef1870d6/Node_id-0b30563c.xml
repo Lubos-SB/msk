@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VAP02_KU"
+    id="id-0b30563c">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="172"/>
+</archimate:Node>

@@ -1,0 +1,21 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API telemedicíny"
+    id="id-12baf094-77ce-441f-a521-a15c6a954581"
+    documentation="Rozhraní aplikace telemedicíny pro komunikaci se systémy NIS v nemocnicích. Předávání souhrnných zpráv ve formátu PDF, synchronizace pacientů.">
+  <properties
+      key="Datum_zakreslení"
+      value="24.9.2018"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Osoba_Správce"
+      value="Plaček"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+</archimate:ApplicationInterface>

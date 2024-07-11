@@ -1,0 +1,14 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Národní systém reakce na krize_GOV"
+    id="id-9abe6517">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Typ_aplikace"
+      value="Externí"/>
+</archimate:ApplicationComponent>

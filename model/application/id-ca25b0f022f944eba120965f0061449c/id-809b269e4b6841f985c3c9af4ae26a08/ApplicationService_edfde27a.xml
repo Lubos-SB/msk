@@ -1,0 +1,20 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Komunikace s PO (Portál kraje)_KK"
+    id="edfde27a"
+    documentation="Centrální místo pro komunikace a spolupráci krajského úřadu a příspěvkových organizací.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="https://portal.kr-moravskoslezsky.cz/pokr/www/katalog/"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Odkaz_zdroj"
+      value="https://portal.kr-moravskoslezsky.cz/pokr/www/katalog/default/detail/30"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:ApplicationService>

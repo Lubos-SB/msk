@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shibboleth_P009"
+    id="id-01673cdf">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Ing. Lea Prchalová, ředitelka"/>
+</archimate:ApplicationComponent>

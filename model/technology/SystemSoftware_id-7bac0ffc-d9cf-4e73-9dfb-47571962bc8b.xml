@@ -1,0 +1,20 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HA Cluster pro API GW Telemedicína_KU"
+    id="id-7bac0ffc-d9cf-4e73-9dfb-47571962bc8b">
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Plaček"/>
+  <properties
+      key="Datum_aktualizace"
+      value="25.10.2018"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+</archimate:SystemSoftware>

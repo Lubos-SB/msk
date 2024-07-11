@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FONS AKORD_P005"
+    id="id-76b76eb1"
+    documentation="Aplikace klinického informačního systému (KIS) v prostředí NEM">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:ApplicationComponent>

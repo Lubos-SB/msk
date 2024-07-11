@@ -1,0 +1,9 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Síť FM/NJ_KK"
+    id="id-0f6b71c0"
+    documentation="Síť (Frýdek-Místek/Nový Jičín)">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+</archimate:CommunicationNetwork>

@@ -1,0 +1,20 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Online konzilia_NEM"
+    id="id-3e97e57d-3adb-4c51-b064-d14742a2c71d">
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Vaněk"/>
+  <properties
+      key="Datum_aktualizace"
+      value="25.10.2018"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="NEM"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+</archimate:ApplicationService>

@@ -1,0 +1,11 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zabezpečení stravování_P003"
+    id="id-57909feb">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/020/2001"/>
+</archimate:BusinessService>

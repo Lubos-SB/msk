@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rešeršní a konzultační služba_P009"
+    id="b416c2f5"
+    documentation="Plní a koordinuje plnění regionálních funkcí vybraných základních knihoven v kraji. Vykonává funkci koordinačního a konzultačního střediska s orientací na podporu účelné kooperace informačních institucí a pracovišť v kraji, koordinace ediční a bibliografické činnosti, na řešení odborných otázek rozvoje a činnosti systému knihovnických služeb">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/071/2001"/>
+</archimate:BusinessFunction>

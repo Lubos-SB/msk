@@ -1,0 +1,17 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Server - NSE_KU"
+    id="ed4550b4">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="28"/>
+  <properties
+      key="Datum_terminace"
+      value="2020"/>
+</archimate:Device>

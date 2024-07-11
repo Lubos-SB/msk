@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služba Registr zdravotnické dokumentace HC"
+    id="id-dd067faee2fc46d3b3757aae57fe54bb"
+    documentation="Aplikační služba registru zdravotnické dokumentace uchovávající metadata o dokumentaci zpracovávané a uchovávané v informačních systémech zdravotnického zařízení a ostatních členů komunity. "/>

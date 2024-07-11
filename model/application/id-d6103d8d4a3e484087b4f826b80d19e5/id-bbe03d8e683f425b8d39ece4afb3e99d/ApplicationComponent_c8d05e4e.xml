@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OKBase_KU"
+    id="c8d05e4e"
+    documentation="OKbase je aplikační framework společnosti OK Systém. Aplikačně jde o dvě samostatné aplikace (postavené na tomto frameworku) – „Docházkový systém“ a  „Karetní systém“.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:ApplicationComponent>

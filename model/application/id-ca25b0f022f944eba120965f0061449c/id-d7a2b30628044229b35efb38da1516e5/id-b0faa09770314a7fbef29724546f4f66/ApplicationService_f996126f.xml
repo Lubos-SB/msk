@@ -1,0 +1,12 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služba webové prezentace organizace_P001"
+    id="f996126f"
+    documentation="Dobrý den. Webové stránky jsou v současné době provozovány formou webhostingu u společnosti Aerohosting.cz, kde před sloučením měla svůj web i jazyková škola. Dříve jsme hostovali stránky u společnosti PODA, ale jejich web nepodporoval námi zvolený redakční systém. S pozdravem Mgr. Jiří Ptašek">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="http://www.hladnov.info/index.php/cz/"/>
+</archimate:ApplicationService>

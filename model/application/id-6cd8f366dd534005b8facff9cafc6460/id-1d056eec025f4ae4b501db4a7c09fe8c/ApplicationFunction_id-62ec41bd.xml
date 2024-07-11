@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evidence mezd a platů_KK"
+    id="id-62ec41bd"
+    documentation="Funkce pro zpracování podkladů pro mzdy a platy. Funkce také zpracovává data z jiných systémů. Součástí je také rozúčtování mezd dle org. jednotek, nákl."/>

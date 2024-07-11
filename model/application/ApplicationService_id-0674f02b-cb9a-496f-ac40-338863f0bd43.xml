@@ -1,0 +1,20 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evidence zdravotnických prostředků_KK"
+    id="id-0674f02b-cb9a-496f-ac40-338863f0bd43">
+  <properties
+      key="Datum_aktualizace"
+      value="25.10.2018"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="NEM"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Vaněk"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+</archimate:ApplicationService>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spotřeba energií_KK"
+    id="c24b127c"
+    documentation="Informace o spotřebě energií - vše  formou údajů z faktur (dodavatel, cena celkem, DUZP, DPH, ..)"/>

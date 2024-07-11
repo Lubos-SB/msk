@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eCENTRE_KU"
+    id="id-8c55e415"
+    documentation="Aplikace &quot;Nákupní portál&quot; od společnosti eCENTRE a. s. je externí aplikací, která je přístupná přes web a není provozována v TCK.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Datum_terminace"
+      value="2020"/>
+</archimate:ApplicationComponent>

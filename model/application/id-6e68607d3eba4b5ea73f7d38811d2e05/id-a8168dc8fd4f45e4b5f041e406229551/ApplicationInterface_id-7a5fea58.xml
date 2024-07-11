@@ -1,0 +1,11 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rozhraní zálohovacího portálu_KK"
+    id="id-7a5fea58">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Název_zdroje"
+      value="ANALÝZA A NÁVRH ŘEŠENÍ: ZÁLOHOVÁNÍ DAT KORPORACE"/>
+</archimate:ApplicationInterface>

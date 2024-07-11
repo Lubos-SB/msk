@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MVČR_GOV"
+    id="ab0b11e2"
+    documentation="Ministerstvo vnitra České republiky">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessActor>

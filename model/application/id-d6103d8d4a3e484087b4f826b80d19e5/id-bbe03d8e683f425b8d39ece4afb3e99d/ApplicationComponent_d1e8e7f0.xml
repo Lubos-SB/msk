@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Místní IDM řešení_PO"
+    id="d1e8e7f0">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Název_zdroje"
+      value="Analýza a návrh řešení: Správa identit korporace"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WAN CT/Ha_KK"
+    id="bc2616ed"
+    documentation="WAN  (Český Těšín/Havířov)">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+</archimate:CommunicationNetwork>

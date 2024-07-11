@@ -1,0 +1,17 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jednotný monitoring_KK"
+    id="caeb0fd6"
+    documentation="Jedná se o námět zpracovatele. Jedná se o monitoring komponent PO z KU.">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Název_zdroje"
+      value="Návrh dodavatele"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:ApplicationService>

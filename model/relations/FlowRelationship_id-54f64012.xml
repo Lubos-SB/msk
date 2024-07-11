@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zálohování"
+    id="id-54f64012">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-93fc46ae.xml#id-93fc46ae"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-424d89bc.xml#id-424d89bc"/>
+</archimate:FlowRelationship>

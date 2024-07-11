@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služba zajišťování komunikaci s vnějšími systémy HC"
+    id="id-324966c4ce244df584fe8d9204cb1657"
+    documentation="Business služba pro zajištění komunuikace s vnějšími systémy z hlediska Hospital CLOUD (HC)"/>

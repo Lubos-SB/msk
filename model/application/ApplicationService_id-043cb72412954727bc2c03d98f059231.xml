@@ -1,0 +1,16 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provedení zálohy dat a obnovy ze zálohy_KK (copy)"
+    id="id-043cb72412954727bc2c03d98f059231">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Název_zdroje"
+      value="ANALÝZA A NÁVRH ŘEŠENÍ: ZÁLOHOVÁNÍ DAT KORPORACE"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:ApplicationService>

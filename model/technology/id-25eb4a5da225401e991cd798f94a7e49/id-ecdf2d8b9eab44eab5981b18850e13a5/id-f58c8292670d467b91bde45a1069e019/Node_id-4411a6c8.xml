@@ -1,0 +1,17 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pracovní stanice_P001"
+    id="id-4411a6c8">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Dotazník 2014"/>
+  <properties
+      key="Sheet"
+      value="G4-G10"/>
+  <properties
+      key="Datum_terminace"
+      value="2020"/>
+</archimate:Node>

@@ -1,0 +1,11 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služby docházkové čtečky_P007"
+    id="ad8e856c">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Připomínky PO"/>
+</archimate:ApplicationService>

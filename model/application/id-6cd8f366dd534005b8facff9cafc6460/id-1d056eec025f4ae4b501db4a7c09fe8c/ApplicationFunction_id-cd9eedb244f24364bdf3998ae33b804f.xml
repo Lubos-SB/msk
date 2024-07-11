@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kurzovní lístek_KK"
+    id="id-cd9eedb244f24364bdf3998ae33b804f"
+    documentation="Adm24 - formulář pro správu kurzovního lístku měn (využití pro cestovní příkazy)&#xD;&#xA;Kurzovní tabulku je možno udržovat buď ručně, nebo je možno využít funkčního tlačítka „Import z webu“, které naplní tabulku údaji z ročního kurzovního lístku uvedeného na webu ČNB (pro ČR) nebo na webu NBS (pro SK)."/>

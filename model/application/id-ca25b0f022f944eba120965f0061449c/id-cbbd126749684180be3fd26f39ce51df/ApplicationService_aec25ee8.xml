@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Finanční kontrola ve veřejné správě (FKVS)_GOV"
+    id="aec25ee8"
+    documentation="Více viz zde: http://fkvs.mfcr.cz/fkvs/default.aspx&#xD;&#xA;&#xD;&#xA;IS FKVS: Informační systém finanční kontroly ve veřejné správě.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:ApplicationService>

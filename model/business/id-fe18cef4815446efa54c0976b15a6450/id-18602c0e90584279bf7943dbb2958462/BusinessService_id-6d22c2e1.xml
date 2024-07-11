@@ -1,0 +1,14 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marketing a jednotný vizuální styl_KK"
+    id="id-6d22c2e1"
+    documentation="Metodická pomoc a podpora dodržování pravidel a postupů stanovených Manuálem jednotného vizuálního stylu u krajem zřízených a založených organizací.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:BusinessService>

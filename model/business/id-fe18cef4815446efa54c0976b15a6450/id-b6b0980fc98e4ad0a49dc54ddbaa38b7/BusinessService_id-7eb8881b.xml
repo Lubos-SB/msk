@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poskytování lékařské služby první pomoci"
+    id="id-7eb8881b"
+    documentation="Lékařská služba první pomoci v rozsahu pověření zřizovatele.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessService>

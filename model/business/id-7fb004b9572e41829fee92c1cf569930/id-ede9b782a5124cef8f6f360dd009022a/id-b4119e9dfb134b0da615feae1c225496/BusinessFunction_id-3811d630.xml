@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Správa sbírky_P008"
+    id="id-3811d630"
+    documentation="2.2 Spravuje sbírku dle z. č. 122/2000 Sb., o ochraně sbírek muzejní povahy a ve znění některých dalších zákonů">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessFunction>

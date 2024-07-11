@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služby Obrazové dokumentace (PACS)"
+    id="id-9f59ed2a">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:ApplicationService>

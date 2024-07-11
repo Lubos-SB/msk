@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JIP_GOV"
+    id="id-7512f3d6"
+    documentation="Jednotný identitní prostor/Katalog autentizačních a autorizačních služeb. Katalog autentizačních a autorizačních služeb je souhrn webových služeb, které provádějí autentizaci a autorizaci uživatelů přistupujících do externích systémů. KAAS vystupuje vůči těmto externím systémům v roli ověřovací autority.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Analýza a návrh řešení: Správa identit korporace"/>
+</archimate:ApplicationComponent>

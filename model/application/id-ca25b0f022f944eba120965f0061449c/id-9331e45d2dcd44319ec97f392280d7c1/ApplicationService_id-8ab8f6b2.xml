@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služby rejstříku svazku obcí_KU"
+    id="id-8ab8f6b2">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:ApplicationService>

@@ -1,0 +1,145 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Template - Klasifikace prvků metamodelu dle NAR"
+    id="id-8c7511cad28b491e854968e2d20d3af9"
+    documentation="Přehled dimenzí klasifikace a segmentace modelů a pohledů&#xD;&#xA;&#xD;&#xA;Všechny architektonické výstupy - modely, pohledy na ně a varianty těchto pohledů musí být v lokálních úložištích úřadů i v centrálním architektonickém úložišti NA VS ČR klasifikovány dle jednotné sady atributů.&#xD;&#xA;&#xD;&#xA;Ať už je přístup k modelu v kterémkoli úložišti zprostředkován v menu nebo navigaci jakoukoli kombinací (pořadím) níže uvedených dimenzí, vždy musí být model povinně klasifikován všemi níže uvedenými atributy, pokud není v pravidlech pro některý atribut stanoveno jinak. Linearizovaný klasifikační řetězec modelu (pohledu) se může stát technickou, kódovou součástí jeho označení.">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-07830eff646c4098ad616ab20d271db7"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      type="1">
+    <bounds
+        x="24"
+        y="12"
+        width="1117"
+        height="829"/>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-a7adc3081b944fc4922961fd3f3f5e86"
+        name="A) Klasifikace modelovaných (modelujících) subjektů (úřadů) veřejného sektoru:"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#d2d7d7">
+      <bounds
+          x="12"
+          y="36"
+          width="1081"
+          height="181"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-9261199c594c4da3b934506316998cb9"
+          font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+          fontColor="#000000"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="-- &lt;agency_PS_level> - číselníková položka - pozice ve struktuře eGovernmentu ČR &#xD;&#xA;-- &lt;agency_ID> - dle číselníku ISDS, tj. IČO ?: &#xD;&#xA;-- &lt;model_scope> - číselníková položka (vlastní, společná nebo rozšířená) architektura úřadu - OWN | GRP | EXT&#xD;&#xA;-- &lt;model_scope-name> - název rozšíření - text&#xD;&#xA;&#xD;&#xA;Příklad 1: „CTY KMORSLEZ EXT_DOPRU“ – Moravskoslezský kraj v roli modelující rozšířený úřad (v tomto případě pro dopravní úřad společně s Ministerstvem dopravy).&#xD;&#xA;Příklad 2: „MUN BENESOVMU GRP“ – MÚ Benešov v roli modelující architekturu svého úřadu společně se všemi podřízenými organizacemi.">
+        <bounds
+            x="12"
+            y="36"
+            width="1045"
+            height="133"/>
+      </children>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-38ab7f97567a46a1917699c542f2e3b3"
+        name="B) Klasifikace architektonických modelů:"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#d2d7d7">
+      <bounds
+          x="12"
+          y="228"
+          width="1081"
+          height="181"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-713d294c5efe4e9d9f912d84f310b928"
+          font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+          fontColor="#000000"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="-- &lt;model_type> - účel modelu (metamodel, referenční, vzorový, příkladový, individuální, …) – MM | RM | VM | PM | IM - individuální je implicitní a neuvádí se. Ostatní obecné kódy se uvádějí namísto kódu organizace&#xD;&#xA;-- &lt;model_scope> - číselníková položka (vlastní, společná nebo rozšířená) architektura úřadu - OWN | GRP | EXT&#xD;&#xA;&#xD;&#xA;Příklad 1: „CTY RM OWN“ – označuje referenční model vlastní (malé) architektury pro organizace na krajské úrovni územní samosprávy.&#xD;&#xA;Nelze ale dovodit, zda je to RM pro krajské úřady nebo některé typy jimi zřizovaných organizací, to se pozná až z názvu modelu a pohledu.">
+        <bounds
+            x="12"
+            y="36"
+            width="1045"
+            height="133"/>
+      </children>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-3d16a48f5ed242e4b0c64916cc1757b2"
+        name="C) Klasifikace pohledů (hledisek) na model:"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#d2d7d7">
+      <bounds
+          x="12"
+          y="420"
+          width="1081"
+          height="205"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-16cff7818692465e98794611c7afc362"
+          font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+          fontColor="#000000"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="-- &lt;view_purpose> - členění pohledů uvnitř modelu architektury úřadu - STR | SGM | CAP | SOL | DES&#xD;&#xA;-- &lt;view_horizon_state>&lt;view_horizon_date> -  vztah pohledu vzhledem k časové ose (minulé, současné, budoucí přechodové a cílové architektury). Bez uvedení představuje neznámou minulost nebo cílovou budoucnost v nekonečnu&#xD;&#xA;-- &lt;view_domain> - označení převažující domény (vrstvy) pohledu na model - MA | PA | BA | AA | DA | TA | IA | RS | SC | IM&#xD;&#xA;-- &lt;view_viewpoint_ID> - název (kód) typu hlediska – https://archi.gov.cz/nar_dokument:celkovy_dokument (Aktuálně doporučovaná hlediska NAR)&#xD;&#xA;-- &lt;view_name> - název pohledu na model (konkrétní instance), je-li třeba&#xD;&#xA;-- &lt;view_detail_level> - míry podrobnosti variant pohledů téhož úhlu pohledu na model - L0 | L1 | L2&#xD;&#xA;&#xD;&#xA;Příklad: „STR TGT2025 AA &lt;view_viewpoint_ID> &lt;view_name> L0“ představuje strategický, tj. celostní pohled nazvaný &lt;view_name>, který je typu hlediska &lt;view_viewpoint_ID> na aplikační architekturu v redukovaném detailu (pouze vybrané principiální instance aplikačních komponent).">
+        <bounds
+            x="12"
+            y="36"
+            width="1045"
+            height="157"/>
+      </children>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-16e29489c9824974a794139ed97c99db"
+        name="D) Segmentace úřadů a modelů podle podobnosti:"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#d2d7d7">
+      <bounds
+          x="12"
+          y="636"
+          width="1081"
+          height="181"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-cf77e67e891a4753b2544bbc41ef35fa"
+          font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+          fontColor="#000000"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="-- (FUNKCE) - dle užívaného členění funkcí veřejného sektoru - STAT | UZEM_SAMO | ZAJM_SAMO | ZAKON | SOUD | V_SLUZ | V_PODNIK&#xD;&#xA;-- (AGENDA) - dle číselníku vytvořeného v návaznosti na RPP &#xD;&#xA;-- (ODVĚTVÍ) - odvětví veřejné správy - dle zvláštního číselníku - DOTACE | POJIST | INVEST | PROF_SLUZ | VEDA atp.&#xD;&#xA;-- (VELIKOST) - kategorie podle počtu zaměstnanců úřadu, vždy do ...  tj. 10 | 50 | 200 | 1000 | 5000 | VICE&#xD;&#xA;&#xD;&#xA;Hledání příslušnosti úřadu k segmentům je pomůckou pro modelování, analýzu a podporu rozhodování, zejména pro identifikaci potenciálních oblasti architektury k využití známých nejlepších praxí, pro sjednocování a sdílení. Segmentace modelů NAR eGovernmentu ČR začne být plně a povinně využívána až poté, co OHA MV po pilotních projektech uvolní k použití odpovídající číselníky.">
+        <bounds
+            x="12"
+            y="36"
+            width="1045"
+            height="133"/>
+      </children>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-c365986904704a3a8156e7f0c6a64da6.xml#id-c365986904704a3a8156e7f0c6a64da6"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,17 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KS mzdy PROFi_KU"
+    id="a006d71a">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="124"/>
+  <properties
+      key="Datum_terminace"
+      value="2020"/>
+</archimate:ApplicationComponent>

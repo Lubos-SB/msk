@@ -1,0 +1,26 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Krajská digitální spisovna (KDS)_KK"
+    id="id-1df1499a"
+    documentation="Zajištění provozu krajské digitální spisovny">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="https://portal.kr-moravskoslezsky.cz/pokr/www/katalog/"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Odkaz_zdroj"
+      value="https://portal.kr-moravskoslezsky.cz/pokr/www/katalog/default/detail/43"/>
+  <properties
+      key="Datum_terminace"
+      value="2020"/>
+  <properties
+      key="Katalog_služeb"/>
+  <properties
+      key="Datum_aktualizace"
+      value="8.10.2018"/>
+</archimate:ApplicationService>

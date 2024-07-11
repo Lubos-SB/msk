@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Banka_KK"
+    id="e8009266"
+    documentation="Komplexní zpracování bezhotovostních úhrad v tuzemské i zahraniční měně u více peněžních ústavů. Oboustranná komunikace a přenos finančních operací s bankou. Zjednodušení a zautomatizování bezhotovostních úhrad ve styku s peněžním ústavem. Poskytnutí přehledu o aktuálním stavu peněžních prostředků na bankovních účtech a realizovaných úhradách."/>

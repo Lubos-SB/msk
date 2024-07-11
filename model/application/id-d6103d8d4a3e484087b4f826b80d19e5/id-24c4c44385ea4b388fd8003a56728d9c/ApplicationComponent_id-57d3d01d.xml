@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Docházkový systém_KK"
+    id="id-57d3d01d"
+    documentation="Docházka vede evidenci pracovní doby, tzn. příchodů, odchodů a přerušení práce zaměstnanců, dále umožňuje evidovat práce přesčas, noční práce a pracovní pohotovosti, navrhovat, schvalovat a evidovat pracovní cesty, dovolené, přestávky a překážky v práci."/>

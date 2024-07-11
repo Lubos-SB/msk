@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zvukové a zvukově-obrazové záznamy_P003"
+    id="id-6839df2a"
+    documentation="Výroba, rozmnožování, distribuce, prodej, pronájem zvukových a zvukově-obrazových záznamů.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/020/2001"/>
+</archimate:BusinessFunction>

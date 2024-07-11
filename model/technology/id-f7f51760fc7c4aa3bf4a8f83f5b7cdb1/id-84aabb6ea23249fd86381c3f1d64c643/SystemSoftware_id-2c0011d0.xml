@@ -1,0 +1,11 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MS Exchange 2016_KU"
+    id="id-2c0011d0">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Název_zdroje"
+      value="Analýza a návrh řešení: Centrální e-mail korporace"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,14 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dálkový přístup do ISKN_KU"
+    id="cff43fa6">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="345"/>
+</archimate:ApplicationComponent>

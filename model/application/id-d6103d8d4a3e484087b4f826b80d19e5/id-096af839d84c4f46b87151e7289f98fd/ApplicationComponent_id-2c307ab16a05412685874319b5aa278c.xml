@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klinický informační systém (KIS) HC"
+    id="id-2c307ab16a05412685874319b5aa278c"
+    documentation="Aplikace klinického informačního systému (KIS) pro multitenantní NIS (jedná se o aplikaci v HC řešení nahrazující aplikaci KIS v lokálním prostředí NEM)"/>

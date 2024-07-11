@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služba Centrální registr pacientů MPI HC"
+    id="id-a60802bd82be4f7e9451449bb97aceec"
+    documentation="Aplikační služba centrálního registru pacientů poskytující služby identity pacientů systémům integrovaným na ESB a ostatními členy komunity."/>

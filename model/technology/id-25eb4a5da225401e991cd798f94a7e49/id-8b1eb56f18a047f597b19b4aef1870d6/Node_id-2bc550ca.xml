@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intranet_KU"
+    id="id-2bc550ca">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="31"/>
+</archimate:Node>

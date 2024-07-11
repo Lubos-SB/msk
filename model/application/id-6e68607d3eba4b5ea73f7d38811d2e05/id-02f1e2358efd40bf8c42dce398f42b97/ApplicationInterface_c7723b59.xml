@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personální data IMP_KK"
+    id="c7723b59"
+    documentation="Rozhraní personálního systému pro import informací o pohledávkách/závazcích vůči zaměstnancům (exekuce, stravenky apod.), evidence svěřeného majetku"/>

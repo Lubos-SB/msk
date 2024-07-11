@@ -1,0 +1,21 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Router_KU"
+    id="f1bb6480-85a0-409c-a640-222a97e88d26"
+    documentation="Router vyhrazený pro VPN s danou nemocicí">
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Plaček"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Datum_aktualizace"
+      value="20.11.2018"/>
+</archimate:Device>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služba přehledu doporučených vyšetření HC"
+    id="id-2ce2435f51eb4f8f955607622a687a6a"
+    documentation="Přehled doporučených vyšteření"/>

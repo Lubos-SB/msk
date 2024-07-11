@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specifické místní aplikační služby Jiného zdravotnické zařízení"
+    id="id-65a98119">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:ApplicationService>

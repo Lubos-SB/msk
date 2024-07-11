@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Správce identity pacientů HC"
+    id="id-e5dea939cac34c759a1db7c12dd1614e"
+    documentation="Uživatelská role Správce identity pacientů v prostředí Hospital CLOUD (HC)"/>

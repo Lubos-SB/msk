@@ -1,0 +1,11 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služba evidence pokladen_P007"
+    id="id-3762976b">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Připomínky"/>
+</archimate:ApplicationService>

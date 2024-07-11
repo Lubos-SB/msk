@@ -1,0 +1,14 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Centrální systém účetních informací státu (CSÚIS)_GOV"
+    id="ec149213">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Typ_aplikace"
+      value="Externí"/>
+  <properties
+      key="Název_zdroje"
+      value="Procesní mapa"/>
+</archimate:ApplicationComponent>

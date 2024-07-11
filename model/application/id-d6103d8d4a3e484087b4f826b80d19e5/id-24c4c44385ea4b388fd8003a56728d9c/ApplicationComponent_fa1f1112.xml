@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stravovací provoz_KK"
+    id="fa1f1112"
+    documentation="Umožní efektivně normovat receptury jídel, sestavovat jídelní lístky, rozbory a výdejky, které lze následně odepsat ze skladu potravin. Dále obsahuje nástroje pro objednávání stravy jak pro klienty, tak pro pracovníky organizace, a vyúčtování stravného. Poskytne také možnost sledování spotřeby a stravovacích norem, nutričních hodnot jídelních lístků."/>

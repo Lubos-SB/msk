@@ -1,0 +1,11 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Synchronizace údajů o uživatelích Geoportálu ÚAP_KU"
+    id="id-0fc69cce">
+  <properties
+      key="Datum_vzniku"
+      value="11/2017"/>
+  <properties
+      key="Název_zdroje"
+      value="Geoportál ÚAP - autentizace a autorizace"/>
+</archimate:ApplicationService>

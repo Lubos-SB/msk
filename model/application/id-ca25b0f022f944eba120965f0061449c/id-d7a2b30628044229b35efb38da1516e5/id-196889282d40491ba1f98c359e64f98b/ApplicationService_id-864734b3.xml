@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služba organizace vzdělávacích akcí_P002"
+    id="id-864734b3">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:ApplicationService>

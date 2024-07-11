@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poskytování SW a poradenství v IT_P003"
+    id="id-30a68921"
+    documentation="Poskytování software a poradenství v oblasti informačních technologií, zpracování dat, hostingové a související činnosti, webové portály.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/020/2001"/>
+</archimate:BusinessFunction>

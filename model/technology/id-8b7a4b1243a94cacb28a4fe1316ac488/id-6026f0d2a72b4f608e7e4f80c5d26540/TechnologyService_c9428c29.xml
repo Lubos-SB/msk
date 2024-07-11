@@ -1,0 +1,20 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služby obnovy dat ze zálohy_KK"
+    id="c9428c29">
+  <properties
+      key="Datum_aktualizace"
+      value="20.3.2019"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Osoba_Autor"
+      value="Tomáš Kejha"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Petr Čáp"/>
+</archimate:TechnologyService>

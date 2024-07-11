@@ -1,0 +1,11 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služby poskytování jazykového vzdělání v cizích jazycích"
+    id="id-23f43add">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Jana Trombíková"/>
+</archimate:BusinessService>

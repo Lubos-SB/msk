@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Event Receivers_KU"
+    id="id-192b06b3-941c-4e91-b4c0-3885bfec769c"
+    documentation="Zdrojem jsou ideálně textové logy (Syslog), TLS šifrované, případně databázové logy. Pro přidání zdroje je potřeba zjistit IP adresu. Přidání zdroje se dělá v ESM (nová pravidla/plugin).&#xD;&#xA;Po dodavatelých je vhodné požadovat katalog logů s jejich popisem a povinností hlásit update logů.&#xD;&#xA;Zdrojové logy jsou přijímány ze všech vrstev (Windows Agent, WMI, SYSLOG, síťové prvky).">
+  <properties
+      key="Datum_aktualizace"/>
+  <properties
+      key="Datum_vzniku_entity"
+      value="17.12.2018"/>
+  <properties
+      key="Datum_zakreslení"
+      value="17.12.2018"/>
+  <properties
+      key="Datum_zániku_entity"/>
+  <properties
+      key="ID"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Osoba_Autor"
+      value="Alois Slovák"/>
+  <properties
+      key="Osoba_Správce"
+      value="Bezpečnostní správce"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Tomáš Vašica"/>
+  <properties
+      key="Stav"
+      value="Aktivní"/>
+</archimate:ApplicationComponent>

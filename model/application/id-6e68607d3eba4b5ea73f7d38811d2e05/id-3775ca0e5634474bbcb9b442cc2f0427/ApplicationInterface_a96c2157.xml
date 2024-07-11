@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Příjem dat o platech_GOV"
+    id="a96c2157"
+    documentation="Data jsou předávána ve formě XML souboru přes portál MFČR. Předkladatelem je územní samosprávný celek, který předává do ISP data za sebe a za jimi řízené zaměstnavatele."/>

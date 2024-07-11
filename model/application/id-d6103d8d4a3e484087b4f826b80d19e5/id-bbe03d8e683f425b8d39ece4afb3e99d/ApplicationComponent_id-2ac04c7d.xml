@@ -1,0 +1,14 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evidence dopravních agend_KU"
+    id="id-2ac04c7d">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="54"/>
+</archimate:ApplicationComponent>

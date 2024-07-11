@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generátor dotazů_KK"
+    id="id-d3a94d9d442f4b53bc3c7098d76f8fe3"
+    documentation="Umožňuje uživateli definovat, ukládat a opětovně spouštět jednoduché předpisy pro definici tabulkových dat exportovaných z EGJE. Celý aparát respektuje přístupová práva k objektům i k řádkům. "/>

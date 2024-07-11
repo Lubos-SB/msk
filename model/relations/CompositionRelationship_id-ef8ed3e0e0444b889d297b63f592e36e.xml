@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ef8ed3e0e0444b889d297b63f592e36e"
+    documentation="Otevřené rozhraní GINIS - modul UCR Doklady a stavy">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8b660e13.xml#id-8b660e13"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-71aca034e22a4b7d912c8e4bb571aa3e.xml#id-71aca034e22a4b7d912c8e4bb571aa3e"/>
+</archimate:CompositionRelationship>

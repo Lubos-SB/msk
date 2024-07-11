@@ -1,0 +1,11 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služba zajištění centrální AntiX ochrany_KK"
+    id="id-54f7f071">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Název_zdroje"
+      value="Analýza a návrh řešení: Centrální e-mail korporace"/>
+</archimate:TechnologyService>

@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vydávání pověření k vážení_P010"
+    id="id-9fa5f54b"
+    documentation="Vydávání pověření ke kontrolnímu vážení jiné osobě">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessService>

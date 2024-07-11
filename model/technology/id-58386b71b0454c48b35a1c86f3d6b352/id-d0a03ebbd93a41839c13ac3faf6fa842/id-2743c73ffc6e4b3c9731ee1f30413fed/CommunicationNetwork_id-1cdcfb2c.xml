@@ -1,0 +1,9 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Síť NJ/Vi_KK"
+    id="id-1cdcfb2c"
+    documentation="Síť (Nový Jičín/Vítkov)">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+</archimate:CommunicationNetwork>

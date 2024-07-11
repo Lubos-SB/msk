@@ -1,0 +1,17 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mapové služby_KK"
+    id="id-54954a19"
+    documentation="Rozvoj mobilních služeb,provázáni GIS s celostátními registry a geoportály a pořízení geografických dat. Vznik nástrojů otevřených dat ve veřejné správě - Podpora otevřených standardů, realizace Open Data Directive EU (PSI), rozvoj komunitního vývoje systémů ve veřejné správě, zlepšení dostupnosti metadat, uplatnění principů INSPIRE.">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Název_zdroje"
+      value="Akční plán strategie ICT_leden 2016"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:ApplicationService>

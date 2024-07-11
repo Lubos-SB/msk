@@ -1,0 +1,11 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registr Obyvatel_GOV"
+    id="d3a0bf77">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+</archimate:ApplicationService>

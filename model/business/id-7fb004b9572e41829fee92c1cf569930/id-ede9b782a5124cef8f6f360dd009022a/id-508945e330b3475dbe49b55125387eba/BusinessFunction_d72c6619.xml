@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sledování možností dotací a příprava projektů_P011"
+    id="d72c6619"
+    documentation="Sledování aktuálních možností využití dotačních titulů a příprava energeticky úsporných projketů a projketů podporujících využívání obnovitelných zdrojů energie vč. jejich hodnocení">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/362/2014"/>
+</archimate:BusinessFunction>

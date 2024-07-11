@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Podpora kybernetické bezpečnosti HC"
+    id="id-cfe21efc2fc5451b858c84bd5aaa6025"
+    documentation="Kybernetická bezpečnost jednotlivých zdravotnických zařízení je zajišťována formou poskytovaných služeb Moravskoslezským datovým centrem p.o.&#xD;&#xA;V rámci smluvních vztahů je zahrnuta opce na rozšíření poskytovaných služeb kybernetické bezpečnosti včetně implementovaných nástrojů, a to pro rozšíření služeb SOC do prostředí Hospital cloudu."/>

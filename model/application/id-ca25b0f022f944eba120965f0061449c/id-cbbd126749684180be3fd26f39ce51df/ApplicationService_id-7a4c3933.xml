@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Důvěryhodná elektronická komunikace_GOV"
+    id="id-7a4c3933"
+    documentation="ISDS - Datové schránky.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:ApplicationService>

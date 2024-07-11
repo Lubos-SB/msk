@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nemocnice"
+    id="b1fd1439">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessRole>

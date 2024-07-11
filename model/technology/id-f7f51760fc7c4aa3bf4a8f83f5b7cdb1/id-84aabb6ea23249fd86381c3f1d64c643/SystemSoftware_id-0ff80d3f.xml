@@ -1,0 +1,14 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GPS Server_KU"
+    id="id-0ff80d3f"
+    documentation="GPS Server pro příjem dat z roleb v rámci orientačně informačního systému lyžařských běžeckých magistrál (BM/JM)">
+  <properties
+      key="Datum_vzniku"
+      value="2015"/>
+  <properties
+      key="Kód_CMDB"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+</archimate:SystemSoftware>

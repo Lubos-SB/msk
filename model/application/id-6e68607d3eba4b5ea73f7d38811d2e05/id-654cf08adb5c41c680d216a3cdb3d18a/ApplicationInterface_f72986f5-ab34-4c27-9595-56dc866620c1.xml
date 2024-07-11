@@ -1,0 +1,24 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ESB pro komunikaci PACS_NEM"
+    id="f72986f5-ab34-4c27-9595-56dc866620c1"
+    documentation="Rozhraní pro ukládání obrazov dokuemntace do Krajského digitálního úložiště PACS na straně nemocnice">
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Datum_zakreslení"
+      value="10.05.2018"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Vaněk"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="NEM"/>
+  <properties
+      key="Stav"
+      value="Plánovaný"/>
+</archimate:ApplicationInterface>

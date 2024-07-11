@@ -1,0 +1,11 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personální a mzdové služby_P007"
+    id="id-5bb86006">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Datum_terminace"
+      value="2020"/>
+</archimate:ApplicationService>

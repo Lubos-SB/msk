@@ -1,0 +1,17 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nákupní systém_KK"
+    id="id-3cc6620a"
+    documentation="Dopsat z PDF">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Název_zdroje"
+      value="Odvětvové strategické záměry"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:ApplicationService>

@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WebExové řešení_KU"
+    id="c6e3f217">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Přejmenováno dle žádosti pana Žáka"/>
+</archimate:ApplicationComponent>

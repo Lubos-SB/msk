@@ -1,0 +1,18 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služby personálního a mzdového systému_KU"
+    id="id-8cb92ea2"
+    documentation="Evidence a správa personálních údajů.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Výpis z katalogu služeb"/>
+  <properties
+      key="Typ_služby"
+      value="Místní"/>
+  <properties
+      key="Datum_terminace"
+      value="2020"/>
+</archimate:ApplicationService>

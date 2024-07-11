@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Export mzdových sestav_KK"
+    id="id-3f27fd31"
+    documentation="Export sestav pro oblasti:&#xD;&#xA;- zdravotní pojišťovny&#xD;&#xA;&#x9;&#x9;Poj16 Přihlášky k ZP, &#xD;&#xA;&#x9;&#x9;Poj11a-f&#xD;&#xA;- daně:&#xD;&#xA;&#x9;&#x9;Dan09 XML export Vyúčtování DPFO&#xD;&#xA;&#x9;&#x9;Dan10 - oznámení plátce daně o dani z příjmů vybírané srážkou&#xD;&#xA;&#x9;&#x9;Dan20 – vyúčtování daně vybírané srážkou – XML včetně příloh&#xD;&#xA;- účetnictví&#xD;&#xA;- bankovní příkazy&#xD;&#xA;-povinný podíl, ..&#xD;&#xA;&#xD;&#xA;Sestavy jsou ve formátu, který vyžaduje příslušné rozhraní. &#xD;&#xA;Jsou vyexportovány na FS a odtud pak ručně nahrávány do rozhraní příslušné aplikace&#xD;&#xA;"/>

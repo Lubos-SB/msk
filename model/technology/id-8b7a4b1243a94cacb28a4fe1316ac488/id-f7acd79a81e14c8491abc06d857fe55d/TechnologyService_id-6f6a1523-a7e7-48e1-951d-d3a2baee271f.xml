@@ -1,0 +1,36 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Úložiště a zpracování dat SIEM_KU"
+    id="id-6f6a1523-a7e7-48e1-951d-d3a2baee271f"
+    documentation="All-in-one HW 1U box, který řeší management bezpečnostních informací a událostí včetně Log managementu. Zařízení umožňuje zpracování až 1750 událostí za sekundu. HW box je fyzicky umístěn v serverovně A348.">
+  <properties
+      key="Datum_aktualizace"/>
+  <properties
+      key="Datum_vzniku_entity"
+      value="17.12.2018"/>
+  <properties
+      key="Datum_zakreslení"
+      value="17.12.2018"/>
+  <properties
+      key="Datum_zániku_entity"/>
+  <properties
+      key="ID"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Osoba_Autor"
+      value="Alois Slovák"/>
+  <properties
+      key="Osoba_Správce"
+      value="Bezpečnostní správce"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Tomáš Vašica"/>
+  <properties
+      key="Stav"
+      value="Aktivní"/>
+</archimate:TechnologyService>

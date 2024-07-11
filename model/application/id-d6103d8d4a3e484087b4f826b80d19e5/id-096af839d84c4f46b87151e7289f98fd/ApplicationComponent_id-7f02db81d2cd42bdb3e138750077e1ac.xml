@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portál pacienta HC"
+    id="id-7f02db81d2cd42bdb3e138750077e1ac"
+    documentation="Aplikace Portál pacienta - součástí služby Zdravotní informační portál MSK (jedná se o přesouvanou aplikaci z prostředí KK do prostředí HC)"/>

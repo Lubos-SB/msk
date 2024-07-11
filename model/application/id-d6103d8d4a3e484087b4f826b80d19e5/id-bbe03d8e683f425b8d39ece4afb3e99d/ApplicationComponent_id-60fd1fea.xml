@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Místní přístupové brány PO (AGW)_PO"
+    id="id-60fd1fea">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Název_zdroje"
+      value="Analýza a návrh řešení: Správa identit korporace"/>
+</archimate:ApplicationComponent>

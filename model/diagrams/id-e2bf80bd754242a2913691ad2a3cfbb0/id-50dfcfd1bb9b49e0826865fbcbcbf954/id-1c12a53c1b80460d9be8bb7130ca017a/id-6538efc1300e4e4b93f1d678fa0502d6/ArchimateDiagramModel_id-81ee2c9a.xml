@@ -1,0 +1,291 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TB_KK_SCH (2020): JESSaPP Integrace"
+    id="id-81ee2c9a">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-89bee9e2"
+      font="1|Segoe UI|20.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="TB_KK_SCH (2020): JESSaPP Integrace">
+    <bounds
+        x="50"
+        y="50"
+        width="501"
+        height="51"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-2430e96b"
+      name="Integrační vazby mezi systémy"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ddffff">
+    <bounds
+        x="50"
+        y="100"
+        width="501"
+        height="601"/>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-3a0a6305"
+        name="Systémy kraje"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ddffff">
+      <bounds
+          x="12"
+          y="24"
+          width="439"
+          height="177"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="a7fc9bb0"
+          font="1|Segoe UI|11.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Segoe UI"
+          fontColor="#000000"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#ddffff"
+          content="Pro zaměstnance paměťových institucí bude používán JPMIS a pro účtování bude používán JESS, ale do JESSaPP nemají tyto systémy vazby">
+        <bounds
+            x="50"
+            y="50"
+            width="351"
+            height="101"/>
+      </children>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-029aab54"
+        name="Centrální systémy"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ddffff">
+      <bounds
+          x="12"
+          y="200"
+          width="439"
+          height="151"/>
+      <children
+          xsi:type="archimate:DiagramModelReference"
+          id="id-18855c8d"
+          font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+          fontColor="#000000"
+          lineColor="#5c5c5c"
+          fillColor="#dcebeb">
+        <bounds
+            x="50"
+            y="50"
+            width="351"
+            height="55"/>
+        <referencedModel
+            xsi:type="archimate:ArchimateDiagramModel"
+            href="ArchimateDiagramModel_id-4f8788d3.xml#id-4f8788d3"/>
+      </children>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-649cded4"
+        name="IDM"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ddffff">
+      <bounds
+          x="12"
+          y="350"
+          width="439"
+          height="201"/>
+      <children
+          xsi:type="archimate:DiagramModelReference"
+          id="id-2df22c63"
+          font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+          fontColor="#000000"
+          lineColor="#5c5c5c"
+          fillColor="#dcebeb">
+        <bounds
+            x="50"
+            y="100"
+            width="351"
+            height="55"/>
+        <referencedModel
+            xsi:type="archimate:ArchimateDiagramModel"
+            href="ArchimateDiagramModel_id-859946e6.xml#id-859946e6"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-63200916"
+          font="1|Segoe UI|11.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Segoe UI"
+          fontColor="#000000"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#ddffff"
+          content="Přístup na IDM je shodný jak pro JISS, tak pro JESSaPP">
+        <bounds
+            x="25"
+            y="50"
+            width="401"
+            height="36"/>
+      </children>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-71f1b811"
+      name="Legenda"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff">
+    <bounds
+        x="600"
+        y="50"
+        width="302"
+        height="249"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-8a501f9b"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffb5">
+      <bounds
+          x="8"
+          y="24"
+          width="41"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-83afbb11"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#86ff86">
+      <bounds
+          x="48"
+          y="96"
+          width="41"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-1dde068c"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#c9e7b7">
+      <bounds
+          x="8"
+          y="96"
+          width="41"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-549eae2d"
+        font="1|Arial Narrow|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Arial Narrow"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffff"
+        content="Technologické komponenty  1) Technologie 2) Infrastruktura">
+      <bounds
+          x="132"
+          y="96"
+          width="157"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-3c48f5c3"
+        font="1|Arial Narrow|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Arial Narrow"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffff"
+        content="Nové komponenty (2020)">
+      <bounds
+          x="132"
+          y="132"
+          width="157"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="cca50879"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffeaff">
+      <bounds
+          x="8"
+          y="132"
+          width="41"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-0ace7edd"
+        font="1|Arial Narrow|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Arial Narrow"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffff"
+        content="Komponenty organizační vrstvy">
+      <bounds
+          x="132"
+          y="24"
+          width="157"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-4d8639b1"
+        font="1|Arial Narrow|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Arial Narrow"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffff"
+        content="Aplikačn komponenty">
+      <bounds
+          x="132"
+          y="60"
+          width="157"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-90181179"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#b5ffff">
+      <bounds
+          x="8"
+          y="60"
+          width="41"
+          height="37"/>
+    </children>
+  </children>
+  <properties
+      key="Organizace_Popisovana"
+      value="KK"/>
+</archimate:ArchimateDiagramModel>

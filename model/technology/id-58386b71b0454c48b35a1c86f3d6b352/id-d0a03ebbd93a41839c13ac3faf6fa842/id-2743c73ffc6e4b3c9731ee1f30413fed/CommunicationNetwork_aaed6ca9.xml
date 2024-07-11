@@ -1,0 +1,9 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Síť St/NJ_KK"
+    id="aaed6ca9"
+    documentation="Síť (Studénka/Nový Jičín)">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+</archimate:CommunicationNetwork>

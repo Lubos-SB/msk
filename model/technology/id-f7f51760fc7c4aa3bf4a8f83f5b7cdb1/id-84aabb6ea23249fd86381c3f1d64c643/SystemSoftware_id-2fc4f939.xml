@@ -1,0 +1,11 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Windows Server 2008 GEP_KU"
+    id="id-2fc4f939">
+  <properties
+      key="Datum_vzniku"
+      value="11/2017"/>
+  <properties
+      key="Název_zdroje"
+      value="Geoportál ÚAP"/>
+</archimate:SystemSoftware>

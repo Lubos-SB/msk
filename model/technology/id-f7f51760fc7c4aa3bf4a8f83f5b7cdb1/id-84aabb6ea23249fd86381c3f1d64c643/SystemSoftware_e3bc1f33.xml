@@ -1,0 +1,15 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ArcSDE 10.1_KU"
+    id="e3bc1f33"
+    documentation="Aplikační server pro ukládání a přístup k prostorovým datům uložených v relační db (oracle/vora3)">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="KPIT000066"/>
+</archimate:SystemSoftware>

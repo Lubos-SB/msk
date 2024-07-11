@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Skript - Sklad papíru_P002"
+    id="id-2901e859">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Datum_terminace"
+      value="2020"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,11 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služba přístupu klientů ke schránce_KU"
+    id="id-7092ede9">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Analýza a návrh řešení: Centrální e-mail korporace"/>
+</archimate:TechnologyService>

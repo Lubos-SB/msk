@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zjištení úpadců_KK"
+    id="c356f79a"
+    documentation="Umožňuje průběžnou hromadnou kontrolu, zda plátci nevstoupili do insolvence."/>

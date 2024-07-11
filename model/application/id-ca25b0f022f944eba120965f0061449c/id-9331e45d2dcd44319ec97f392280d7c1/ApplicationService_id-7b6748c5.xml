@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služby desktopového APV pro práci s GIS_KU"
+    id="id-7b6748c5">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:ApplicationService>

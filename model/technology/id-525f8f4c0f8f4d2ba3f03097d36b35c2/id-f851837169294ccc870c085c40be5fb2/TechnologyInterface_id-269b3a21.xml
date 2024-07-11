@@ -1,0 +1,11 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API pro webové aplikace (Přístup z místní sítě)"
+    id="id-269b3a21">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Analýza a návrh řešení: Správa identit korporace"/>
+</archimate:TechnologyInterface>

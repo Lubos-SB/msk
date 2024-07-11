@@ -1,0 +1,20 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Server PACS ESB_NEM"
+    id="id-7f7fed72-bc62-45ec-aee0-0da9df18be24">
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Vaněk"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Datum_aktualizace"
+      value="25.10.2018"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="NEM"/>
+</archimate:Node>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zpracování platby_EXT"
+    id="id-1ae56975"
+    documentation="Zpracování platby bankou a její odeslání na příslušné účty. Funkce je součástí bankovního systému."/>

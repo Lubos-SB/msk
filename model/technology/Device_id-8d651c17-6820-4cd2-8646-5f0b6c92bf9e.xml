@@ -1,0 +1,20 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zdravotnický tablet_NEM"
+    id="id-8d651c17-6820-4cd2-8646-5f0b6c92bf9e">
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Datum_aktualizace"
+      value="25.10.2018"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Vaněk"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="NEM"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+</archimate:Device>

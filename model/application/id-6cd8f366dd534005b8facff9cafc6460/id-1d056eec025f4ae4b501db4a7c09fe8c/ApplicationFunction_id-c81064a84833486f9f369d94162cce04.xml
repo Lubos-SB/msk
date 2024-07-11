@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evidence zdravotnických zařízení_KK"
+    id="id-c81064a84833486f9f369d94162cce04"
+    documentation="Evidence zdrav. zařízení:&#xD;&#xA;Číselník má navigační seznam daný středisky struktury 30.&#xD;&#xA;Slouží k možnosti zadat doplňkové parametry ke střediskům struktury 30 – Zdravotní specializace.&#xD;&#xA;Jedná se o položky:&#xD;&#xA;•&#x9;Týdenní ordinační doba v hodinách&#xD;&#xA;•&#x9;Počet sálů&#xD;&#xA;•&#x9;Počet lůžek pro těhotné&#xD;&#xA;•&#x9;Počet lůžek pro děti&#xD;&#xA;•&#x9;Počet lůžek ostatních&#xD;&#xA;&#xD;&#xA;Evidence rozšiřujících údajů o okrscích zdravotní péče."/>

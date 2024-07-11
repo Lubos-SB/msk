@@ -1,0 +1,20 @@
+<archimate:ApplicationCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Výměna DICOM dat_KU"
+    id="c90777cf-6b23-4c88-b2f3-a13798794bf4">
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Datum_aktualizace"
+      value="25.10.2018"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Plaček"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+</archimate:ApplicationCollaboration>

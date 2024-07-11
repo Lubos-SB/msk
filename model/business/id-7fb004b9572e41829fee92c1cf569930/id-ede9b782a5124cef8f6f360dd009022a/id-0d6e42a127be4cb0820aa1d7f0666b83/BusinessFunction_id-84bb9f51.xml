@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Správa ostatního majektu_P010"
+    id="id-84bb9f51"
+    documentation="Zajištění výkonu vlastnických práv kraje k ostatnímu majetku předanému zřizovatelem k hospodaření v rozsahu stanoveném zřizovatelem.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessFunction>

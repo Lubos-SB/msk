@@ -1,0 +1,11 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VOŠ a KONzervatoř"
+    id="a3345e87">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Jana Trombíková"/>
+</archimate:BusinessRole>

@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IS MEDIX_KU"
+    id="e29970e0">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registr služeb ESB HC"
+    id="id-e183fc702938412cbc50d3c30b93b01b"
+    documentation="Aplikační služba registru, ve kterém jsou udržována metadata popisující jednotlivé dostupné SOA služby k využití na úrovni komunikačních protokolu s formálním popisem rozhraní, kdy jsou jejich popisy zveřejněny a nabízeny zprostředkovateli služeb. "/>

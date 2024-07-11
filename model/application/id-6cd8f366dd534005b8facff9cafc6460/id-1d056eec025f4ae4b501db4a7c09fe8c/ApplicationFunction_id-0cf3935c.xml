@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Předpis úhrady_KK"
+    id="id-0cf3935c"
+    documentation="Stanovení předpisu úhrady pro klienty ve variantách celoročního, týdenního nebo denního pobytu, výpočet pro přechodné pobyty."/>

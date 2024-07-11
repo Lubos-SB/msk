@@ -1,0 +1,11 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MS Exchange 2007"
+    id="id-9fc8b8d5">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Analýza a návrh řešení: Správa identit korporace"/>
+</archimate:SystemSoftware>

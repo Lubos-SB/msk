@@ -1,0 +1,17 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IS Cygnus_P007"
+    id="id-85d1b0e6">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Dotazník 2014"/>
+  <properties
+      key="Sheet"
+      value="G4-G10"/>
+  <properties
+      key="Datum_terminace"
+      value="2020"/>
+</archimate:ApplicationComponent>

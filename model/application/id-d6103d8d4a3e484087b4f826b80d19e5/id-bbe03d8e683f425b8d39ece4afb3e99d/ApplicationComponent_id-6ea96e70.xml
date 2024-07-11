@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geografický informační systém_KU"
+    id="id-6ea96e70">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:ApplicationComponent>

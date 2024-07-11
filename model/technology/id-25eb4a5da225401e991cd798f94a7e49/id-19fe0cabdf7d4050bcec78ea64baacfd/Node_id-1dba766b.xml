@@ -1,0 +1,11 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="E-mailový systém pro KUMSK a PO bez vlastního e-mailového systému_KK"
+    id="id-1dba766b">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Analýza a návrh řešení: Centrální e-mail korporace"/>
+</archimate:Node>

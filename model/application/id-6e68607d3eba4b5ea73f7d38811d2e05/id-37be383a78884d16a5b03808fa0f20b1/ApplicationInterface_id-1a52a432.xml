@@ -1,0 +1,21 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Komunikační rozhraní pro telemedicínu_KU"
+    id="id-1a52a432"
+    documentation="Komuniakční rozhraní pro sběr telemedicínských dat">
+  <properties
+      key="Datum_aktualizace"
+      value="24.9.2018"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Plaček"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+</archimate:ApplicationInterface>

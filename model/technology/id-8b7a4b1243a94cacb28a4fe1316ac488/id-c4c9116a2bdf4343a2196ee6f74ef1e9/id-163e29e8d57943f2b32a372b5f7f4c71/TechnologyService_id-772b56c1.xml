@@ -1,0 +1,9 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služba zálohování_P004"
+    id="id-772b56c1"
+    documentation="Zálohujeme na média (přepisovatelné DVD), externí hard disk, a účetní má duplicitu účetních dat na svém počítači">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:TechnologyService>

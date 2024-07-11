@@ -1,0 +1,18 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zajištění komunikace s občany_KU"
+    id="id-1d61fef0"
+    documentation="Pořízení a rozvoj informačních systémů zajišťujících zprostředkování informací občanům (např. veřejné rozpočty kraje, portál kraje).">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Typ_služby"
+      value="Místní"/>
+  <properties
+      key="Název_zdroje"
+      value="Projektová fiše pro velké projekty realizované v rámci programového období EU 2014-2020"/>
+  <properties
+      key="Název_projektu"
+      value="Rozvoj služeb e-Governmentu Moravskoslezského kraje II (Elektronický úřad)"/>
+</archimate:ApplicationService>

@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API telemedicíny_KU"
+    id="id-3fb0c7d3-9097-4764-9da7-47591aea27ed"
+    documentation="rozhraní pro poskytování telemedicínských dat do NIS">
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Datum_aktualizace"
+      value="25.10.2018"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Plaček"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+</archimate:ApplicationComponent>

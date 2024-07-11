@@ -1,0 +1,14 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NAS Server_P003"
+    id="id-9a1d1375">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Dotazník 2014"/>
+  <properties
+      key="Sheet"
+      value="G13"/>
+</archimate:Device>

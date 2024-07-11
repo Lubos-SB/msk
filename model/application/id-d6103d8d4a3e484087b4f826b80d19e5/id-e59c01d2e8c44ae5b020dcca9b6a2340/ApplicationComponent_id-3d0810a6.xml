@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registr plátců DPH_GOV"
+    id="id-3d0810a6"
+    documentation="Aplikace Registr plátců DPH umožňuje hledání plátců DPH podle zadaných daňových identifikačních čísel (DIČ)."/>

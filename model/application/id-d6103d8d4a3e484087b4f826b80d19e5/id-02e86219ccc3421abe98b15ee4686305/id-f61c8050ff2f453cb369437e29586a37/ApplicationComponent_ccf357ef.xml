@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ekonomický IS QI_P005"
+    id="ccf357ef">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Datum_terminace"
+      value="2020"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,8 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Databáze - RUIAN_ISKN_KU"
+    id="d8b0b518">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:TechnologyService>

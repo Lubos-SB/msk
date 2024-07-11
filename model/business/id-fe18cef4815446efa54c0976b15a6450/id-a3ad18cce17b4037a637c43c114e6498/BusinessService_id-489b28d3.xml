@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hospodaření s majetkem_KU"
+    id="id-489b28d3">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessService>

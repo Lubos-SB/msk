@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PACS - DICOM prohlížeč HC"
+    id="id-111b8443ecc34ac7802d7d2ad5fa7968"
+    documentation="Aplikace PACS - DICOM prohlížeč HC - součástí služby Centrální repository obrazuové dokumentace HC (jedná se o novou aplikaci v prostředí HC)"/>

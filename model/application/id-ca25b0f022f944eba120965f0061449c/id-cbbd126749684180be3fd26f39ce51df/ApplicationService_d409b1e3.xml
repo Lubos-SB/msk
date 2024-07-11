@@ -1,0 +1,12 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portálu CSÚIS_GOV"
+    id="d409b1e3"
+    documentation="http://www.statnipokladna.cz/cs/csuis">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Mapa procesů KU"/>
+</archimate:ApplicationService>

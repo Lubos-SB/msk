@@ -1,0 +1,11 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poskytování základního uměleckého vzdělávání_P004"
+    id="id-81d7c344">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/002/2001"/>
+</archimate:BusinessService>

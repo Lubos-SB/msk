@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Odpisy dlouhodobého majetku_KK"
+    id="c9961553"
+    documentation="-&#x9;možnost vytvoření odpisového plánu,&#xD;&#xA;-&#x9;automatický výpočet odpisů po jednotlivých položkách majetku a jejich automatické zaúčtování,&#xD;&#xA;-&#x9;automatický výpočet alikvótního podílu odpisů z pořizovací ceny hrazené z dotace, která musí být rozpuštěna do výnosů a její automatické zaúčtování,"/>

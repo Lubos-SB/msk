@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Circuit emulation_KK"
+    id="id-90e41bc1"
+    documentation="•&#x9;Vytváření emulovaných okruhů: &#xD;&#xA;o&#x9;Síť MSK umožní propojovat definované systémy prostřednictvím emulovaných okruhů sestavených nad IP infrastrukturou (CircuitEmulation)."/>

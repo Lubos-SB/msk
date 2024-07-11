@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vyhledání záznamu pacienta HC"
+    id="id-4839533e84ce49608c5d0aafcffc2acc"
+    documentation="Aplikační služba vyhledání záznamu pacienta"/>

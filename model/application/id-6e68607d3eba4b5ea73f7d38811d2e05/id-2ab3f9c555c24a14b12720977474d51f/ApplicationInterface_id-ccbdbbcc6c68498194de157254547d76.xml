@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Příjem auditní události (mimo ATNA) HC"
+    id="id-ccbdbbcc6c68498194de157254547d76"
+    documentation="Rozhraní pro příjem auditní informace mimo ATNA"/>

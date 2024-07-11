@@ -1,0 +1,14 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IS KRIZKOM_GOV"
+    id="ba8b323d">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Typ_aplikace"
+      value="Externí"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evidence profesorů a docentů_KK"
+    id="id-e94c2593829740d68eaf03ef8c1f3464"
+    documentation="Formulář eviduje v elektronické podobě údaje o vyučujících profesorech a docentech, tak jak přikazuje novela vysokoškolského zákona (§ 87).&#xD;&#xA;Formulář v devíti záložkách eviduje personální údaje o osobách, dále údaje o profesuře, habilitaci, titulech a ostatních titulech, a údaje o garantech.&#xD;&#xA;Formulář umožňuje vícenásobný záznam, a to v případě, kdy má osoba více různých oborů vzdělání, nebo titulů.&#xD;&#xA;Údaje RID (vysoká škola, fakulta) mají vazbu na konfigurační parametr (RID) ve f. Adm21 a číslo RID příslušného SO ve f. Adm23. &#xD;&#xA;"/>

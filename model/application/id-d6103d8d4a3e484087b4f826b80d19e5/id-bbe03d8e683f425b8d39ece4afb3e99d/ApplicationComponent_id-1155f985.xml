@@ -1,0 +1,17 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DCN_KU"
+    id="id-1155f985">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="KPIT000269"/>
+  <properties
+      key="Typ_aplikace"
+      value="Místní"/>
+</archimate:ApplicationComponent>

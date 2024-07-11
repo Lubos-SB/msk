@@ -1,0 +1,18 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Řízení přístupu ke komunikační infrastruktuře_KU"
+    id="id-8d3a4480"
+    documentation="Cílem je zajistit, aby přístup k síťovým zdrojům (od úložných systémů až po sofistikované služby), byl k dispozici pouze pro oprávněné uživatele v rámci fyzické sítě LAN, tak i WIFI sítě v objektu KÚ MSK. (802.1x).">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Typ_služby"
+      value="Místní"/>
+  <properties
+      key="Název_zdroje"
+      value="Projektová fiše pro velké projekty realizované v rámci programového období EU 2014-2020"/>
+  <properties
+      key="Název_projektu"
+      value="Realizace bezpečnostních opatření podle zákona o kybernetické bezpečnosti"/>
+</archimate:TechnologyService>

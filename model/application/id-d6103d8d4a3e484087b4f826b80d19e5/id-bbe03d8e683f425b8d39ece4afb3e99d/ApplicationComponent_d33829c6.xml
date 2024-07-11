@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bentley Map Select_KU"
+    id="d33829c6"
+    documentation="Těžký klient pro práci s geodaty ve formátu DGN, aplikace s funkcionalitou Microstation pro práci s geodaty, pořiízeno primárně pro potřebu územního plánování.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="368"/>
+</archimate:ApplicationComponent>

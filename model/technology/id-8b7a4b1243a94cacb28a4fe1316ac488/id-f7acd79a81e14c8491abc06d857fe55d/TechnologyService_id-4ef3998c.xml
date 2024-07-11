@@ -1,0 +1,18 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služby systému pro trvalou ochranu aplikací_KU"
+    id="id-4ef3998c"
+    documentation="Cílem systému je ochránit webové rozhraní KÚ MSK před případnými útoky a případným zneužitím pro průnik do infrastruktury KÚ MSK.">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Typ_služby"
+      value="Místní"/>
+  <properties
+      key="Název_zdroje"
+      value="Projektová fiše pro velké projekty realizované v rámci programového období EU 2014-2020"/>
+  <properties
+      key="Název_projektu"
+      value="Realizace bezpečnostních opatření podle zákona o kybernetické bezpečnosti"/>
+</archimate:TechnologyService>

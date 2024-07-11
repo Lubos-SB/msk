@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ředitel PO_KK"
+    id="id-05cee08b"
+    documentation="Ředitel PO_KK">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessActor>

@@ -1,0 +1,20 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Videokonference_KK"
+    id="id-10362d21"
+    documentation="Systém pro garantované ukládání dat ze spisových služeb úřadu, příspěvkových organizací a obcí.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="https://portal.kr-moravskoslezsky.cz/pokr/www/katalog/"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Odkaz_zdroj"
+      value="https://portal.kr-moravskoslezsky.cz/pokr/www/katalog/default/detail/46"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:ApplicationService>

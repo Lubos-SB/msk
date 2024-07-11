@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integrační platforma ESB HC"
+    id="id-bf28b45c3d9645be8a0d6acbe41d1bda"
+    documentation="Aplikační služba reprezentující Integrační platformu ESB pro řešení Hospital CLOUD (HC)"/>

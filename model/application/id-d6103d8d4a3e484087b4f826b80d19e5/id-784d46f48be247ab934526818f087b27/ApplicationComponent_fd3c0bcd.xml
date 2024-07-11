@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Správa identit_NEM"
+    id="fd3c0bcd"
+    documentation="Na úrovni MS Active Directory">
+  <properties
+      key="Datum_aktualizace"
+      value="8.10.2018"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Osoba_Správce"
+      value="Vaněk"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="NEM"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+</archimate:ApplicationComponent>

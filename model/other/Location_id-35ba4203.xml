@@ -1,0 +1,12 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Národní bod pro identifikaci a autorizaci"
+    id="id-35ba4203"
+    documentation="Národní bod pro identifikaci a autorizaci">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Analýza a návrh řešení: Správa identit korporace"/>
+</archimate:Location>

@@ -1,0 +1,24 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Webový server PACS_NEM"
+    id="id-7ca28087"
+    documentation="Provoz webového serveru zajišťujcíího funkcionalitu DICOM viewerů">
+  <properties
+      key="Datum_aktualizace"
+      value="21.7.2018"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="NEM"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KÚ"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Vaněk"/>
+  <properties
+      key="Stav"
+      value="Plánovaný"/>
+</archimate:Node>

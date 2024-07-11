@@ -1,0 +1,27 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služby Nemocničního informačního systému_NEM"
+    id="e32fd453"
+    documentation="Podpora práce lékařů a středního zdravotnického personálu prostřednictvím služeb nemocničního informačního systému vyjma práce s s obrazovou zdravotnickou dokumentací">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Datum_aktualizace"
+      value="8.10.2018"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="NEM"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KÚ"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Stav"
+      value="Aktivní"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Vaněk"/>
+</archimate:ApplicationService>

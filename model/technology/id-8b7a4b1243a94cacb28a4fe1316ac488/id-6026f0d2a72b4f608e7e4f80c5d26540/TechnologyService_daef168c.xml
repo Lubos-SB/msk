@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uživatelský mailbox_KK"
+    id="daef168c"
+    documentation="Zajišťuje dostupnost uživatelské e-mailové schránky v rámci e-mailového systému. zajišťuje ochranu minimálně na úrovni zálohy databáze e-mailových schránek.">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Název_zdroje"
+      value="Analýza a návrh řešení: Centrální e-mail korporace"/>
+</archimate:TechnologyService>

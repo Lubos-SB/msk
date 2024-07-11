@@ -1,0 +1,14 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jednotný sociální informační systém_KK"
+    id="id-402d05aa"
+    documentation="Jednotný sociální informační systém pro KK">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:ApplicationService>

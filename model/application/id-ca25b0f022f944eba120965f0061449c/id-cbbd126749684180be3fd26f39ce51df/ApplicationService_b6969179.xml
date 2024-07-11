@@ -1,0 +1,11 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identifikační a dotazovací služba NIX.ZD_GOV"
+    id="b6969179">
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Datum_aktualizace"
+      value="25.10.2018"/>
+</archimate:ApplicationService>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Individuální plánování ZDR_KK"
+    id="id-45a0bc82"
+    documentation="•&#x9;Individuální plánování:&#xD;&#xA;o&#x9;Možnost vytvoření individuálního plánu (IP) pro každého klienta.&#xD;&#xA;o&#x9;Možnost přiložení dokumentů v různých formátech a nastavení oprávnění přístupu uživatelů k jednotlivým dokumentům.&#xD;&#xA;o&#x9;Evidence individuálních plánů s možností rozpracování a stanovení kroků k jejich naplnění, evidence záznamů o realizaci cílů.&#xD;&#xA;o&#x9;Možnost vyhodnocení IP a získání přehledu o počtu splněných a nesplněných cílů z již ukončených a zrevidovaných IP.&#xD;&#xA;o&#x9;Porovnání cílů Individuálních plánů s veřejným závazkem organizace.&#xD;&#xA;o&#x9;Plánovací kalendář pro plánované a provedené výkony, přehled naplánovaných výkonů na jednotlivé dny."/>

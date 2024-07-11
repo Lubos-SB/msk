@@ -1,0 +1,14 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metodická pomoc v oblasti řídící kontroly_KK"
+    id="id-3b72276d"
+    documentation="Zajištění metodické pomoci PO v rámci oblasti řídicí kontroly a vnitřního kontrolního systému">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:BusinessService>

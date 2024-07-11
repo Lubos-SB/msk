@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portál PACS_NEM"
+    id="a3baea67-3c3f-4ee8-b362-2d6f83e7ca90"
+    documentation="Portál pro administraci a sdílení obrazové dokumentace v systému PACS">
+  <properties
+      key="Datum_aktualizace"
+      value="10.05.2018"/>
+  <properties
+      key="Datum_vzniku_entity"
+      value="n/a"/>
+  <properties
+      key="Datum_zakreslení"
+      value="10.05.2018"/>
+  <properties
+      key="Datum_zániku_entity"
+      value="n/a"/>
+  <properties
+      key="ID"
+      value="n/a"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="NEM"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Vaněk"/>
+  <properties
+      key="Stav"
+      value="Plánovaný"/>
+</archimate:ApplicationComponent>

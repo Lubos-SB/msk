@@ -1,0 +1,21 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Měřící přístroj_PP"
+    id="id-4099132d-90fb-4c6b-9893-479dbb0761fa"
+    documentation="Měřící přístroje pro telemedicínu, např.:&#xD;&#xA;•&#x9;Oxymetr – BerryMed BM2000&#xD;&#xA;•&#x9;Tlakoměr – MD2020&#xD;&#xA;•&#x9;Glukometr – Fora Diamond Mini&#xD;&#xA;•&#x9;Spirometr – SP10W&#xD;&#xA;•&#x9;EKG – Creative PC80B  &#xD;&#xA;•&#x9;Teploměr – Activ8rlives JXB-182&#xD;&#xA;•&#x9;Váha – W62">
+  <properties
+      key="Datum_zakreslení"
+      value="3.10.2018"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Plaček"/>
+</archimate:Device>

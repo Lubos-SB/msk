@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uživatel centrální správy identit HC"
+    id="id-e23998a10bd74d1fabf392498d10e190"
+    documentation="Uživatelská role pro přístup k aplikační službě Centrální správa identit v prostředí Hospital CLOUD (HC)"/>

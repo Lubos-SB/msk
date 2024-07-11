@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vnitřní správa organizace"
+    id="a136540b">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Vize navržená dodavatelem KPMG"/>
+</archimate:BusinessFunction>

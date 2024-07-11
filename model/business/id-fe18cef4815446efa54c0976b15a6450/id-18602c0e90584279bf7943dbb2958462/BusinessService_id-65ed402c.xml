@@ -1,0 +1,14 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LEO Express_KK"
+    id="id-65ed402c"
+    documentation="Zajištění zvýhodněných podmínek při nákupu jízdenek pro cestování s LEO Express">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:BusinessService>

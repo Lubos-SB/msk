@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spisová služba_KU"
+    id="d2ad7bde"
+    documentation="Zajištění provozu elektronické spisové služby a elektronické podpisové knihy (EPK).">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Výpis z katalogu služeb"/>
+  <properties
+      key="Typ_služby"
+      value="Místní"/>
+</archimate:ApplicationService>

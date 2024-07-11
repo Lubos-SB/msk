@@ -1,0 +1,11 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zajištění celodenního ubytování a stravování žákům základních škol, středních škol a studentům vyšších odborných škol"
+    id="id-1b2477b2">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Jana Trombíková"/>
+</archimate:BusinessService>

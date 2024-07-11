@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Přístup do sítě_KU"
+    id="id-47db7ee0"
+    documentation="Sprava přístupu do sítě">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Výpis z katalogu služeb"/>
+</archimate:TechnologyService>

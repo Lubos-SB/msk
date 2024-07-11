@@ -1,0 +1,31 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loadbalancer Cisco ACE_KU"
+    id="id-538ef1cb-65d3-4466-a01d-476bd795a5f6">
+  <properties
+      key="Datum_aktualizace"
+      value="20.4.2018"/>
+  <properties
+      key="Datum_vzniku_entity"/>
+  <properties
+      key="Datum_zakreslení"
+      value="20.4.2018"/>
+  <properties
+      key="Datum_zániku_entity"/>
+  <properties
+      key="ID"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Osoba_Autor"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Petr Čáp"/>
+  <properties
+      key="Stav"
+      value="Aktivní"/>
+</archimate:Device>

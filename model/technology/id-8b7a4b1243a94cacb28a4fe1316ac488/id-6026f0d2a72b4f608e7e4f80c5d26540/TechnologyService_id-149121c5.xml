@@ -1,0 +1,9 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bezpečnost ICT_KK"
+    id="id-149121c5"
+    documentation="Služby bezpečnosti:&#xD;&#xA; - Antivir (nody, servery, e-mail, centrální správa ESET)&#xD;&#xA; - Patche (WSUS)&#xD;&#xA; - Update programů&#xD;&#xA; - Firewall&#xD;&#xA; - IPS, IDS, signatury&#xD;&#xA; - Systém řízení bezpečnosti informací&#xD;&#xA; - Řízení rizik&#xD;&#xA; -Dohled bezpečnosti&#xD;&#xA; - Prevence ztráty dat&#xD;&#xA; - Bezpečnostní politika, řízení rizik, bezpečnostní směrnice, školení&#xD;&#xA;&#xD;&#xA;Plánuje se rozšíření o bezpečnostních opatření podle zákona o kybernetické bezpečnosti">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:TechnologyService>

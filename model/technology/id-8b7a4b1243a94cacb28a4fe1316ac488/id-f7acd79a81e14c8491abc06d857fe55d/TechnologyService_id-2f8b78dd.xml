@@ -1,0 +1,8 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Databáze - TWIST_KU"
+    id="id-2f8b78dd">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:TechnologyService>

@@ -1,0 +1,23 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jednotný školský informační systém_KK"
+    id="id-6a004b86"
+    documentation="Sjednocení technické platformy školských informačních systémů, mezi jejichž základní funkcionality patří elektronické vedení třídních knih, školních matrik, evidence žáků, agenda přijímacích řízení a maturitních zkoušek, evidence prospěchu, výuky a rozvrhů. / Mezi funkcionality JŠ IS je elektronické vedení třídních knih, školních matrik, evidence žáků, agenda přijímacích řízení a maturitních zkoušek, evidence prospěchu, výuky a rozvrhů.">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Název_zdroje"
+      value="Odvětvové strategické záměry"/>
+  <properties
+      key="Název_zdroje"
+      value="MSK koncepce ICT služeb"/>
+  <properties
+      key="Název_zdroje"
+      value="Vstupní analýza zavedení jednotného personálního a mzdového systému"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:ApplicationService>

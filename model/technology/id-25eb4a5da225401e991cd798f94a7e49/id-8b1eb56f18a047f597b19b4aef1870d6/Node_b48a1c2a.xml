@@ -1,0 +1,17 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSB_KU"
+    id="b48a1c2a">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="2016"/>
+  <properties
+      key="Datum_zániku_entity"
+      value="2017"/>
+</archimate:Node>

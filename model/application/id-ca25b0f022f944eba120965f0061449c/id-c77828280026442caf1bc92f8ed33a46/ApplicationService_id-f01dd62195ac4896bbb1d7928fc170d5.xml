@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služba přístupu na kartu pacienta HC"
+    id="id-f01dd62195ac4896bbb1d7928fc170d5"
+    documentation="Přístup na kartu pacienta"/>

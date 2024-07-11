@@ -1,0 +1,11 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služba zajišťování podpory hlavní funkcionality_KU"
+    id="id-20d9512b">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Procesní mapa KU"/>
+</archimate:BusinessService>

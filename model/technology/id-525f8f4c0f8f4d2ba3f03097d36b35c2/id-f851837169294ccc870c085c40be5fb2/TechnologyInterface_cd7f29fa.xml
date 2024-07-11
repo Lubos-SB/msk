@@ -1,0 +1,11 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rozhraní na integrované systémy"
+    id="cd7f29fa">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Analýza a návrh řešení: Správa identit korporace"/>
+</archimate:TechnologyInterface>

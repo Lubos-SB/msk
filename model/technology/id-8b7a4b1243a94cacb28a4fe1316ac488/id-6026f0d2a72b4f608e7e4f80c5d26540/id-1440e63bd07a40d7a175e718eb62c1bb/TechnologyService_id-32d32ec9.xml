@@ -1,0 +1,11 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služby místní komunikační infrastruktury"
+    id="id-32d32ec9">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Vize navržená dodavatelem KPMG"/>
+</archimate:TechnologyService>

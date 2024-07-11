@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portál FS_GOV"
+    id="id-54d4f4cea7c644308733265dc7947a90"
+    documentation="- daně:&#xD;&#xA;&#x9;&#x9;Dan09 XML export Vyúčtování DPFO&#xD;&#xA;&#x9;&#x9;Dan10 - oznámení plátce daně o dani z příjmů vybírané srážkou&#xD;&#xA;&#x9;&#x9;Dan20 – vyúčtování daně vybírané srážkou – XML včetně příloh&#xD;&#xA;&#xD;&#xA;Ruční nahrání xml souboru na portál."/>

@@ -1,0 +1,17 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EMC Networker_KU"
+    id="id-0e7ff596">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="304"/>
+  <properties
+      key="Název_zdroje"
+      value="ANALÝZA A NÁVRH ŘEŠENÍ: ZÁLOHOVÁNÍ DAT KORPORACE"/>
+</archimate:SystemSoftware>

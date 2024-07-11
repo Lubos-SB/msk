@@ -1,0 +1,27 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Centrální e-mail korporace_KU"
+    id="id-0cd3c349"
+    documentation="Cílem je sjednocení e-mailových služeb pro zřizované organizace MSK, jednotná jmenná konvence pro e-mailové schránky.">
+  <properties
+      key="Datum_vzniku"
+      value="2017"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Datum_aktualizace"
+      value="14.4.2019"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="MSK"/>
+  <properties
+      key="Organizace_Spravce"
+      value="Petr Čáp"/>
+  <properties
+      key="Osoba_Autor"
+      value="Tomáš Kejha"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Petr Čáp"/>
+</archimate:ApplicationService>

@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hlavní funkce_KU"
+    id="d06faef2">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Procesní mapa KU"/>
+</archimate:BusinessFunction>

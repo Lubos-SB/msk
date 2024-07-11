@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IS MEDIX_P005"
+    id="id-3c2c3726"
+    documentation="Aplikace IS MEDIX v prostředí NEM">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:ApplicationComponent>

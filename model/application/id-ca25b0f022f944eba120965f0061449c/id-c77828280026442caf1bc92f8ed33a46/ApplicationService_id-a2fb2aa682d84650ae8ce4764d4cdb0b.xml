@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Multitenantní NIS HC"
+    id="id-a2fb2aa682d84650ae8ce4764d4cdb0b"
+    documentation="Aplikační služba multitenantního NIS pro řešení Hospital CLOUD (HC)"/>

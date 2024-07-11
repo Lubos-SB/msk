@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Přehled zmocnění a pověření zaměstnanců_KU"
+    id="id-46eff087"
+    documentation="Přehled druhů zmocnění a pověření zaměstnanců (vč. rozdělení na ty s centrální evidencí či evidencí na odborech).">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Odkaz_zdroj"
+      value="155"/>
+</archimate:ApplicationComponent>

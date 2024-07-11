@@ -1,0 +1,20 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Server - VM -BS9_KU"
+    id="id-273b261d-856b-4be3-af1e-faf5ec2912b3">
+  <properties
+      key="Datum_aktualizace"
+      value="20.3.2019"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Osoba_Autor"
+      value="Tomáš Kejha"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Petr Čáp"/>
+</archimate:Device>

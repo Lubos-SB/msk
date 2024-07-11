@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kultura"
+    id="da36e9e6">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessRole>

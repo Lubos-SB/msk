@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poskytování sociálních služeb_P006"
+    id="id-7e4d0c7a"
+    documentation="Poskytování sociálních služeb podle zákona č. 108/2006 Sb., o sociálních službách, ve znění pozdějších předpisů, v souladu s rozhodnutím o registraci,">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/303/2003"/>
+</archimate:BusinessFunction>

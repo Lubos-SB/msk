@@ -1,0 +1,13 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mapové aplikace Geocortex_KU"
+    id="c17bfe29"
+    documentation="Jedná se o soubor (cca 30) mapových aplikací postavených na frameworku Geocortex Essentials, do budoucna se předpokládá, že si vytvoříme vlastní podrobnější pohled na strukturu.">
+  <properties
+      key="Kód_CMDB"/>
+  <properties
+      key="Název_zdroje"/>
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:ApplicationComponent>

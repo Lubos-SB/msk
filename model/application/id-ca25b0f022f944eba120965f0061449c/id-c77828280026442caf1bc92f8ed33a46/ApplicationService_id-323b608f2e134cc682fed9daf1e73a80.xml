@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zdravotní informační portál MSK (služby eHealth) HC"
+    id="id-323b608f2e134cc682fed9daf1e73a80"
+    documentation="Aplikační služba reprezentující Zdravotní informační portál MSK pro řešení Hospital CLOUD (HC). Skládá se z aplikací:&#xD;&#xA;-&#x9;Portálu pacienta&#xD;&#xA;-&#x9;Klinického portálu&#xD;&#xA;-&#x9;Virtuální kliniky&#xD;&#xA;-&#x9;eshop (lékárna, zdravotnické potřeby, zdravotnický materiál).&#xD;&#xA;"/>

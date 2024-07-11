@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stravovací systém HC"
+    id="id-c9a199032b1d4863b9d39a4f38f0cd86"
+    documentation="Aplikace Stravovací systém pro multitenantní NIS (jedná se o novou aplikaci v prostředí HC)"/>

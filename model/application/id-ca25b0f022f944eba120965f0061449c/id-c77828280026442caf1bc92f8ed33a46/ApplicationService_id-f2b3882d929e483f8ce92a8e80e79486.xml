@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Filtrování údajů HC"
+    id="id-f2b3882d929e483f8ce92a8e80e79486"
+    documentation="Služba filtrování údajů o pacientech v rámci klinického portálu"/>

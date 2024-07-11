@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Přihlášení k akcím_KK"
+    id="f99291e4"
+    documentation="Přihlašování k akcím prostřednictvím web rozhraní (nejlépe s následnou blokaci v aplikaci MS Outlook uživatelů)"/>

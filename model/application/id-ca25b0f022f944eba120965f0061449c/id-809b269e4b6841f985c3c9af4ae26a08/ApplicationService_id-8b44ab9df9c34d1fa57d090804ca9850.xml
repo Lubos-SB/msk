@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Import do mezd_KK"
+    id="id-8b44ab9df9c34d1fa57d090804ca9850"
+    documentation="Služba, která zajistí import dodaných souborů do výpočtu mezd pro dané období&#xD;&#xA;"/>

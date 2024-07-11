@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitalizace vlastního knihovního fondu i jiných institucí_P009"
+    id="f0be65a9"
+    documentation="Digitalizuje knihovní fond Moravskoslezské vědecké knihovny v Ostravě, příspěvkové organizace a regionální dokumenty dalších institucí.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/071/2001"/>
+</archimate:BusinessFunction>

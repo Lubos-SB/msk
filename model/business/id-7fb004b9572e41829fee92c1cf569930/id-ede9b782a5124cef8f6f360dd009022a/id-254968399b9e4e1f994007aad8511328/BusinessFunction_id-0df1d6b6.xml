@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spolupráce s odbornými institucemi_P009"
+    id="id-0df1d6b6"
+    documentation="Spolupracuje s Národní knihovnou ČR, vědeckými knihovnami krajů, ústředními oborovými knihovnami při zpracování národní bibliografie, účastní se tvorby souborného katalogu a dalších kooperačních aktivit mezi informačními institucemi">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/071/2001"/>
+</archimate:BusinessFunction>

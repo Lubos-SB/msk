@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mimoškolní informační příprava uživatelů_P009"
+    id="id-39d0e58b"
+    documentation="Zabezpečuje ve vztahu k informačnímu fondu a knihovním službám mimoškolní informační přípravu uživatelů.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/071/2001"/>
+</archimate:BusinessFunction>

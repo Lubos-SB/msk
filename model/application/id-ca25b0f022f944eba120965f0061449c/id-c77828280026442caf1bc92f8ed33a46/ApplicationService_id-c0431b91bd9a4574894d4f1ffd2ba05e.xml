@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služba Auditní logování HC"
+    id="id-c0431b91bd9a4574894d4f1ffd2ba05e"
+    documentation="Aplikační služba centrálního logování přístupů ke zdravotnické dokumentaci."/>

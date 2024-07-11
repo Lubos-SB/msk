@@ -1,0 +1,35 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provozní manažerský informační systém (MIS)_KK"
+    id="d7f62e3a"
+    documentation="Služba pro analýzu dat a kontroling">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="https://portal.kr-moravskoslezsky.cz/pokr/www/katalog/"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Odkaz_zdroj"
+      value="https://portal.kr-moravskoslezsky.cz/pokr/www/katalog/default/detail/37"/>
+  <properties
+      key="Katalog_služeb"/>
+  <properties
+      key="Datum_aktualizace"
+      value="8.10.2018"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Plaček"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+</archimate:ApplicationService>

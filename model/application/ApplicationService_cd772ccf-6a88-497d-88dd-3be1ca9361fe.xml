@@ -1,0 +1,20 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Centrálník číselník zdravotnických přístrojů_KU"
+    id="cd772ccf-6a88-497d-88dd-3be1ca9361fe">
+  <properties
+      key="Osoba_Vlastník"
+      value="Plaček"/>
+  <properties
+      key="Datum_aktualizace"
+      value="25.10.2018"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="NEM"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+</archimate:ApplicationService>

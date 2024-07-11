@@ -1,0 +1,20 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="mmapi01_KU"
+    id="id-5d59e26a-422e-4592-9b45-2a6f5c1bfc72">
+  <properties
+      key="Osoba_Vlastník"
+      value="Plaček"/>
+  <properties
+      key="Datum_aktualizace"
+      value="25.10.2018"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+</archimate:Node>

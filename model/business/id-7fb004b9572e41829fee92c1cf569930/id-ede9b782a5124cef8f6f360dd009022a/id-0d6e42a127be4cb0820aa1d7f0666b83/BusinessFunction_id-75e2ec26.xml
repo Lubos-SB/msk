@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zajištění povolení na umístění a realizaci staveb silnic_P010"
+    id="id-75e2ec26"
+    documentation="Jednání jménem zřizovatele při jednání s orgány státní správy, samosprávy, správci inženýrských sítí, správci komunikací, účastníky řízení a dalšími subjekty ve smyslu stavebního zákona a souvisejících předpisů s cílem zajištění příslušných povolení na umístění a realizaci staveb silnic II. a III. třídy.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessFunction>

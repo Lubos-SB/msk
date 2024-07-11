@@ -1,0 +1,19 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workflow pro radu a zastupitelstvo kraje_KK"
+    id="b96a438b">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="https://portal.kr-moravskoslezsky.cz/pokr/www/katalog/"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Název_zdroje"
+      value="https://portal.kr-moravskoslezsky.cz/pokr/www/katalog/default/detail/55"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:ApplicationService>

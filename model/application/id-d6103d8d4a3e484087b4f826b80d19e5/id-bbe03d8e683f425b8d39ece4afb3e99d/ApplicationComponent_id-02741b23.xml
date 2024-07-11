@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IOS Manager_KU"
+    id="id-02741b23">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Kód_CMDB"/>
+  <properties
+      key="Název_zdroje"/>
+</archimate:ApplicationComponent>

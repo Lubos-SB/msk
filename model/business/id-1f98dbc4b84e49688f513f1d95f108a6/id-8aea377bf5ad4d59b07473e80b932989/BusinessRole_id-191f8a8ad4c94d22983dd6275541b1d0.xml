@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uživatel Komplementu centrální vrstvy HC"
+    id="id-191f8a8ad4c94d22983dd6275541b1d0"
+    documentation="Uživatelská role pro přístup k aplikační službě Komplementu centrální vrstvy v prostředí Hospital CLOUD (HC)"/>

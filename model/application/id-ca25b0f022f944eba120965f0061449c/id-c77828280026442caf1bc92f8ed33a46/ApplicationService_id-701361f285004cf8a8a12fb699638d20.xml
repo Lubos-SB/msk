@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rezervace termínu HC"
+    id="id-701361f285004cf8a8a12fb699638d20"
+    documentation="Služba rezervace termínu návštěvy pacienta ve zdravotnickém zařízení"/>

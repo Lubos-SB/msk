@@ -1,0 +1,17 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VEMA_P006"
+    id="dd2cf495">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Dotazník 2014"/>
+  <properties
+      key="Sheet"
+      value="G4-G10"/>
+  <properties
+      key="Datum_terminace"
+      value="2020"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SMS brána MSK_KU"
+    id="id-d68c3359044447aaa30e882bb7b52b82"
+    documentation="Rozhraní na SMS brána MSK (Vodafone)."/>

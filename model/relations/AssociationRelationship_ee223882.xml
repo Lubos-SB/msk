@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="využívá"
+    id="ee223882">
+  <source
+      xsi:type="archimate:Path"
+      href="Path_id-520a2997.xml#id-520a2997"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7e72782f.xml#id-7e72782f"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,20 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Systém pro výměnu informací v rámci mezinárodní sítě zdravotnických zařízení_GOV"
+    id="id-4dbbaa6f"
+    documentation="Komunikační služby zajišťující zabezpečenou výměnu informací předávaných mezi zdravotnickými zařízeními a zdravotnickou záchrannou službou.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="https://portal.kr-moravskoslezsky.cz/pokr/www/katalog/"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Odkaz_zdroj"
+      value="https://portal.kr-moravskoslezsky.cz/pokr/www/katalog/default/detail/47"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:ApplicationService>

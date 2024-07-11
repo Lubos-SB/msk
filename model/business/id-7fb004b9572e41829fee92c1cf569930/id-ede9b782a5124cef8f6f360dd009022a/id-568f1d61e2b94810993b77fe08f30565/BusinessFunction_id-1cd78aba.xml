@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poskytování poradenství školám a školským zařízením_P002"
+    id="id-1cd78aba"
+    documentation="Poskytování poradenství školám a školským zařízením v otázkách metodiky a řízení škol a školských zařízení">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/175/2001"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Běžecké magistrály_KU"
+    id="id-74c48abe">
+  <properties
+      key="Název_zdroje"/>
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Kód_CMDB"/>
+</archimate:ApplicationComponent>

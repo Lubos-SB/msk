@@ -1,0 +1,14 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služba webové prezentace školy_P003"
+    id="ccb8f13d">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Dotazník 2014"/>
+  <properties
+      key="Sheet"
+      value="G2"/>
+</archimate:ApplicationService>

@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uživatel služby Multitenantní NIS HC"
+    id="id-cad9c94391f4451f8cf96fbce6d8dd8c"
+    documentation="Uživatelská role pro přístup k aplikační službě Multitenantní NIS v prostředí Hospital CLOUD (HC)"/>

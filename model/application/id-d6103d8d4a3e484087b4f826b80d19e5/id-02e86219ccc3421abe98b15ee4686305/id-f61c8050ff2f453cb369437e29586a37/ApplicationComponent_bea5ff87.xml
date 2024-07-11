@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ENVIS LIMS_P005"
+    id="bea5ff87"
+    documentation="Aplikace laboratorního informačního systému (LIS) v prostředí NEM">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iUsnesení_KU"
+    id="id-2bb0af70"
+    documentation="Systém pro zpracování a elektronický oběh materiálů pro radu a zastupitelstvo kraje.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="KPIT000268"/>
+</archimate:ApplicationComponent>

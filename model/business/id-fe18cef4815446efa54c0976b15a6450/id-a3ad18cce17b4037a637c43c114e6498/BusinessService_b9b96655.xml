@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služby související s vymáháním pohledávek_KU"
+    id="b9b96655">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessService>

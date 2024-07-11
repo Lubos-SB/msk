@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služby plánu obnovy a havarijní postupy (BCP/DRP)_KU"
+    id="id-00c6f21f"
+    documentation="Cílem je zpracovat odpovídající plány obnovy a havarijní postupy a tím zajistit fungování KÚ MSK v případě neočekáváné kritické události.">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Typ_služby"
+      value="Místní"/>
+  <properties
+      key="Název_zdroje"
+      value="Projektová fiše pro velké projekty realizované v rámci programového období EU 2014-2020"/>
+</archimate:BusinessService>

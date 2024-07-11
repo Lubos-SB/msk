@@ -1,0 +1,125 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SEG BSL2020 BA KK Portfolio sluzeb L0"
+    id="id-92bb4131"
+    viewpoint="layered">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="e5e1c78b"
+      name="Portfolio business služeb"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffd0">
+    <bounds
+        x="57"
+        y="144"
+        width="760"
+        height="121"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-66479344"
+      name="Portfolio aplikačních služeb"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ddffff">
+    <bounds
+        x="57"
+        y="281"
+        width="760"
+        height="248"/>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="dd46bd2c"
+        name="Sdílené aplikační služby"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ddffff">
+      <bounds
+          x="24"
+          y="24"
+          width="361"
+          height="157"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-1d7f3e14"
+        name="Místní aplikační služby"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ddffff">
+      <bounds
+          x="384"
+          y="24"
+          width="361"
+          height="157"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5fd16154"
+      font="1|Arial Narrow|22.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Arial Narrow"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Portfolio služeb">
+    <bounds
+        x="204"
+        width="613"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="be3443a9"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffff00"
+      content="Finální draft.&#xD;&#xA;datum">
+    <bounds
+        x="57"
+        width="133"
+        height="80"/>
+  </children>
+  <properties
+      key="Organizace_Provozovatel"/>
+  <properties
+      key="Datum_aktualizace"/>
+  <properties
+      key="Datum_vzniku_entity"/>
+  <properties
+      key="Datum_zakreslení"/>
+  <properties
+      key="Datum_zániku_entity"/>
+  <properties
+      key="ID"/>
+  <properties
+      key="Organizace_Popisovana"/>
+  <properties
+      key="Organizace_Spravce"/>
+  <properties
+      key="Osoba_Autor"/>
+  <properties
+      key="Osoba_Garant"/>
+  <properties
+      key="Stav_zpracovani"/>
+  <properties
+      key="Osoba_Vlastník"/>
+  <properties
+      key="Osoba_Správce"/>
+  <properties
+      key="Míra_detailu"/>
+  <properties
+      key="Stav"/>
+</archimate:ArchimateDiagramModel>

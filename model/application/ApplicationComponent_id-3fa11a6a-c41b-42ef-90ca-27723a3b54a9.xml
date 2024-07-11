@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ESB pro komunikaci PACS_NEM"
+    id="id-3fa11a6a-c41b-42ef-90ca-27723a3b54a9">
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Vaněk"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="NEM"/>
+  <properties
+      key="Datum_aktualizace"
+      value="25.10.2018"/>
+</archimate:ApplicationComponent>

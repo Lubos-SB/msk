@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provádění konverzí_KU"
+    id="ff82208e"
+    documentation="Provádění konverze ve spolupráci s GINIS SSL">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:ApplicationService>

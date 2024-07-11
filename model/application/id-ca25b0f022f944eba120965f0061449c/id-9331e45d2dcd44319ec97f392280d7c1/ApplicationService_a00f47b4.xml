@@ -1,0 +1,11 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Správa navigačních panelů_KU"
+    id="a00f47b4">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Typ_služby"
+      value="Místní"/>
+</archimate:ApplicationService>

@@ -1,0 +1,14 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RPG Byty_KK"
+    id="id-00e820ee"
+    documentation="Zajištění zvýhodněných podmínek při pronájmu bytů zaměstnancům Krajského úřadu Moravskoslezského kraje">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:BusinessService>

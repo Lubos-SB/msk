@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workflow_KK"
+    id="id-78135934"
+    documentation="Přihlašování zaměstnanců na VA se schvalováním&#xD;&#xA;schvalování dovolené&#xD;&#xA;schvalování navýšení (ponížení) mzdy&#xD;&#xA;schvalování odměn &#xD;&#xA;chvalování příkazu ke služební cestě, schvalování průběhu cesty&#xD;&#xA;"/>

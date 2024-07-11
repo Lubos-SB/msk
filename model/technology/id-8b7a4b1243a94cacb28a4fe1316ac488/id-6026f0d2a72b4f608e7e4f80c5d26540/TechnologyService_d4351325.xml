@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SMTP Komunikace_KK"
+    id="d4351325"
+    documentation="Zajišťuje distribuci přijaté a odchozí e-mailové pošty mezi interními servery a e-mailovými servery mimo korporaci.">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Název_zdroje"
+      value="Analýza a návrh řešení: Centrální e-mail korporace"/>
+</archimate:TechnologyService>

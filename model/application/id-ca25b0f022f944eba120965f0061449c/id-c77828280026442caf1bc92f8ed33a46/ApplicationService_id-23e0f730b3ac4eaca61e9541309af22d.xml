@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poskytnutí položky číselníku dle kódu HC"
+    id="id-23e0f730b3ac4eaca61e9541309af22d"
+    documentation="Služba pro poskytnutí položky číselníku dle kódu číselníku"/>

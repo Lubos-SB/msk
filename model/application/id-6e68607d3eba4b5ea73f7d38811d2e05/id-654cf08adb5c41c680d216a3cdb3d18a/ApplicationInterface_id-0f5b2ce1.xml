@@ -1,0 +1,24 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NIS konektor systému PACS_NEM"
+    id="id-0f5b2ce1"
+    documentation="Rozhraní mezi nemocničním informačním systémem a systémem PACS, které slouží především pro přenos žádanek na RDG vyšetření a zobrazování náhledú obrazové zdravotnické dokumentace.">
+  <properties
+      key="Datum_aktualizace"
+      value="21.7.2018"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="NEM"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KÚ"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Stav"
+      value="Aktivní"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Vaněk"/>
+</archimate:ApplicationInterface>

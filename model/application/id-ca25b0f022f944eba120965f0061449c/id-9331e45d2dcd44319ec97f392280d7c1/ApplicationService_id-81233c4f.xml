@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elektronická komunikace_KU"
+    id="id-81233c4f"
+    documentation="Nástroj pro elektronickou komunikaci s orgány státní správy a vybranými institucemi">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:ApplicationService>

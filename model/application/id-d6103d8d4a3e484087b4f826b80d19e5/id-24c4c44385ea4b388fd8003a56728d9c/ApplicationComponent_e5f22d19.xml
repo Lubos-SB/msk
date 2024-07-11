@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vyúčtování služeb a depozita_KK"
+    id="e5f22d19"
+    documentation="Umožní vyúčtování předpisů, plateb klientů a smluvních plátců včetně tvorby souhrnného vyúčtování pro klienta i podkladů pro ekonomický úsek. Nástroj umožní rozdělit předpisy na jednotlivé účely, evidovat historii a strukturu nedoplatků i přeplatků."/>

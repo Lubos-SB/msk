@@ -1,0 +1,12 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evidence obyvatel (AISEO)_GOV"
+    id="id-83cd83c1"
+    documentation="Agendový informační systém evidence obyvatel. Více viz zde: http://www.szrcr.cz/registr-obyvatel/agendove-systemy">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+</archimate:ApplicationService>

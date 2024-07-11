@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služby ekonomiky_PO"
+    id="id-3746fd0c"
+    documentation="Služby personalistiky jednotlivých PO bez návazností pokud existují">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessService>

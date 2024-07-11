@@ -1,0 +1,11 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mobilní služba pro zařízení BlackBerry"
+    id="eb4c4222">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Požadavek na doplnění pan Vašica"/>
+</archimate:SystemSoftware>

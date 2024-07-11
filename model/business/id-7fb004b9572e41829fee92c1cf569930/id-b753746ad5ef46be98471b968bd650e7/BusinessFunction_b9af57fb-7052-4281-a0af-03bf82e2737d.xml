@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Podpůrné procesy_NEM"
+    id="b9af57fb-7052-4281-a0af-03bf82e2737d"
+    documentation="Podpůrné procesy_NEM">
+  <properties
+      key="Datum_aktualizace"
+      value="25.10.2018"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Šrubařová"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="NEM"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+</archimate:BusinessFunction>

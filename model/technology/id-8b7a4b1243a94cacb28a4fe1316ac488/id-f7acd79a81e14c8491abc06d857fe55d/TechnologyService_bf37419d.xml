@@ -1,0 +1,9 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Místní technologické služby_KU"
+    id="bf37419d"
+    documentation="Aplikační služba reprezentující Místní technologocké služby v prostředí krajské korporace KK">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:TechnologyService>

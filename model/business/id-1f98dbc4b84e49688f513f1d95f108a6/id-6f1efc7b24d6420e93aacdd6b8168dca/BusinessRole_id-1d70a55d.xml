@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Školská zařízení"
+    id="id-1d70a55d"
+    documentation="Školská zařízení  - PPP, DD, SVČ, ŠStatek, ŠJ, DM, KVIC">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Jana Trombíková"/>
+</archimate:BusinessRole>

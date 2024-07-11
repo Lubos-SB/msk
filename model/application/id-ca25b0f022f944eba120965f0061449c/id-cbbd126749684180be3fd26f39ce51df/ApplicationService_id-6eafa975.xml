@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informační systém o platech MFČR_GOV"
+    id="id-6eafa975"
+    documentation="Informační systém o platech (ISP) podle zákona č. 262/2006 Sb., zákoník práce">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:ApplicationService>

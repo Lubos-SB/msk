@@ -1,0 +1,20 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zařízení pro zálohování a obnovu_KK"
+    id="b50d5673-ed68-4846-aada-96fe5af888c8">
+  <properties
+      key="Datum_aktualizace"
+      value="20.3.2019"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Osoba_Autor"
+      value="Tomáš Kejha"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Petr Čáp"/>
+</archimate:Node>

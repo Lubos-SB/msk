@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EZ Proxy_P009"
+    id="id-802a97da"
+    documentation="Přístup k elektronickým on-line zdrojům&#xD;&#xA;http://www.multidata.cz/produkty/ezproxy">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Ing. Lea Prchalová, ředitelka"/>
+</archimate:ApplicationComponent>

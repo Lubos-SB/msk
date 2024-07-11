@@ -1,0 +1,12 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poskytování OpenDat_KU"
+    id="id-412d1c0a"
+    documentation="Uloženo na webové prezentaci kraje, katalogizují se v nár. katalogu služeb.">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Název_zdroje"
+      value="Krajský architektonický model eGovernmentu"/>
+</archimate:ApplicationService>

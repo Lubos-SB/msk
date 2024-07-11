@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provozování sportovních zařízení_P003"
+    id="id-2e12b183"
+    documentation="Provozování tělovýchovných a sportovních zařízení a organizování sportovní činnosti.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/020/2001"/>
+</archimate:BusinessFunction>

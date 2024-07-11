@@ -1,0 +1,18 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autentizace lékaře na Portálu telemedicíny_KU"
+    id="id-6446b805-0bf6-4b39-929a-8edc74d2a8fd"
+    documentation="SLužba pro autentizaci léakřů na portále je realizována prostřednictvím autentizace NIS">
+  <properties
+      key="Datum_zakreslení"
+      value="1.10.2018"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+</archimate:ApplicationService>

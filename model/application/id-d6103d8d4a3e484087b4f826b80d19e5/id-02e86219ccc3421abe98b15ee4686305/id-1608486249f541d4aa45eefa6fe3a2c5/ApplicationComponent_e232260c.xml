@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procyon_P009"
+    id="e232260c"
+    documentation="Aplikace pro digitalizaci, zpracování a tvorbu metadat&#xD;&#xA;http://www.exon.cz/produkty/software-pro-digitalizaci">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Ing. Lea Prchalová, ředitelka"/>
+</archimate:ApplicationComponent>

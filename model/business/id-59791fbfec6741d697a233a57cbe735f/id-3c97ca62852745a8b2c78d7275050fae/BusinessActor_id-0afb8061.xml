@@ -1,0 +1,21 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pacient HC"
+    id="id-0afb8061"
+    documentation="Uživatel - Pacient v prostředí Hospital CLOUD (HC)">
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KK"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Šrubařová"/>
+  <properties
+      key="Datum_aktualizace"
+      value="25.10.2018"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+</archimate:BusinessActor>

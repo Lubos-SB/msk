@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rozhraní pro ZD (non IHE) HC"
+    id="id-e67230d4f84043e388d56f448eaa0b1f"
+    documentation="Rozhraní pro přístup k zdravotnícké dokumentaci - mimo IHE"/>

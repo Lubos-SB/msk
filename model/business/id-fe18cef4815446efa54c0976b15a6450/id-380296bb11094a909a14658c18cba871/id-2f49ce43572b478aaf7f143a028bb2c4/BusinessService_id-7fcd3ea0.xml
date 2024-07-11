@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vydávání stanovisek_P010"
+    id="id-7fcd3ea0">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessService>

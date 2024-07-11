@@ -1,0 +1,11 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reverzní proxy pro webové služby a aplikace ze serverů VGIS a VGCE"
+    id="f5f486ff">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Požadavek na doplnění pan Vašica"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portál ČSSZ_GOV"
+    id="id-444f1769f7ca4ce4a85b6b7da15f3a3b"
+    documentation="- ČSSZ:&#xD;&#xA;&#x9;&#x9;Poj06a - Přehled o výši pojistného na sociální zabezpečení – XML export pro e-podání PVPOJ&#xD;&#xA;&#x9;&#x9;Poj59 - hlášení na ČSSZ pro OZUSPOJ - XML souboru &#xD;&#xA;&#x9;&#x9;Poj14 ELDP&#xD;&#xA;&#x9;&#x9;Poj19 Seznam ONZ&#xD;&#xA;&#x9;&#x9;Poj43a - export příloh pro NEMPRI&#xD;&#xA;&#x9;&#x9;Poj56 - export HOZ do souboru&#xD;&#xA;&#x9;&#x9;Poj53a - export HZUPN&#xD;&#xA;&#xD;&#xA;Ruční nahrávání xml souborů na portál."/>

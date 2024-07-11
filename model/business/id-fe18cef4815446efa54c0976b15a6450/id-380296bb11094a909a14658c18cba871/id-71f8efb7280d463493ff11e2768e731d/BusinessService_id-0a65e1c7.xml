@@ -1,0 +1,11 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služba uskutečňování vzdělávání a výchovy žáků podle vzdělávacích programů_P003"
+    id="id-0a65e1c7">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/020/2001"/>
+</archimate:BusinessService>

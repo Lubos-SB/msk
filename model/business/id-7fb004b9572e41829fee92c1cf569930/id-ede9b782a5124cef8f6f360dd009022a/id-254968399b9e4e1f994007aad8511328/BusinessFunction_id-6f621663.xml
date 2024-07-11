@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vydávání a prodej publikací_P009"
+    id="id-6f621663"
+    documentation="Vydává a prodává publikace sloužící ke vzdělávání knihovníků a k účelům ochrany kulturního dědictví. Poskytuje související služby typu: pořizování kopií dokumentů, laminování, kompletaci a opravy dokumentů.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/071/2001"/>
+</archimate:BusinessFunction>

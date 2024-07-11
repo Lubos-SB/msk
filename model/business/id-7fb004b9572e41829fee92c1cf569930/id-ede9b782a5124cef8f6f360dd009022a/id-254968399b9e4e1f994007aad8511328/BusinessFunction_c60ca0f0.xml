@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regionální bibliografie_P009"
+    id="c60ca0f0"
+    documentation="Je garantem regionální bibliografie v Moravskoslezském kraji včetně budování databáze regionálních osobností.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/071/2001"/>
+</archimate:BusinessFunction>

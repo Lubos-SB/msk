@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pojištění_KK"
+    id="id-f537b6bdde0c431baec3877789e71bda"
+    documentation="Okruh řešení pojištění pracuje se všemi pojištěními, která jsou podle příslušné legislativy. V české prostředí se tedy jedná o &#xD;&#xA;-&#x9;nemocenské pojištění,&#xD;&#xA;-&#x9;sociální zabezpečení,&#xD;&#xA;-&#x9;zdravotní pojištění,&#xD;&#xA;-&#x9;zákonné pojištění odpovědnosti organizace.&#xD;&#xA;Jedná se tedy o rozsáhlý komplex, který obsahuje řadu evidovaných dat, výpočtů, procesů, sestav a exportů."/>

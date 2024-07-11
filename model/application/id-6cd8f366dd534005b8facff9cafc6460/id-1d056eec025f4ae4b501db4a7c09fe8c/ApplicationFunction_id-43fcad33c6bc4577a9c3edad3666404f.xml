@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hodnocení zaměstnanců_KK"
+    id="id-43fcad33c6bc4577a9c3edad3666404f"
+    documentation="Hodnocení umožňuje jednoduchým způsobem provádět a evidovat hodnocení pracovního výkonu, resp. splnění zadaných pracovních úkolů.&#xD;&#xA;Hodnocení pracovního výkonu je prezentováno obecně jako „hodnocení osoby“ a jeho strukturu a šíři lze vymezit v číselníku, ve kterém se definují otázky.&#xD;&#xA;Hodnocení pracovních úkolů se týká vždy aktuálního zadání, proto zde chybí číselník pro definici otázek. &#xD;&#xA;&#xD;&#xA;Tvorba vlastních hodnotících formulářů, které se přiřadí vybraným zaměstnancům. Následně lze, aby byl zaměstnanec hodnocen svým nadřízeným či referentem, případně se může podílet na sebehodnocení pomocí HR portálu."/>

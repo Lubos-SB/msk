@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Export podkladů do mezd_KK"
+    id="id-aab71df51b91470d903c6eed8a5f0ad7"
+    documentation="Tvorba podkladů do mezd ve formátu souboru csv nebo xls(x): &#xD;&#xA;- Vst06 – Import SLM &#xD;&#xA;- Vst11 – Kontrola a import dalších vstupů  &#xD;&#xA;"/>

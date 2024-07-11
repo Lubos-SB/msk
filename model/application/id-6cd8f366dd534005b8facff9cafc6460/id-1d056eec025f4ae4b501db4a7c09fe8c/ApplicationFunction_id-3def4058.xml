@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Výpisy_KK"
+    id="id-3def4058"
+    documentation="Automatické načítání bankovních výpisů, párování plateb na evidencí závazků a pohledávek aj., automatického zaúčtování"/>

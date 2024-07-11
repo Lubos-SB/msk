@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Přijetí dokladu_KK"
+    id="a71b2364"
+    documentation="Zaúčtování přijatých faktur daňových/nedaňových, tuzemských i zahraničních (v domácí i cizí měně), zálohových faktur, dobropisů, opravné doklady&#xD;&#xA;Zaúčtování závazků nepodložených fakturou (např. závazky ze zákona, z uzavřených smluv, apod.), možnost přednastavení šablon pro opakované platby a kopie existujícího dokladu"/>

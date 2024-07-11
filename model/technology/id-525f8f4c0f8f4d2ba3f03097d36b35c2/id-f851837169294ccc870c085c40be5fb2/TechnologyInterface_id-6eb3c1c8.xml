@@ -1,0 +1,11 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HTTPS (Portál)_KU"
+    id="id-6eb3c1c8">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Analýza a návrh řešení: Centrální e-mail korporace"/>
+</archimate:TechnologyInterface>

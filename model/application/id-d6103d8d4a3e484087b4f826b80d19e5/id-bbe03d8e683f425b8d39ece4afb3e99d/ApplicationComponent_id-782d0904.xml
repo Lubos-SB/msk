@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhpStorm_KU"
+    id="id-782d0904"
+    documentation="Integrované vývojové prostředí pro PHP.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Kód_CMDB"
+      value="KPIT000149"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+</archimate:ApplicationComponent>

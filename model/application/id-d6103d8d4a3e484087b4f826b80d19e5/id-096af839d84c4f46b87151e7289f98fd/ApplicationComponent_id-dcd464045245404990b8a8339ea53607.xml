@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AD Forest HC"
+    id="id-dcd464045245404990b8a8339ea53607"
+    documentation="Aplikace AD Forest HC pro autorizaci/autentizaci uživatelů ze zdravotnických zařízení - součástí služby Centrální správa identit HC (jedná se o novou aplikaci v prostředí HC)"/>

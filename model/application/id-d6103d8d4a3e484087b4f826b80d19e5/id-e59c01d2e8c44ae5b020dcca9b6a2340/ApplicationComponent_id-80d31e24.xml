@@ -1,0 +1,17 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ISVS pro správu a vedení katastru nemovitostí_GOV"
+    id="id-80d31e24">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="602"/>
+  <properties
+      key="Typ_aplikace"
+      value="Externí"/>
+</archimate:ApplicationComponent>

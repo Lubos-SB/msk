@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sklady_KK"
+    id="d77832e2"
+    documentation="Umožňuje vedení skladové evidence na více skladech metodou FIFO nebo metodou průměrných cen. Se skladovými zásobami je možno provádět všechny standardní operace jako je příjem, výdej, přeskladnění, opravný doklad a další. Na skladech lze provádět inventury dle platné legislativy a kdykoliv lze formou souboru nebo tiskové sestavy vytvořit přehled o aktuálním stavu nebo o stavu na konci některého z předchozích období."/>

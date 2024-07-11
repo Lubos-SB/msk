@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integrační rozhraní na interní prostředí HC"
+    id="id-bfd3bc7228a84c3196faaa8f88f14b6c"
+    documentation="Aplikace integračního rozhraní ESB na interní systémy v prostředí Hospital CLOUD (HC)"/>

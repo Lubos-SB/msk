@@ -1,0 +1,24 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Obrazová dokumentace_NEM"
+    id="fbed6566"
+    documentation="Podpora práce lékařů  s obrazovou zdravotnickou dokumentací - akvizice, archivace, distribuce, diagnostika, náhled">
+  <properties
+      key="Datum_aktualizace"
+      value="21.7.2018"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="NEM"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KÚ"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Stav"
+      value="Aktivní"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Vaněk"/>
+</archimate:ApplicationService>

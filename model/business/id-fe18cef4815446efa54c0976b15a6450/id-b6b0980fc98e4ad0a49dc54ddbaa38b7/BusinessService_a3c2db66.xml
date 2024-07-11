@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poskytování poradentských služeb"
+    id="a3c2db66"
+    documentation="Poskytování poradenských služeb dětem, žákům, studentům, jejich zákonným zástupcům, školám a školským zařízením.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Jana Trombíková"/>
+</archimate:BusinessService>

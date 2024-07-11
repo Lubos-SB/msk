@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Log Manager (ELM)_KU"
+    id="id-44d0a455-cf70-4e20-9036-1f46f8fb5a03">
+  <properties
+      key="Datum_aktualizace"/>
+  <properties
+      key="Datum_vzniku_entity"
+      value="17.12.2018"/>
+  <properties
+      key="Datum_zakreslení"
+      value="17.12.2018"/>
+  <properties
+      key="Datum_zániku_entity"/>
+  <properties
+      key="ID"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Osoba_Autor"
+      value="Alois Slovák"/>
+  <properties
+      key="Osoba_Správce"
+      value="Bezpečnostní správce"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Tomáš Vašica"/>
+  <properties
+      key="Stav"
+      value="Aktivní"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služba integrace na externí prostředí HC"
+    id="id-d1053ae3784d4a77b24481e1e4edf419"
+    documentation="Aplikační služba integračního rozhraní ESB na externí systémy v prostředí Hospital CLOUD (HC)"/>

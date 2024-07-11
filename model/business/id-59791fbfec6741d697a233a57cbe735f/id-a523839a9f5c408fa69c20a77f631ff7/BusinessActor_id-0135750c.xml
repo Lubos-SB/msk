@@ -1,0 +1,15 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zdravotnický pracovník_NEM"
+    id="id-0135750c"
+    documentation="Uživatel zdravotního pracovníka v prostředí Hospital CLOUD (HC)">
+  <properties
+      key="Datum_aktualizace"
+      value="8.10.2018"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Šrubařová"/>
+</archimate:BusinessActor>

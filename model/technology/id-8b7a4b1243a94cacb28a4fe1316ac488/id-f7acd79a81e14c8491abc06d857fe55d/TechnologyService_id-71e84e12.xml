@@ -1,0 +1,14 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zrcadlení dat mezi poli_KU"
+    id="id-71e84e12">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="KPIT000245"/>
+</archimate:TechnologyService>

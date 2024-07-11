@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rozhraní pro KIS HC"
+    id="id-c67310a2a17a4b188b992e6e4b039131"
+    documentation="Rozhraní pro KIS (zprostředkování komunikace s KIS v prostředí Hospital CLOUD)"/>

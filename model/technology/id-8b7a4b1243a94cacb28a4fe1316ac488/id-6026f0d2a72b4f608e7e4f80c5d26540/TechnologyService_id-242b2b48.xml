@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zajištění centrálního monitoringu zálohování_KK"
+    id="id-242b2b48"
+    documentation="Služba slouží k technickému monitoringu řešení - např. hlídání kapacity úložiště.">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Název_zdroje"
+      value="ANALÝZA A NÁVRH ŘEŠENÍ: ZÁLOHOVÁNÍ DAT KORPORACE"/>
+</archimate:TechnologyService>

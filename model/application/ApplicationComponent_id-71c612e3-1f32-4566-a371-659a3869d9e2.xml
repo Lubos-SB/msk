@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aplikace měřícího přístroje_PP"
+    id="id-71c612e3-1f32-4566-a371-659a3869d9e2">
+  <properties
+      key="Datum_zakreslení"
+      value="3.10.2018"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Plaček"/>
+</archimate:ApplicationComponent>

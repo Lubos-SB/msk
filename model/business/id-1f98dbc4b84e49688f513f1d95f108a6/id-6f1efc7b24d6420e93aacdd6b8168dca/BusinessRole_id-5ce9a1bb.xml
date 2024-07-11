@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Školství"
+    id="id-5ce9a1bb">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessRole>

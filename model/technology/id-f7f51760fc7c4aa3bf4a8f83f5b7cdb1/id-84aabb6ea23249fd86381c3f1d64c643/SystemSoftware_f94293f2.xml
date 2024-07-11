@@ -1,0 +1,11 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="databáze TWIST_KU"
+    id="f94293f2">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Požadavek na doplnění pan Vašica"/>
+</archimate:SystemSoftware>

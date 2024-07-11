@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IHE Rozhraní MPI HC"
+    id="id-9a129b3578f8496986d962a05241575f"
+    documentation="IHE Rozhraní MPI (rozhraní pro komunikaci služby Centrální registr pacientů MPI s integračním rozhraním ESB v prostředí Hospital CLOUD)"/>

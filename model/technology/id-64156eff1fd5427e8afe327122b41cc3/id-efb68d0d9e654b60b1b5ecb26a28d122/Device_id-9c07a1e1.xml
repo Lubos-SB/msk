@@ -1,0 +1,17 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EMC DataDomain DD6300 (DDA348)_KU"
+    id="id-9c07a1e1">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="KPIT000153"/>
+  <properties
+      key="Název_CMDB"
+      value="DDA348"/>
+</archimate:Device>

@@ -1,0 +1,17 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="E-Spis LITE_KU"
+    id="b7dde20f">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="422"/>
+  <properties
+      key="Typ_aplikace"
+      value="Místní"/>
+</archimate:ApplicationComponent>

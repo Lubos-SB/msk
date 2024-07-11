@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Příprava pro následné stupně vzdělávání_P004"
+    id="c30400ff"
+    documentation="Příprava pro vzdělávání ve středních školách uměleckého zaměření a v konzervatořích, popřípadě pro studium na vysokých školách s uměleckým nebo pedagogickým zaměřením">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/002/2001"/>
+</archimate:BusinessFunction>

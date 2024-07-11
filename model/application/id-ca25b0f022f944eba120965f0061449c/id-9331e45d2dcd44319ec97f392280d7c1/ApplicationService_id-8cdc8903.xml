@@ -1,0 +1,18 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Řízení oprávnění a přístupu k dokumentům_KU"
+    id="id-8cdc8903"
+    documentation="Cílem systému je řízení přístupu k dokumentům podle zařazení pracovníků a ochrana před nežádoucím únikem dokumentů (např. kopírování vybraných dat na vyjímatelná média (USB, disky), vypalování vybraných dat na CD/DVD, ochrana před nežádoucím tiskem, zasílání vybraných dat přes https a jiné šifrované kanály, dále nastaveni blokování, monitoring, notifikace uživatele, apod.).">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Typ_služby"
+      value="Místní"/>
+  <properties
+      key="Název_zdroje"
+      value="Projektová fiše pro velké projekty realizované v rámci programového období EU 2014-2020"/>
+  <properties
+      key="Název_projektu"
+      value="Realizace bezpečnostních opatření podle zákona o kybernetické bezpečnosti"/>
+</archimate:ApplicationService>

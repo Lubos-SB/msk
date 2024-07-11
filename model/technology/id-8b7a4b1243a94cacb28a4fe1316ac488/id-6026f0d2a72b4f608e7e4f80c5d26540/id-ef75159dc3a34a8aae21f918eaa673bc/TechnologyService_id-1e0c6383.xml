@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MPLS_KK"
+    id="id-1e0c6383"
+    documentation="Služba (např. MPLS) musí umožnit nad sdílenou IP infrastrukturou sítě MSK budovat bezpečné oddělené a nezávislé virtuální privátní sítě pracující na třetí nebo druhé vrstvě modelu OSI/ISO."/>

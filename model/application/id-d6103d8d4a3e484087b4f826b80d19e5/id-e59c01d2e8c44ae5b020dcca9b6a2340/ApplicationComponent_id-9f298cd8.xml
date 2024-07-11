@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eHNCP.CZ_GOV"
+    id="id-9f298cd8">
+  <properties
+      key="Datum_aktualizace"
+      value="8.10.2018"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+</archimate:ApplicationComponent>

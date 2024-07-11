@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personální reporting_KK"
+    id="id-a4a4e3093b3749119451ff9dc61e9bcd"
+    documentation="Okruh řešení Con = Controlling poskytuje informace o možných odchylkách ve vybraných datových oblastech, a to zpravidla prostým srovnáním dvou časových os (viz sestavy Con10 a dále).&#xD;&#xA;V rámci personálního controllingu je uživatel i informován o budoucích, průběžných a minulých stavech prostřednictvím aliasů formulovaných přirozeným jazykem – Con01 – Daily Report(s).    Aliasy jsou definicí obecných pojmů popisujících standardní jevy (události) personální evidence a personálního řízení.&#xD;&#xA;Obecně lze do tohoto okruhu zahrnout veškeré informace o stavech, změnách a odchylkách u sledovaných datových řešení, které mají nějakou další příčinnou vazbu na hlavní činnosti uživatele, např. absence, fluktuace, či špatně nastavené kompetence přímo ovlivňují výrobu či poskytování služeb.&#xD;&#xA;Ambicí tohoto okruhu jsou další návazná analytická zjištění, která mapují důvody vzniku různých odchylek včetně příčinných vazeb a odhadu míry vlivu včetně predikce."/>

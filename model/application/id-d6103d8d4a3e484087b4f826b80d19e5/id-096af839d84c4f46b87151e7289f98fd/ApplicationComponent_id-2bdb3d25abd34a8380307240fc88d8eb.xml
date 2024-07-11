@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aplikace DMS HC"
+    id="id-2bdb3d25abd34a8380307240fc88d8eb"
+    documentation="Aplikace reprezentující aplikační službu DMS v prostředí Hospital CLOUD (HC)"/>

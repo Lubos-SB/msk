@@ -1,0 +1,11 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Centrální evidence veřejných sbírek_GOV"
+    id="f43e71fd">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Procesní mapa KU"/>
+</archimate:ApplicationService>

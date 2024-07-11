@@ -1,0 +1,196 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CTY RM OWN Layered_Metamodel"
+    id="id-29265640"
+    viewpoint="layered">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-58c8319c"
+      name="Segmentové služby Krajské korporace"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffff80">
+    <bounds
+        x="24"
+        y="60"
+        width="1405"
+        height="140"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="a906ed2f"
+      name="Business Architektura"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffd0">
+    <bounds
+        x="24"
+        y="216"
+        width="1405"
+        height="421"/>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-0e14661b"
+        name="Hlavní funkce"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffd0">
+      <bounds
+          x="12"
+          y="192"
+          width="805"
+          height="217"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-5a9f6347"
+        name="Doplňkové funkce"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffd0">
+      <bounds
+          x="828"
+          y="197"
+          width="241"
+          height="212"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-993d3798"
+        name="Podpůrné a administrativní funkce"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffd0">
+      <bounds
+          x="1080"
+          y="198"
+          width="313"
+          height="211"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-0c963f31"
+      name="Aplikační architektura"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ddffff">
+    <bounds
+        x="23"
+        y="660"
+        width="1406"
+        height="468"/>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-4c6f3203"
+        name="Místní aplikační služby"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ddffff">
+      <bounds
+          x="12"
+          y="144"
+          width="1380"
+          height="192"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="aee3abdd"
+        name="Sdílené aplikační služby"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ddffff">
+      <bounds
+          x="12"
+          y="24"
+          width="1380"
+          height="109"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-96ab7604"
+      name="Technologická architektura"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#e2f1d8">
+    <bounds
+        x="23"
+        y="1140"
+        width="1406"
+        height="180"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-323a80fb"
+      name="Komunikační infrastrukturní architektura"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#c8ffc8">
+    <bounds
+        x="23"
+        y="1332"
+        width="1406"
+        height="132"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="aa7010f2"
+      font="1|Arial Narrow|22.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Arial Narrow"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Multivrstevnatý model">
+    <bounds
+        x="24"
+        width="1404"
+        height="49"/>
+  </children>
+  <properties
+      key="model_type [druh_modelu]"
+      value="PT/VM"/>
+  <properties
+      key="model_scope [rozsah_modelu]"
+      value="OWN/VLST"/>
+  <properties
+      key="model_scope-name [rozsireni_modelu_nazev]"
+      value="Model vrstev"/>
+  <properties
+      key="model_ID [ID_modelu]"/>
+  <properties
+      key="model_name [jmeno_modelu]"/>
+  <properties
+      key="model_version [verze_modelu]"
+      value="0.1"/>
+  <properties
+      key="model_update_date [aktualizace_modelu_datum]"
+      value="16.01.2021"/>
+  <properties
+      key="model_valid_to [platnost_modelu_do_datum]"/>
+  <properties
+      key="model_resp_pers_ID [ID_odp_osoba_model]"/>
+  <properties
+      key="model_resp_pers_name [odp_osoba_jmeno_model]"/>
+</archimate:ArchimateDiagramModel>

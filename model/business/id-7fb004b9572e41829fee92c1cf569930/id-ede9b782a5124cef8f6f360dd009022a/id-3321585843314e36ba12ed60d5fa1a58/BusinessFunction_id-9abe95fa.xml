@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zabezpečení stravování vlastním zaměstnancům_P004"
+    id="id-9abe95fa"
+    documentation="Zabezpečování stravování vlastním zaměstnancům organizace.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/002/2001"/>
+</archimate:BusinessFunction>

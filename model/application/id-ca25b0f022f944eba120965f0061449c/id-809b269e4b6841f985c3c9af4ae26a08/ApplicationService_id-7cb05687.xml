@@ -1,0 +1,17 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elektronické formuláře_KK"
+    id="id-7cb05687"
+    documentation="Informační systém, pro řízení oběhu formulářů (urychlení úřadových procesů).">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Výpis z katalogu služeb"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:ApplicationService>

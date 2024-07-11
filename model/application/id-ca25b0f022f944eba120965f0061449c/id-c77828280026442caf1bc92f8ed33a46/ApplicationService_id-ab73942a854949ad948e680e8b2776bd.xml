@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Konfigurace portálu HC"
+    id="id-ab73942a854949ad948e680e8b2776bd"
+    documentation="Služba pro konfiguraci klinického portálu"/>

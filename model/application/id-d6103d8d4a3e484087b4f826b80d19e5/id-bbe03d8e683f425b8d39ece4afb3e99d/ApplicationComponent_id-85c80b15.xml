@@ -1,0 +1,29 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Systém zabezpečeného sdílení pacientských dat TRANSMISE_KU"
+    id="id-85c80b15"
+    documentation="Komunikační služby zajišťující zabezpečenou výměnu informací předávaných mezi zdravotnickými zařízeními a zdravotnickou záchrannou službou">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="KPIT000278"/>
+  <properties
+      key="Datum_aktualizace"
+      value="11.10.2018"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Plaček"/>
+  <properties
+      key="Osoba_Autor"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+</archimate:ApplicationComponent>

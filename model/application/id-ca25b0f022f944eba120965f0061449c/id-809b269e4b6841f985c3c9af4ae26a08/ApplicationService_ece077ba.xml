@@ -1,0 +1,25 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jednotný personální a mzdový systém_KK"
+    id="ece077ba">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Název_zdroje"
+      value="Odvětvové strategické záměry"/>
+  <properties
+      key="Název_zdroje"
+      value="MSK koncepce ICT služeb"/>
+  <properties
+      key="Název_zdroje"
+      value="Projektová fiše pro velké projekty realizovatelné v rámci programové období EU 2014-2020"/>
+  <properties
+      key="Název_zdroje"
+      value="Jednotný personální a mzdový systém pro Moravskoslezský kraj"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:ApplicationService>

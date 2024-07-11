@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hasičský záchranný sbor_GOV"
+    id="id-46448209">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessActor>

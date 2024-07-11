@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Správa systému DLP_KU"
+    id="id-3ea9bd48">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+</archimate:ApplicationService>

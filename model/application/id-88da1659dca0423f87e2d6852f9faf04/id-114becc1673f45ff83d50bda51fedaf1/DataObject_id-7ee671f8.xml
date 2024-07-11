@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Účetní data pro controlling_KK"
+    id="id-7ee671f8"
+    documentation="Účetní data v rozsahu:&#xD;&#xA;•&#x9;Rozvrh účtů, kompletní seznam účtů z definovaného rozhraní&#xD;&#xA;•&#x9;Účetní pohyby&#xD;&#xA;•&#x9;Měsíční plán obratů nákladů a výnosů podle nákladových středisek a oddělení&#xD;&#xA;•&#x9;Účetní výkazy&#xD;&#xA;•&#x9;Detailní účetní data – syntetické a analytické účty za účelem sledování nákladů a výnosů až na jednotlivá oddělení zdravotnického zařízení&#xD;&#xA;•&#x9;Stav pohledávek a závazků&#xD;&#xA;•&#x9;Dohadné položky&#xD;&#xA;•&#x9;Finanční plány – rozsah plánu pro aktuální rok ve formátu výkazu zisku a ztrát, dle struktury definované MSK&#xD;&#xA;•&#x9;Měsíční cash flow"/>

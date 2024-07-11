@@ -1,0 +1,14 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zálohování dat korporace_KK"
+    id="id-47f02233"
+    documentation="Aplikační služba Zálohování dat korporace KK (bude nahrazena aplikační službou IaaS - zálohování dat v Hospital CLOUD HC)">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:ApplicationService>

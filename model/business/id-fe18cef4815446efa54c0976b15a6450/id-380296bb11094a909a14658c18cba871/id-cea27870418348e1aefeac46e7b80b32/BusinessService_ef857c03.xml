@@ -1,0 +1,11 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služba zajišťování odborného poradenství v oblasti energetických služeb a energetického managementu_P011"
+    id="ef857c03">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/362/2014"/>
+</archimate:BusinessService>

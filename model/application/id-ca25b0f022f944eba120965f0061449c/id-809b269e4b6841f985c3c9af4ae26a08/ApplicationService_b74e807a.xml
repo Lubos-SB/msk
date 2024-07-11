@@ -1,0 +1,33 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hostovaná spisová služba_KK"
+    id="b74e807a"
+    documentation="Elektronická spisová služba zajišťující příjem, evidenci, oběh, vyřizování, odesílání a ukládání elektronických i listinných dokumentů a napojení na Informační systém datových schránek.">
+  <properties
+      key="Datum_aktualizace"/>
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Katalog_služeb"/>
+  <properties
+      key="Název_zdroje"
+      value="https://portal.kr-moravskoslezsky.cz/pokr/www/katalog"/>
+  <properties
+      key="Odkaz_zdroj"
+      value="https://portal.kr-moravskoslezsky.cz/pokr/www/katalog/default/detail/42"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Osoba_Autor"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Plaček"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+</archimate:ApplicationService>

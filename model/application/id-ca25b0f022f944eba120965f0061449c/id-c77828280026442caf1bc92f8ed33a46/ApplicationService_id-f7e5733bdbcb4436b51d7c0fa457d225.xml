@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Výběr pacienta HC"
+    id="id-f7e5733bdbcb4436b51d7c0fa457d225"
+    documentation="Služba pro výběr pacienta z klinického portálu"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poskytnutí logistických dat_KK"
+    id="id-03862adf"
+    documentation="Příjemky/výdejky materiálu, SZM a léků do/ze skladu, spotřeba (MD/D, Kč, nákladové středisko, účetní období) materiálu, SZM a léků"/>

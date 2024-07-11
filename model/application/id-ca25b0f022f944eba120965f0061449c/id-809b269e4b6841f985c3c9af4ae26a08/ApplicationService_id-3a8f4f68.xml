@@ -1,0 +1,14 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jednotný stravovací informační systém_KK"
+    id="id-3a8f4f68">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Název_zdroje"
+      value="Akční plán Strategie ICT"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+</archimate:ApplicationService>

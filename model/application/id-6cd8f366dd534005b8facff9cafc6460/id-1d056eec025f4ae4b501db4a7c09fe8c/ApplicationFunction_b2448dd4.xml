@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Platební předpisy SP_KK"
+    id="b2448dd4"
+    documentation="•&#x9;Pro každého klienta možnost vytvoření šablony pravidelných měsíčních částek, které klient platí za poskytnuté služby.&#xD;&#xA;•&#x9;Pro každého klienta možnost vytvoření šablony měsíční příjmů, kde budou uvedeny pravidelné měsíční příjmy klientů.&#xD;&#xA;•&#x9;Hromadný výkaz služeb pro pravidelně účtované částky hromadně všem klientům."/>

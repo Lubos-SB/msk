@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služba EMC Recover Point_KU"
+    id="d2ac4983"
+    documentation="Umožňuje inteligentní zrcadlení včetně vedení historie.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Typ_služby"
+      value="Místní"/>
+  <properties
+      key="Název_zdroje"
+      value="ANALÝZA A NÁVRH ŘEŠENÍ: ZÁLOHOVÁNÍ DAT KORPORACE"/>
+</archimate:TechnologyService>

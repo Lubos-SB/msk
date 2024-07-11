@@ -1,0 +1,11 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Podpora sociálních služeb_P007"
+    id="id-594cb7c4">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Připomínky PO"/>
+</archimate:ApplicationService>

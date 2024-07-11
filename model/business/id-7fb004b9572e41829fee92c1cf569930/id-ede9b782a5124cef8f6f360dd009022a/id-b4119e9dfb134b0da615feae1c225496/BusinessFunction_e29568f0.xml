@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specializovaná knihovna_P008"
+    id="e29568f0"
+    documentation="Na základě zákona č. 257/2001 Sb., o knihovnách a podmínkách provozování veřejných knihovnických a informačních služeb, ve znění pozdějších předpisů, provozuje specializovanou knihovnu. Podrobnosti poskytování knihovnických a informačních služeb stanoví knihovní řád vydaný organizací.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessFunction>

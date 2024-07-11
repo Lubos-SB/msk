@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bankovní sestavy_KK"
+    id="id-67ebe73d"
+    documentation="Export bankovních výpisů do formátu XLS, XLSX"/>

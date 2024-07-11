@@ -1,0 +1,20 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služby PaaS (Platforma jako služba)_KK"
+    id="id-5ba8fa84"
+    documentation="Pořízení serverové a komunikační infrastruktury včetně datových úložišť a virtualizace. Pořízený HW bude provázán se stávajícím technologickým centrem kraje.&#xD;&#xA;&#xD;&#xA;Námět dodavatele - Webhosting, Virtualizace.">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Název_zdroje"
+      value="Projektová fiše pro velké projekty realizované v rámci programového období EU 2014-2020"/>
+  <properties
+      key="Název_projektu"
+      value="Rozvoj technologického centra Moravskoslezského kraje)"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:TechnologyService>

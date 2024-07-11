@@ -1,0 +1,14 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evidence dopravních agend_KU"
+    id="id-98c7bb2e">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Výpis z katalogu služeb"/>
+  <properties
+      key="Typ_služby"
+      value="Místní"/>
+</archimate:ApplicationService>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zobrazení zdravotnické dokumentace pacienta HC"
+    id="id-e6a40f6951064fa18e3b79abbcdf5e61"
+    documentation="Služba zobrazení zdravotnické dokumentace v závislosti na oprávnění v rámci klinického portálu"/>

@@ -1,0 +1,18 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Řízení kybernetických událostí a incidentů_KU"
+    id="id-735bf2b5"
+    documentation="Systém pro management bezpečnostních informací a událostí (Security Incident and Event Management) a reálné řízení bezpečnosti napříč společností, zvýšení účinnosti a efektivity provozu IT, přesnějším plánováním rozvoje kapacit a výkonnosti ICT zdrojů, a to minimálně pro významné informační systémy a klíčové informační systémy.">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Typ_služby"
+      value="Místní"/>
+  <properties
+      key="Název_zdroje"
+      value="Projektová fiše pro velké projekty realizované v rámci programového období EU 2014-2020"/>
+  <properties
+      key="Název_projektu"
+      value="Realizace bezpečnostních opatření podle zákona o kybernetické bezpečnosti"/>
+</archimate:ApplicationService>

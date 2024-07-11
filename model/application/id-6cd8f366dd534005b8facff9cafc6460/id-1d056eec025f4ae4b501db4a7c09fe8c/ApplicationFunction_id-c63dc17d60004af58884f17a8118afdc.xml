@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Konfigurace workflow_KK"
+    id="id-c63dc17d60004af58884f17a8118afdc"
+    documentation="Správce nastavuje pro jednotlivá workflow v každé v db zpracovávané organizaci (Adm21) resp. lze nastavit i společný workflow popis pro všechny organizace:&#xD;&#xA;•&#x9;každé workflow používá konkrétní, aplikací (nejčastěji nějakým JPČ) dané hodnoty &#xD;&#xA;•&#x9;na kroku workflow se definuje, kdo je adresátem dalšího kroku (pomocí pravidel)&#xD;&#xA;•&#x9;a jaká informace má jít (maska zprávy) a její kanál (interní pošta / externí pošta)&#xD;&#xA;•&#x9;adresáty dělíme na primární a sekundární, ti se mohou účastni schvalování a další, kteří pouze obdrží informaci&#xD;&#xA;•&#x9;v popisu následujícího kroku se pak pomocí položky Typ schvalování určuje charakter zpracování&#xD;&#xA;"/>

@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geocortex Essentials Manager_KU"
+    id="id-0dd1e8bc">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"/>
+  <properties
+      key="Kód_CMDB"/>
+</archimate:ApplicationComponent>

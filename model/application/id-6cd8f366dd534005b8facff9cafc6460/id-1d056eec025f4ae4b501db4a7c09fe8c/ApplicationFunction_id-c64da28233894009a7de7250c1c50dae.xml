@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audit_KK"
+    id="id-c64da28233894009a7de7250c1c50dae"
+    documentation="Logování EGJE můžeme rozdělit na provozní a datové.&#xD;&#xA;Aplikační datové logování je rozmístěno na mnoha místech napříč aplikací podle konkrétní příslušnosti.&#xD;&#xA;Viz Adm_uzdoc formuláře Adm52, Adm54 a logovací záložky na jiných formulářích Adm10, Adm11, Adm12, Adm53, Vyp01, Vyp12, Dcm01, Dcd01.&#xD;&#xA;Nastavení délky uchovávání dat v těchto auditních tabulkách se provádí v Adm21.&#xD;&#xA;&#xD;&#xA;AS i EGJEWEB2 vytvářejí textové souborové logy.&#xD;&#xA;Mají provozní charakter, zachycují provozní a chybové stavy EGJE serveru.&#xD;&#xA;Jejich tvar i názvové konvence jsou poplatné prostředí –buď se jedná o soubor vytvářený Tanuki wrapperem, který používá AS anebo se jedná, o standardní logování kontejneru Tomcat.&#xD;&#xA;Umístění logů se pro AS definuje ve wrapper.conf, Standardně podadresář logs.&#xD;&#xA;U EGJEWEB2 pak dle definice Tomcat Logging. Standardně podadresář logs.&#xD;&#xA;&#xD;&#xA;Více v EGJE_provdoc/Příloha E."/>

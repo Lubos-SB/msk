@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Centrální sterilizace HC"
+    id="id-e81e0f97aaed41818a96dfb3c3a5c861"
+    documentation="Aplikace Centrální sterilizace pro multitenantní NIS (jedná se o novou aplikaci v prostředí HC)"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rozhraní pro import uchazečů_KK"
+    id="id-8bd60747eb8b472eba43a1c2120554bc"
+    documentation="Import uchazečů do JPMS na základě vyplněných dat ke konkrétním výběrovým řízení - prozatím nevíme formát importu, neproběhla analýza"/>

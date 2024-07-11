@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aplikace_KU"
+    id="id-8e881822">
+  <properties
+      key="Datum_vzniku"
+      value="2014"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="194"/>
+</archimate:Node>

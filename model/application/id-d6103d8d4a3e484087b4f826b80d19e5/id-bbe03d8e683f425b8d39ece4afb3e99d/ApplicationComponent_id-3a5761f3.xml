@@ -1,0 +1,17 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SolarWinds_KU"
+    id="id-3a5761f3">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="634"/>
+  <properties
+      key="Typ_aplikace"
+      value="Externí"/>
+</archimate:ApplicationComponent>

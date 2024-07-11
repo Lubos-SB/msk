@@ -1,0 +1,14 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Palivové karty Čepro_KK"
+    id="c6d9610a"
+    documentation="Zajištění zvýhodněných podmínek pro poskytnutí a užívání palivových karet">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:BusinessService>

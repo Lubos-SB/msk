@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aplikace telemedicíny_KU"
+    id="id-569a00d9"
+    documentation="SW řešení pro telemedicínské aplikace vzdáleného monitoringu fyziologických funkcí a srdečních akcí">
+  <properties
+      key="Datum_aktualizace"
+      value="24.9.2018"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Plaček"/>
+</archimate:ApplicationComponent>

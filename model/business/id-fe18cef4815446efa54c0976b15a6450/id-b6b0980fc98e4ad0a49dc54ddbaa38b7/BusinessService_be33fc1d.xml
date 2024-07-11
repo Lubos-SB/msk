@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služby útvaru krizového managementu a ochranná funkce ke skladům materiálu zdravotnických jednotek civilní ochrany"
+    id="be33fc1d"
+    documentation="Činnost útvaru krizového managementu a ochranná funkce ke skladům materiálu zdravotnických jednotek civilní ochrany">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessService>

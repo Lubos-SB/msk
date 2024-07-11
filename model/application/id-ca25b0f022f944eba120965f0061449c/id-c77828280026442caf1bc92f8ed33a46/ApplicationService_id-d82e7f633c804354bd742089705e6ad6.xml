@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aktualizace číselníku HC"
+    id="id-d82e7f633c804354bd742089705e6ad6"
+    documentation="Služba pro aktualizace číselníku"/>

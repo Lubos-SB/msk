@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služby dopravy raněných, nemocných a rodiček"
+    id="cac35da3"
+    documentation="Doprava raněných, nemocných a rodiček">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessService>

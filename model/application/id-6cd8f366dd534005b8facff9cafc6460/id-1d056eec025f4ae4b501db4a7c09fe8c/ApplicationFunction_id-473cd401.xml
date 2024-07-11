@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jídelní lístek SP_KK"
+    id="id-473cd401"
+    documentation="•&#x9;Hromadné zadávání počtu strávníků s možností načtení porcí podle počtu přihlášených klientů a zaměstnanců organizace.&#xD;&#xA;•&#x9;Vystavení jedné nebo více výdejek pro každý jídelní lístek, úprava výdejek – vložení suroviny nebo celého jídla, odebrání položek výdejky, zarovnání množství dle minimálního výdeje. Výdejky lze snadno odepsat ze skladu potravin.&#xD;&#xA;•&#x9;Možnost zpracovat výdejky zvlášť pro klienty a zaměstnance organizace.&#xD;&#xA;•&#x9;Možnost zpracovat cenovou bilanci jednotlivých jídel.&#xD;&#xA;•&#x9;Sledování nutričních hodnot jídel, jídelních lístků, rozbory dle druhů jídel, diet, za období apod.&#xD;&#xA;•&#x9;Vytvoření vlastních kategorií (diet) strávníků, zadávání stravovacích norem pro jednotlivé druhy jídel."/>

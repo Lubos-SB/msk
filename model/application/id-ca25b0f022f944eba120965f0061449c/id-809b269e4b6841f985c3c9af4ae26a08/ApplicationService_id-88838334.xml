@@ -1,0 +1,13 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registr smluv a veřejných zakázek_KK"
+    id="id-88838334">
+  <properties
+      key="Katalog_služeb"/>
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+</archimate:ApplicationService>

@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitální archív_KU"
+    id="id-9aa54293-16b9-4645-bb57-0e10e1fac9c7">
+  <properties
+      key="Datum_zakreslení"
+      value="8.10.2018"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Plaček"/>
+</archimate:ApplicationComponent>

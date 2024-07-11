@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Webový DICOM viewer PACS_NEM"
+    id="c81d4071"
+    documentation="Univerzální diagnostický a klinický DICOM prohlížeč, který plně podporuje prezentaci dat v nejvyšší zobrazovací kvalitě. Zabezpečený přístup k obrazové dokumentaci odkudkoliv a kdykoliv. Prohlížená data jsou prostřednictvím webových technologií intuitivně stahována dle oblasti zájmu na koncová zařízení, čímž je docíleno maximálního využití výkonu koncové stanice. Při práci s prohlížečem není nutné na koncové stanici instalovat žádné speciální plug-iny ani další podpůrné systémy. Uživatel si zcela vystačí s běžným webovým prohlížečem, což umožňuje práci na libovolné pracovní stanici, notebooku či tabletu. Prohlížeč  je tak možné využívat pro rutinní diagnostiku, vzdálené popisy, vizity či odborné konzultace a příslužby.">
+  <properties
+      key="Datum_aktualizace"
+      value="21.7.2018"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="NEM"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KÚ"/>
+  <properties
+      key="Stav"
+      value="Plánovaný"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Vaněk"/>
+</archimate:ApplicationComponent>

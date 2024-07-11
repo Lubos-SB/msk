@@ -1,0 +1,17 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pobytové služby_P006"
+    id="id-77695cc9">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Registr Poskytovatelů Sociálních služeb"/>
+  <properties
+      key="Odkaz_zdroj"
+      value="http://iregistr.mpsv.cz/socreg/rozsirene_hledani_sluzby.do?zn=&amp;zao=&amp;pic=00016772&amp;zak=&amp;spd=&amp;spo=&amp;zaok=&amp;sbmt=Vyhledat&amp;zau=&amp;pn=&amp;si=&amp;srp=pdaz&amp;SUBSESSION_ID=1457000298556_3"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/303/2003"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pořizování odborné dokumentace_P008"
+    id="id-7ae75aa7"
+    documentation="2.3 Ke sbírkovým předmětům pořizuje odbornou dokumentaci písemnou a dle potřeby i obrazovou, či písemnou.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessFunction>

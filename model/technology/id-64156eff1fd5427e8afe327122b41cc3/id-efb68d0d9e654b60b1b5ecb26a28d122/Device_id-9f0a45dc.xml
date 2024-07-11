@@ -1,0 +1,18 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pásková knihovna_KU (IBM TS4300)"
+    id="id-9f0a45dc"
+    documentation="Robotická pásková knihovna">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Název_zdroje"
+      value="40"/>
+  <properties
+      key="Název_CMDB"
+      value="ML6020"/>
+</archimate:Device>

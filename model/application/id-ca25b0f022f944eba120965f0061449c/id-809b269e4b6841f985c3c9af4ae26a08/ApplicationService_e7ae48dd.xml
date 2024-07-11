@@ -1,0 +1,17 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Správa majetku_KK"
+    id="e7ae48dd"
+    documentation="Rozvoj:&#xD;&#xA; - Integrovat pasportní systém pro správy silnic (zaznačené údaje o silnicích II a III. tříd).&#xD;&#xA;- Oblasti opakovaných služeb např. revizní zprávy">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Odkaz_zdroj"
+      value="Odvětvové strategické záměry"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:ApplicationService>

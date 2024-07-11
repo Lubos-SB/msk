@@ -1,0 +1,9 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Správa serverů_KK"
+    id="c1fec0ad"
+    documentation="Zajištění správy serverů:&#xD;&#xA;  -  Správa HW, SW&#xD;&#xA;  - Instalace OS, SP, updatů, image&#xD;&#xA;  - Instalace základního software&#xD;&#xA;  - Nastavení serverů">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:TechnologyService>

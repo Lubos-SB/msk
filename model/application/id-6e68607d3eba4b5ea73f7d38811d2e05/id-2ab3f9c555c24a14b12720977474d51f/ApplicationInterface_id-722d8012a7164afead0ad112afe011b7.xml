@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rozhraní registru zdravotní dokumentace HC"
+    id="id-722d8012a7164afead0ad112afe011b7"
+    documentation="Rozhraní registru zdravotní dokumentace  (zprostředkovává komunikaci se službou Registr zdravotnické dokumentace) "/>

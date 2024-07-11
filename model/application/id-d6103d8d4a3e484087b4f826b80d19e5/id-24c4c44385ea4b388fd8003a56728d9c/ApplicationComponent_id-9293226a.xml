@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rezervační systém_KK"
+    id="id-9293226a"
+    documentation="Uživatel si zobrazí agendy/služby jednotlivých odborů, na které je možno se objednat případně přímým odkazem z konkrétní stránky KÚ nebo z katalogu služeb. Po výběru agendy dojde k nabídce volných termínů k rezervaci. Rezervační systém umožní autorizaci konkrétního uživatele na centrální IDM (napojení na stávající IDM pro zaměstnance KÚ a napojení na nově vznikající autentifikační službu pro občany, která bude agregovat různé typy autorizace/autentifikace - interní IDM). Uživatel si zarezervuje čas a následně je rezervace synchronizována do Exchange serveru. Pokud transakce proběhne v pořádku, na obou stranách se zapíše záznam rezervace (Reservatic a Exchange) a uživatel dostane informaci emailem nebo SMS službou, že je jeho rezervace platná. V tuto chvíli vidí pracovník KÚ tuto rezervaci ve svém diáři dle Exchange serveru. Pracovník může tuto rezervaci zrušit, v tomto případě se rezervace smaže i v rezervačním systému a uživatel bude opět upozorněn emailem nebo SMS.&#xD;&#xA;Zvláštní službou bude objednání přepravy pacientů, které bude dostupná z portálu pacienta KK a využívají ji nemocnice.">
+  <properties
+      key="Datum_aktualizace"
+      value="10.9.2018"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Plaček"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+</archimate:ApplicationComponent>

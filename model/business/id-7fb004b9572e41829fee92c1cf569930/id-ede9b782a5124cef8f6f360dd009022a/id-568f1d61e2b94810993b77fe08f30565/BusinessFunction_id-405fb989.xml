@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rekvalifikace, odborné a vzdělávací kurzy_P002"
+    id="id-405fb989"
+    documentation="Provádění rekvalifikačních, odborných a vzdělávacích kurzů, školení a jiných vzdělávacích akcí včetně zprostředkování.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/175/2001"/>
+</archimate:BusinessFunction>

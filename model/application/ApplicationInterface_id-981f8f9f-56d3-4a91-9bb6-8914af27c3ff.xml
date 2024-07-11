@@ -1,0 +1,11 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aplikační rozhraní pro výměnu dat_Groupware_PO"
+    id="id-981f8f9f-56d3-4a91-9bb6-8914af27c3ff">
+  <properties
+      key="Datum_zániku_entity"
+      value="14.6.2018"/>
+  <properties
+      key="Stav"
+      value="Zaniklý"/>
+</archimate:ApplicationInterface>

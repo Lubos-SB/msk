@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rozhraní pro LIS HC"
+    id="id-cd85e864f0e7490ba8eb047d289be210"
+    documentation="Rozhraní pro LIS (zprostředkování komunikace s LIS v prostředí Hospital CLOUD)"/>

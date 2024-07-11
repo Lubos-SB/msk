@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poskytování středního vzdělání s maturitní zkouškou_P003"
+    id="b9e1bd4f"
+    documentation="Poskytuje střední vzdělání s maturitní zkouškou">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/020/2001"/>
+</archimate:BusinessFunction>

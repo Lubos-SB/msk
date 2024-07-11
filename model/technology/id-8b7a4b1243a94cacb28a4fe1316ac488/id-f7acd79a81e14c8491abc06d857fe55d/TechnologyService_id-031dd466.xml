@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Správa pracovních stanic_KU"
+    id="id-031dd466"
+    documentation="Zajištění servisních služeb pro PC, notebooky, tablety, monitory a příslušenství.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Katalog služeb"/>
+  <properties
+      key="Typ_služby"
+      value="Místní"/>
+</archimate:TechnologyService>

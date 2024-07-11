@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VPRN_KK"
+    id="id-1d6b32bf"
+    documentation="Tranzitní servisní router musí pracovat v režimu „Non-Stop Forwarding“ a „Non-Stop Services“. Duplikovaný systém musí být plně redundantní a při výpadku jedné z řídících jednotek musí být výpadek služeb konfigurovaných na zařízení (VPLS, VPRN,…) minimalizovaný, max. v jednotkách vteřin. Případný update softwaru musí být aplikovatelný bez nutnosti restartu zařízení."/>

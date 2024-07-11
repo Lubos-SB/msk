@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služba Centrální číselníky HC"
+    id="id-ba48ebf62d564bc5ae88dd72915fbf4a"
+    documentation="Aplikační služba správy centrálních (interních a/nebo externích) číselníků zdravotnického zařízení"/>

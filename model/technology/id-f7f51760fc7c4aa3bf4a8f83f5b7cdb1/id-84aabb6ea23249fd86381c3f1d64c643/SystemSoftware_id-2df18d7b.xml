@@ -1,0 +1,9 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Systém řízení přístupu_KU"
+    id="id-2df18d7b"
+    documentation="Cisco ISE">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+</archimate:SystemSoftware>

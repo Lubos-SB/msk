@@ -1,0 +1,17 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NBL Cluster (MS.MORAVSKOSLEZSKY.CZ)_KU"
+    id="id-4439a274">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Analýza a návrh řešení: Centrální e-mail korporace"/>
+  <properties
+      key="Datum_terminace"
+      value="2020"/>
+  <properties
+      key="Datum_zániku_entity"
+      value="2017"/>
+</archimate:Node>

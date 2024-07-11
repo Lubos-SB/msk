@@ -1,0 +1,20 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Server - VM - AVAMAR_KK"
+    id="id-7e17e19e-f1c8-4572-9abd-6bf13d6f34f8">
+  <properties
+      key="Datum_aktualizace"
+      value="20.3.2019"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Osoba_Autor"
+      value="Tomáš Kejha"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Petr Čáp"/>
+</archimate:Device>

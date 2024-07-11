@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aplikace - MS Visual Studio 2005_KU"
+    id="ab933503"
+    documentation="Visual Studio 2005 je určeno pro programování klasických desktopových, serverových, webových (ASP.NET) i mobilních aplikací na platformách Windows a .NET 2.0. Z programovacích jazyků jsou k dispozici Visual C++ (nativní i řízené), Visual C#, Visual Basic a Visual J#.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="52"/>
+</archimate:ApplicationComponent>

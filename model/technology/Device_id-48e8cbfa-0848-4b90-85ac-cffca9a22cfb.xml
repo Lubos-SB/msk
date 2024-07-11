@@ -1,0 +1,12 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notebooky_dodavatel"
+    id="id-48e8cbfa-0848-4b90-85ac-cffca9a22cfb"
+    documentation="Zařízení  ve vlastnictví dodavatelů, kteří se připojují do interní sítě KÚ.">
+  <properties
+      key="Datum_zakreslení"
+      value="19.7.2018"/>
+  <properties
+      key="Stav"
+      value="Ativní"/>
+</archimate:Device>

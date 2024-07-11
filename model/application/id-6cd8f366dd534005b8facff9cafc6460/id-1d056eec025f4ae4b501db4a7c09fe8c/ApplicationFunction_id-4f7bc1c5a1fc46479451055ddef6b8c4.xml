@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cestovní příkazy_KK"
+    id="id-4f7bc1c5a1fc46479451055ddef6b8c4"
+    documentation="Okruh řešení Cep = Cestovní příkazy je součástí řešení pro práci s docházkou a specificky se věnuje problematice práce s pracovními cestami. Cestovní příkaz je základní formou vyslání zaměstnance na pracovní cestu.&#xD;&#xA;Zahrnuje evidenci od vyslání na pracovní cestu, schvalování, sledování a zaúčtování nákladů a finanční vyrovnání se zaměstnancem."/>

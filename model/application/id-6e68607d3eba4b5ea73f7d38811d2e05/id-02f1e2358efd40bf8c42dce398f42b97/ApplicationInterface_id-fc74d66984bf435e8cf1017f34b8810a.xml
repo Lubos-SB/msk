@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Export personální sestav_KK"
+    id="id-fc74d66984bf435e8cf1017f34b8810a"
+    documentation="Export sestav pro oblasti:&#xD;&#xA;- ČSSZ:&#xD;&#xA;&#x9;&#x9;Poj06a - Přehled o výši pojistného na sociální zabezpečení – XML export pro e-podání PVPOJ&#xD;&#xA;&#x9;&#x9;Poj59 - hlášení na ČSSZ pro OZUSPOJ - XML souboru &#xD;&#xA;&#x9;&#x9;Poj14 ELDP&#xD;&#xA;&#x9;&#x9;Poj19 Seznam ONZ&#xD;&#xA;&#x9;&#x9;Poj43a - export příloh pro NEMPRI&#xD;&#xA;&#x9;&#x9;Poj56 - export HOZ do souboru&#xD;&#xA;&#x9;&#x9;Poj53a - export HZUPN&#xD;&#xA;&#xD;&#xA;Sestavy jsou ve formátu, který vyžaduje příslušné rozhraní. &#xD;&#xA;Jsou vyexportovány na FS a odtud pak ručně nahrávány do rozhraní příslušné aplikace"/>

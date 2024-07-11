@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Synchronizace identit"
+    id="id-9055e8da">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-56c5e362.xml#id-56c5e362"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1a8f6226.xml#id-1a8f6226"/>
+</archimate:FlowRelationship>

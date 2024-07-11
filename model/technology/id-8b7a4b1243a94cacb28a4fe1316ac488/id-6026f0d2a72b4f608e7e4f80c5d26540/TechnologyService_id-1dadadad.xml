@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Přístup ke službě - webový_KK"
+    id="id-1dadadad"
+    documentation="Zajišťuje zabezpečený přístup tenkého klienta (Office Outlook, poštovní aplikace) IMAP, MAPI, HTTPS.">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Název_zdroje"
+      value="Analýza a návrh řešení: Centrální e-mail korporace"/>
+</archimate:TechnologyService>

@@ -1,0 +1,17 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zařízení pro odeslání naměřených dat_PP"
+    id="id-8ae1ddab">
+  <properties
+      key="Datum_aktualizace"
+      value="24.9.2018"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Plaček"/>
+</archimate:Node>

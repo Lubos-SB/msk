@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Správa dodavatelů_KK"
+    id="f23ae2f1"
+    documentation="Kontrola subjektů na základní registry (možnost importu dat o dodavateli, IČ, bankovní spojení)"/>

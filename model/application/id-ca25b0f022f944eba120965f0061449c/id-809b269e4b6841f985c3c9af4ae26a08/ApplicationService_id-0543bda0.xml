@@ -1,0 +1,12 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Podpůrné sdílené aplikační služby korporace_KK"
+    id="id-0543bda0"
+    documentation="Představuje logické členění služeb na 1) podpůrné a 2) specifické sdílené služby KK.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+</archimate:ApplicationService>

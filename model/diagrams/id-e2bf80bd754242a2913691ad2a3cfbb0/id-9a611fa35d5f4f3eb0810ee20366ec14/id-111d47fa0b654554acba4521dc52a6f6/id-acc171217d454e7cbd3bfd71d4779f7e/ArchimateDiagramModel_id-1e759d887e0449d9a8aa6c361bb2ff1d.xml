@@ -1,0 +1,374 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="STR TB2023 BA Architektura Hospital CLOUD KK"
+    id="id-1e759d887e0449d9a8aa6c361bb2ff1d"
+    documentation="Architektura Hospital CLOUD">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c9c613d79d394734a5894812fde571d5">
+    <bounds
+        x="192"
+        y="108"
+        width="493"
+        height="193"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-33926c2af57a486986b708fa3afbd845"
+        fillColor="#ffc6ff">
+      <bounds
+          x="12"
+          y="48"
+          width="457"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-5082dafb385144f9b0e0419a7bb48ce9.xml#id-5082dafb385144f9b0e0419a7bb48ce9"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-6f2503d39ccd4a9aa8b7822e51287de0"
+        fillColor="#ffc6ff">
+      <bounds
+          x="12"
+          y="120"
+          width="457"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-66f57221bf5d418191b9f577305c56e3.xml#id-66f57221bf5d418191b9f577305c56e3"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Plateau"
+        href="Plateau_id-1a73ace3c1a6402da541048784b500de.xml#id-1a73ace3c1a6402da541048784b500de"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-246081d5e30b4c18b775d79d5c4c527d"
+      font="1|Arial Narrow|21.75|0|WINDOWS|1|-29|0|0|0|400|0|0|0|0|3|2|1|34|Arial Narrow"
+      textAlignment="1"
+      content="STR TB2023 BA Architektura Hospital CLOUD HC">
+    <bounds
+        x="132"
+        y="24"
+        width="644"
+        height="54"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-978a1cd2dc6844398792017cdee3aa15"
+      name="Legenda"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff">
+    <bounds
+        x="804"
+        y="24"
+        width="325"
+        height="433"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-1b10d239f78d43ec989dc3e0b7289ba1"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffb5">
+      <bounds
+          x="8"
+          y="24"
+          width="41"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-3f970c59a9614912a26279787a2d2a21"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#86ff86">
+      <bounds
+          x="8"
+          y="132"
+          width="41"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-f265a7da4a654c4684875b3783ff3f0d"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#c9e7b7">
+      <bounds
+          x="8"
+          y="96"
+          width="41"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-8555d1e0690e4e14b3177005c1f906e6"
+        font="1|Arial Narrow|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Arial Narrow"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffff"
+        content="Existující komponenty - Technologie &#xD;&#xA;1) místní; 2) Sdílené">
+      <bounds
+          x="132"
+          y="96"
+          width="181"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-d6d48e74395546919826c25a0dc2d277"
+        font="1|Arial Narrow|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Arial Narrow"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffff"
+        content="Rušené komponenty">
+      <bounds
+          x="132"
+          y="168"
+          width="181"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-41be2ad53bc343808f7d797da18a9af8"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ff8080">
+      <bounds
+          x="8"
+          y="168"
+          width="41"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-8f170048e3e641d18159a542e2017c95"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffc6ff">
+      <bounds
+          x="8"
+          y="204"
+          width="41"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-f410cf0ead8f479daefca71ef0bb6bf5"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffeaff">
+      <bounds
+          x="48"
+          y="204"
+          width="41"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-50c3c9b70a6242bdb4d6dc634c502197"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ca95ff">
+      <bounds
+          x="8"
+          y="240"
+          width="41"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-99a4cd7b1fca42c2a9659d9749d56143"
+        font="1|Arial Narrow|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Arial Narrow"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffff"
+        content="Existující komponenty - Organizační &#xD;&#xA;1) místní; 2) Sdílené;">
+      <bounds
+          x="132"
+          y="24"
+          width="181"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-6dedcf3e30744234b01c5e0337beedc3"
+        font="1|Arial Narrow|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Arial Narrow"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffff"
+        content="Existující komponenty - Aplikační; &#xD;&#xA;1) místní; 2) Sdílené; 3) Externí">
+      <bounds
+          x="132"
+          y="60"
+          width="181"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-df62c41bc3ba4fac9a91d105c0f9d500"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#b5ffff">
+      <bounds
+          x="8"
+          y="60"
+          width="41"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-6d5fee94787e46cabe043b79771682df"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#00ffff">
+      <bounds
+          x="48"
+          y="60"
+          width="41"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-cc413c6897814e15a0f160bdfdabc1b9"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#53a9ff">
+      <bounds
+          x="88"
+          y="60"
+          width="41"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-c30bb46bc7ab488ca5b7f4be80e52ade"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffff22">
+      <bounds
+          x="48"
+          y="24"
+          width="41"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-f8cfa9f9b5624320997977863ce9edbf"
+        font="1|Arial Narrow|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Arial Narrow"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffff"
+        content="Nový element">
+      <bounds
+          x="132"
+          y="204"
+          width="181"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-97ee72e6d82b466bad7852a59c088450"
+        font="1|Arial Narrow|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Arial Narrow"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffff"
+        content="Měněné komponenty">
+      <bounds
+          x="132"
+          y="240"
+          width="181"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-3db53a0d90304fcb9da83823df194771"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#00d500">
+      <bounds
+          x="48"
+          y="132"
+          width="41"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-248e41de60924bd0b107dc6ca1c9efde"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#bfbf31">
+      <bounds
+          x="48"
+          y="96"
+          width="41"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-c2e345e3278a43d5a1798a2109d2db8c"
+        font="1|Arial Narrow|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Arial Narrow"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffff"
+        content="Existující komponenty-  Infrastruktura &#xD;&#xA;1) místní; 2) Sdílené">
+      <bounds
+          x="132"
+          y="132"
+          width="181"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-92c89819584842d29f09e23c2017ff30"
+        font="1|Arial Narrow|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Arial Narrow"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffff"
+        content="PO = Příspěvková organizace&#xD;&#xA;KK = Krajská korporace&#xD;&#xA;HC = Hospital CLOUD&#xD;&#xA;KU = Krajský úřad&#xD;&#xA;GOV = Government&#xD;&#xA;STR = Strategická architektura&#xD;&#xA;NEM = Nemocnice&#xD;&#xA;PP = prostředí pacienta">
+      <bounds
+          x="8"
+          y="288"
+          width="181"
+          height="133"/>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,36 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RAID 5 SIEM_KU"
+    id="id-22bd8ac0-4a8e-4b80-8301-e9d8736c06fa"
+    documentation="SIEM logy">
+  <properties
+      key="Datum_aktualizace"/>
+  <properties
+      key="Datum_vzniku_entity"
+      value="17.12.2018"/>
+  <properties
+      key="Datum_zakreslení"
+      value="17.12.2018"/>
+  <properties
+      key="Datum_zániku_entity"/>
+  <properties
+      key="ID"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Osoba_Autor"
+      value="Alois Slovák"/>
+  <properties
+      key="Osoba_Správce"
+      value="Bezpečnostní správce"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Tomáš Vašica"/>
+  <properties
+      key="Stav"
+      value="Aktivní"/>
+</archimate:Node>

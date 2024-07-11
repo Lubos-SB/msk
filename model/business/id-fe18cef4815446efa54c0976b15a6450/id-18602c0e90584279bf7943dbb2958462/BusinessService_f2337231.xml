@@ -1,0 +1,16 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jednotné řízení antivirového zabezpečení_KK"
+    id="f2337231">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Název_zdroje"
+      value="Navrhováno dodavatelem."/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:BusinessService>

@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zajištění vzdělávání pracovníků MSK a zřizovaných organizací_P002"
+    id="ea9e1807"
+    documentation="Zajištění vzdělávání pracovníků Moravskoslezského kraje a organizací založených nebo zřizovaných Moravskoslezským krajem nebo organizací, které byly na Moravskoslezský kraj převedeny zvláštním zákonem.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/175/2001"/>
+</archimate:BusinessFunction>

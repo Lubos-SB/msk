@@ -1,0 +1,20 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avamar klient_KK"
+    id="id-41dd8bda-eecd-4a23-a8e1-67cfead9458b">
+  <properties
+      key="Datum_aktualizace"
+      value="20.3.2019"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="PO"/>
+  <properties
+      key="Organizace_Spravce"
+      value="PO"/>
+  <properties
+      key="Osoba_Autor"
+      value="Tomáš Kejha"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Správce PO"/>
+</archimate:SystemSoftware>

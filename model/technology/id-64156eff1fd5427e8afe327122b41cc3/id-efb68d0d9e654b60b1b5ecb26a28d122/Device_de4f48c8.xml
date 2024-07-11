@@ -1,0 +1,20 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Server - EXA_KU"
+    id="de4f48c8">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="284"/>
+  <properties
+      key="Datum_terminace"
+      value="2020"/>
+  <properties
+      key="Datum_zániku_entity"
+      value="3.5.2018"/>
+</archimate:Device>

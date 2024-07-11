@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rezervační systém nemocnic_KK"
+    id="id-4d41b144-3777-4d27-85ac-f9ae3a14312e"
+    documentation="Rezervační systém je pro pacienty dostupný jako modul portálu pacienta. Pacient si v rezervačním systému vyhledá požadovanou nemocnici, v ní si vybere požadovanou ambulanci a vybere úkon. Zobrazí si volné termíny (volné termíny jsou načítány online přímo z jednotlivých NISů). Poté se na vybraný termín zarezervuje - tímto proběhne vytvoření rezervace v Reservatic a synchronizace této rezervace přes TransMISI směrem do patřičného diáře přímo v NIS.">
+  <properties
+      key="Datum_aktualizace"
+      value="9.10.2018"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Plaček"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+</archimate:ApplicationComponent>

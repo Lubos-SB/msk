@@ -1,0 +1,11 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Operační systém virtualizačního hostu 1"
+    id="id-afd82b87122d49e0bcd35d5f79df0a99">
+  <properties
+      key="Vyrobce"
+      value="VMware"/>
+  <properties
+      key="Typ"
+      value="vSphere (licence MSK)"/>
+</archimate:SystemSoftware>

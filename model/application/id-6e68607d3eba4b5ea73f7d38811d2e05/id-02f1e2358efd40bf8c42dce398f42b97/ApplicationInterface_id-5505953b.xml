@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personální data EXP_KK"
+    id="id-5505953b"
+    documentation="Rozhraní ekonomického systému pro export informací o pohledávkách/závazcích vůči zaměstnancům (exekuce, stravenky apod.), evidence svěřeného majetku"/>

@@ -1,0 +1,11 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služba zpřístupňování digitálních dokumentů_P009"
+    id="id-43954271">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Ing. Lea Prchalová, ředitelka"/>
+</archimate:ApplicationService>

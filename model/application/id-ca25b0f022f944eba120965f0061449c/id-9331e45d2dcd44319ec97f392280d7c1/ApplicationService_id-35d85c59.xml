@@ -1,0 +1,14 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WEB služba Uživatelé Geoportálu ÚAP_KU"
+    id="id-35d85c59">
+  <properties
+      key="Datum_vzniku"
+      value="11/2017"/>
+  <properties
+      key="Název_zdroje"
+      value="Geoportál ÚAP - autentizace a autorizace"/>
+  <properties
+      key="Osoba_Autor"
+      value="Kamil Plaček"/>
+</archimate:ApplicationService>

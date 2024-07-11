@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Synchronizace seznamu služeb_KU"
+    id="id-31452463a91f4424a171dc38ca3d48e9"
+    documentation="Synchronizace mezi Service Desk (iTop) a katalogem služeb. Synchron izace je jednosměrná, zdrojem je service Desk."/>

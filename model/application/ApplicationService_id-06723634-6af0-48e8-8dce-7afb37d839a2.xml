@@ -1,0 +1,11 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MojeID"
+    id="id-06723634-6af0-48e8-8dce-7afb37d839a2">
+  <properties
+      key="Datum_zakreslení"
+      value="8.10.2018"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+</archimate:ApplicationService>

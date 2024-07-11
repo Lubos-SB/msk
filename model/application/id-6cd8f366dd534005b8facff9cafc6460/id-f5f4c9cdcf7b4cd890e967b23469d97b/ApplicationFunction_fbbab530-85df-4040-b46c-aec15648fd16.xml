@@ -1,0 +1,36 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Archivace logů a obnovy ELM_KU"
+    id="fbbab530-85df-4040-b46c-aec15648fd16"
+    documentation="Pro potřebu dlouhodobé archivace, byl vytvořen Log Archive. Data bez normalizace jsou dostupná přes dashboard v konzoli McAfee. V těchto datech lze vyhledávat fulltextově přímo v packetech. Indexovací databáze je umístěna společně s daty logarchívu na CIFS \\sarch\siemarch IP: 172.30.53.54 . Při odpojení CIFS, nedojde k omezení funkčnosti příjmu a zpracování real-time dat SIEMU. Zpracování a vyhledávání logarchivních dat nebude po dobu odpojení CIFS možné. V ELM bylo dále nakonfigurováno vytváření automatických záloh. Pro připojení uložiště byl využit servisní účet agentSIEM. Toto uložiště slouží pro dlouhodobé ukládání RAW logů (Logmanagement).&#xD;&#xA;Logy se ze zákona ukládají min. 1 rok.">
+  <properties
+      key="Datum_aktualizace"/>
+  <properties
+      key="Datum_vzniku_entity"
+      value="17.12.2018"/>
+  <properties
+      key="Datum_zakreslení"
+      value="17.12.2018"/>
+  <properties
+      key="Datum_zániku_entity"/>
+  <properties
+      key="ID"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Osoba_Autor"
+      value="Alois Slovák"/>
+  <properties
+      key="Osoba_Správce"
+      value="Bezpečnostní správce"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Tomáš Vašica"/>
+  <properties
+      key="Stav"
+      value="Aktivní"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ArcGIS Desktop_KU"
+    id="id-48eb5804"
+    documentation="Robustní nástroj pro práci s GIS (čtení/zápis dat, tvorba libovolných mapových projektů a mapových výstupů, speciální analytické nástroje pro zpracování a vyhodnocování dat).  Desktopové aplikační vybavení pro práci s GIS (produkty- ArcView, ArcEditor, ArcInfo).">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="191"/>
+</archimate:ApplicationComponent>

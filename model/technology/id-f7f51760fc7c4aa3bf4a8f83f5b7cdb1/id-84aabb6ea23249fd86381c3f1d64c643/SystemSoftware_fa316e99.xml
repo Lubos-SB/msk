@@ -1,0 +1,14 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Apache 2.x/PHP 5.1.6_KU"
+    id="fa316e99">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="427"/>
+</archimate:SystemSoftware>

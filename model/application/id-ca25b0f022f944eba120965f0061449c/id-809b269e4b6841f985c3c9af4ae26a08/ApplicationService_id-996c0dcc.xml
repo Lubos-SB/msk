@@ -1,0 +1,17 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rezervační systém pro organizace v oblasti kultury_KK"
+    id="id-996c0dcc"
+    documentation="Projekt řeší vybudování rezervačního systému pro krajské příspěvkové organizace v oblasti kultury. Jedná se o informační zdroj, díky kterému si lze objednat určitou aktivitu na přesný čas a který nabízí přehled o poskytovaných službách dostupný on-line 24 hodin 7 dnů v týdnu. Takovou službu návštěvník kulturní akce, a to místní i mimokrajský, zajisté pozitivně ocení. Také poskytovateli kulturních služeb systém přináší výhody, např. šetří náklady na zaměstnance při vyřizování jednotlivých rezervací, umožňuje poskytování aktuálních zpráv o změně otevírací doby, pořádaných akcí aj. Následně by bylo vhodné systém provázat s poskytovateli ubytovacích, stravovacích či jiných služeb, kteří by v rámci svých aktivit dávali vědět svým klientům o možnostech kulturního vyžití v daném místě.">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Název_zdroje"
+      value="Přehled projektů 2014-2020"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:ApplicationService>

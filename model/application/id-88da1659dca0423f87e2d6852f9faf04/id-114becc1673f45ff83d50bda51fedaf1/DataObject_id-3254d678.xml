@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Smlouva_KK"
+    id="id-3254d678"
+    documentation="Evidovaná smlouva v rámci evidence smluv, poskytován je elektronický obraz textového obsahu smlouvy společně s metadaty.&#xD;&#xA;V případě integrace jsou vždy zasílány smlouvy, které se týkají daného příjemce systému"/>

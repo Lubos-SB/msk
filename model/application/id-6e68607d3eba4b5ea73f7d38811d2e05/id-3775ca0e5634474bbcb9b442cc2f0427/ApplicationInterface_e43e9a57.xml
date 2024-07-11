@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Příjem dat o zaměstnanci_GOV"
+    id="e43e9a57"
+    documentation="Příjem výstupů Oznámení (o nástupu do zaměstnání, skončení zaměstnání, změnách), měsíční přehledy, názvy dokumentů Hromadné oznámení zaměstnavatele, Přehled o platbě pojistného"/>

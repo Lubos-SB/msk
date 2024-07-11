@@ -1,0 +1,15 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Server - GSL_KU"
+    id="d0a03bdf"
+    documentation="Slouží k ukládání dokumentů GINIS SSL.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="8"/>
+</archimate:Device>

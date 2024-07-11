@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Záchranná služba"
+    id="id-61776a63">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessRole>

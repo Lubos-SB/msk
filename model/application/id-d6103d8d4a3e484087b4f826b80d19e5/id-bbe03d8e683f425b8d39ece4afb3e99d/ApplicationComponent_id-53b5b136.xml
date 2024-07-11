@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DLP_KU"
+    id="id-53b5b136">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+</archimate:ApplicationComponent>

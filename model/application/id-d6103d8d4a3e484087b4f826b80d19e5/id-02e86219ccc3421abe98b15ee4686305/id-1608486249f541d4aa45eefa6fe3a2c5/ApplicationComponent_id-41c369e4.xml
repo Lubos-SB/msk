@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aleph 500_P009"
+    id="id-41c369e4"
+    documentation="Modulární systém zajišťuje všechny funkce knihovny, jak z pohledu zaměstnanců, tak z pohledu čtenářů - www a grafický OPAC, výpůjční proces, katalogizaci, správu seriálů, akvizici, meziknihovní službu a správu dat, včetně statistických analýz.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Ing. Lea Prchalová, ředitelka"/>
+</archimate:ApplicationComponent>

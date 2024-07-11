@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Certifikát zdr. pojišťovny_GOV"
+    id="id-8fdfe5ea"
+    documentation="Autorizace probíhá pomocí certifikátu, který mají domluvený se zdravotní pojišťovnou. Přenos je šifrovaný pomocí RSA-AES  a struktura dat je XML."/>

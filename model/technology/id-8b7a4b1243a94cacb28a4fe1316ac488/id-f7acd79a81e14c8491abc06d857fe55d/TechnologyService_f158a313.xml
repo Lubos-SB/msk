@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Správa a služby sítí_KU"
+    id="f158a313"
+    documentation="Zajištění správy sítí: &#xD;&#xA;  Správa wired: &#xD;&#xA;  - Centrální swittche&#xD;&#xA;  - Přístupové switche&#xD;&#xA;  - Routery&#xD;&#xA;  - Firewally&#xD;&#xA;  - Rozvaděče&#xD;&#xA;  - Kabeláž, optické trasy&#xD;&#xA;&#xD;&#xA;Správa wireless:&#xD;&#xA;  - Kontrolery&#xD;&#xA;  - AP &#xD;&#xA;&#xD;&#xA;Správa síťových služeb: &#xD;&#xA; - DNS&#xD;&#xA; - NTP&#xD;&#xA; - WWW&#xD;&#xA; - TFTP&#xD;&#xA; - správa internetové domény&#xD;&#xA; -  Mail Server &#xD;&#xA; - Ironmail">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Výpis z katalogu služeb"/>
+</archimate:TechnologyService>

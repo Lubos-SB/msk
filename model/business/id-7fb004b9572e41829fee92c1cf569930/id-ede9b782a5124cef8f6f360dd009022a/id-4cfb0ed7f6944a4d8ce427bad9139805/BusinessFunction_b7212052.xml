@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Závodní stravován zaměstnanců_P003"
+    id="b7212052"
+    documentation="Závodní stravování zaměstnanců právnických osob vykonávajících činnost škol a školských zařízení zřízených krajem, obcí nebo svazkem obcí.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/020/2001"/>
+</archimate:BusinessFunction>

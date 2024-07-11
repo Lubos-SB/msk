@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pracovní místa_KK"
+    id="id-66abe9ca"
+    documentation="Přehledné popisy pracovních míst.&#xD;&#xA;Požadavky na výstupy u jednotlivých pracovních míst:&#xD;&#xA;o&#x9;název pracovní pozice, číslo systemizovaného místa, &#xD;&#xA;o&#x9;platová třída (i v grafických výstupech),&#xD;&#xA;o&#x9;požadované vzdělání,&#xD;&#xA;o&#x9;požadavek na řidičský průkaz skupiny …,&#xD;&#xA;o&#x9;požadavek na jazykové znalosti a jejich úroveň (i v grafických výstupech),&#xD;&#xA;o&#x9;požadavek na ZOZ (i v grafických výstupech),&#xD;&#xA;o&#x9;další kvalifikační požadavky,&#xD;&#xA;o&#x9;rozlišení, zda se jedná o úřednickou anebo neúřednickou pracovní pozici (i v grafických výstupech – jako nejvhodnější se jeví barevné rozlišení úředník a neúředník)."/>

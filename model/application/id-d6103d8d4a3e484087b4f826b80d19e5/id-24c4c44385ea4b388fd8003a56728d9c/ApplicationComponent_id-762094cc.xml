@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IS Fons Enterprise _KK"
+    id="id-762094cc"
+    documentation="Logistický IS zajišťuje informační podporu řízení celého dodavatelského řetězce v oblasti dodávek léčivých prostředků, zdravotnického a všeobecného materiálu, tj. řízení vzájemně propojeného skladového hospodářství centrálních skladů a lokálních skladů na odděleních. &#xD;&#xA;Logistický IS podporuje řízení nákupu s možností automatického generování nákupních objednávek, řízení konsignačních skladů nemocnice, řízení skladového hospodářství centrálních skladů a lokálních skladů na odděleních se vzájemnou automatickou vazbou, automatické generování interních objednávek oddělení, evidenci spotřeby na oddělení s možností rozšíření evidence až na pacienta a automatické zaúčtování všech pohybů centrálních skladů a příručních skladů."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stravovací IS_KK"
+    id="id-4d47cab0"
+    documentation="Stravovací informační systém zabezpečuje automatizované objednávání a výdej jídel, prodej jídel. Umožňuje prodej včetně tvorby cen i finančního řízení stravovacího provozu, zpracování a vytvoření požadovaných výstupních sestav, tzn. podkladů pro zúčtování nákladů a výnosů stravovacího provozu a vedení skladu potravin."/>

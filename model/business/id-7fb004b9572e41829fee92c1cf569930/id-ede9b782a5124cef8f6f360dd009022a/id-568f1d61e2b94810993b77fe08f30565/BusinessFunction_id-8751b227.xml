@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poradenství a konzultace_P002"
+    id="id-8751b227"
+    documentation="Poradenská a konzultační činnost, zpracování odborných studií a posudků.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/175/2001"/>
+</archimate:BusinessFunction>

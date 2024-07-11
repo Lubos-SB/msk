@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="QOS_KK"
+    id="id-451fc13a"
+    documentation="•&#x9;Diferenciace datového provozu v síti MSK:&#xD;&#xA;o&#x9;Síť MSK musí umožnit klasifikovat a třídit datový provoz jednotlivých aplikací do různých tříd přenosové služby s využitím mechanismů QoS&#xD;&#xA;o&#x9;Zařízení musí umožňovat konfiguraci hierarchického QoS, min. 2 úrovně&#xD;&#xA;o&#x9;Zařízení musí umožňovat diferenciaci provozu na zákaznické přípojce nebo páteřní lince do min. 8 QoS tříd &#xD;&#xA;o&#x9;Zařízení musí umožňovat konfiguraci min. 2 prioritních QoS třídy na zákaznické přípojce nebo páteřní lince"/>

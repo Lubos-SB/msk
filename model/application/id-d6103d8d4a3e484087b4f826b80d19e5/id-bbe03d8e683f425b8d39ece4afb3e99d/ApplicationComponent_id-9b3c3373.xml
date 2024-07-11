@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EDAS_KU"
+    id="id-9b3c3373"
+    documentation="Metainformační systém - Aplikace k evidenci metainformací zejména k datům z GIS.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="584"/>
+  <properties
+      key="Osoba_Autor"
+      value="Kamil Plaček"/>
+</archimate:ApplicationComponent>

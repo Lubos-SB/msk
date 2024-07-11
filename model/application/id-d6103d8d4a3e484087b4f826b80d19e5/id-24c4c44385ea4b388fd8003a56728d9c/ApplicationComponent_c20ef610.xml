@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JEIS_KK"
+    id="c20ef610"
+    documentation="Jednotný ekonomický informační systém pro příspěvkové organizace MSK">
+  <properties
+      key="Datum_vzniku"
+      value="2017"/>
+</archimate:ApplicationComponent>

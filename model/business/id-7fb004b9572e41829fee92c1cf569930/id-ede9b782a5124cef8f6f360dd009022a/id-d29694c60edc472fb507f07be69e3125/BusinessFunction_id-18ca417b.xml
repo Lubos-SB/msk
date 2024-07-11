@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pronájem bytových a nebytových prostor_P006"
+    id="id-18ca417b"
+    documentation="Pronájem bytových a nebytových prostor.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/303/2003"/>
+</archimate:BusinessFunction>

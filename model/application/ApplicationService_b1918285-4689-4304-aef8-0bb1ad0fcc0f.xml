@@ -1,0 +1,17 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autentizace pacientů na Portálu telemedicíny_KU"
+    id="b1918285-4689-4304-aef8-0bb1ad0fcc0f">
+  <properties
+      key="Datum_zakreslení"
+      value="1.10.2018"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+</archimate:ApplicationService>

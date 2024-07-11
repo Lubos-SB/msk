@@ -1,0 +1,15 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="T-WIST Server (VTWIST)_KU"
+    id="e576705d"
+    documentation="Aplikační jádro TWIST.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="372"/>
+</archimate:SystemSoftware>

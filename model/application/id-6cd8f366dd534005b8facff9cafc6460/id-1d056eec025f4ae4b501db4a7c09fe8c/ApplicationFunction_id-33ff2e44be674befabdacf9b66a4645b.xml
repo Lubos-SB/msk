@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Údaje o činnosti_KK"
+    id="id-33ff2e44be674befabdacf9b66a4645b"
+    documentation="Okruh řešení Cin = Činnosti eviduje údaje o činnostech, které jsou atributem pracovního místa.&#xD;&#xA;Činnost je tedy v tomto smyslu obecným popisem pracovní aktivity pracovního místa, respektive osoby tuto činnost na konkrétním PM vykonávající. &#xD;&#xA;Název činnosti lze analyzovat jako spojení objektu a predikátu, obdobně lze činnost ještě dále specifikovat definicí klíčových slov."/>

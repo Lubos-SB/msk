@@ -1,0 +1,20 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="im_KU"
+    id="f697e3c1">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="KPIT000192"/>
+  <properties
+      key="Datum_terminace"
+      value="2020"/>
+  <properties
+      key="Datum_zániku_entity"
+      value="2017"/>
+</archimate:Node>

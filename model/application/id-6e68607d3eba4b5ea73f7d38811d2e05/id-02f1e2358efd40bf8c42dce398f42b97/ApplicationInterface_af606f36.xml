@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Čtení certifikátu SP_KK"
+    id="af606f36"
+    documentation="Zpracování certifikátu a jeho nálsedné uložení v systému"/>

@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Multicast_KK"
+    id="id-6a169497"
+    documentation="•&#x9;Integrace video komunikací: &#xD;&#xA;o&#x9;Síť MSK musí zajistit transport video signálu včetně možnosti šíření videosignálu pomocí multicastu v rámci jednotlivých IP VPN."/>

@@ -1,0 +1,9 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AP Os_KK"
+    id="id-1c288d47"
+    documentation="Aktivní prvky - Ostrava">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+</archimate:Node>

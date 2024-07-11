@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Navigace Struktura, PV, PM_KK"
+    id="id-72e54d2cd152438f8136a7c2ea5b20f1"
+    documentation="Navigace Struktura, PV-osoba, PM&#xD;&#xA;&#xD;&#xA;Speciální navigační formulář Nav01 poskytuje navigaci podle struktur. V hlavičce si uživatel vybere, podle které struktury chce mít data rozčleněna. V rámci struktury jsou zobrazovány Osoby/PV a na poslední hladině pak jejich PM a Profese. Osoby/PV jsou do stromu struktury zařazovány prostřednictvím zařazení na PV (Opv01) nebo na PM (Pmi01), nepřímé přiřazení struktury na Organizačním středisku zde z výkonových důvodů zobrazováno není. Formulář dále poskytuje nad prvky stromu přes lokální menu (pravé tlačítko myši) přímé otevírání základních formulářů. Nejvíce jich je o osobě a PV.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"/>

@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Active directory Geoportálu ÚAP_KU"
+    id="c70de577">
+  <properties
+      key="Datum_vzniku"
+      value="11/2017"/>
+  <properties
+      key="Název_zdroje"
+      value="Geoportál ÚAP - autentizace a autorizace"/>
+</archimate:ApplicationComponent>

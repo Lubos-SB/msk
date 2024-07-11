@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Seznam výběrových řízení_KK"
+    id="id-c930a744ede14bd69dc7877fb2d19cab"
+    documentation="Seznam výběrových řízení by měl být vystaven aplikaci 3. strany - prozatím neproběhla analýza, nevíme, jakým způsobem ani zda např. přes sběrnici&#xD;&#xA;Uchazeči se budou přihlašovat na tato výběrová řízení a do JPMS budou zpět tito uchazeči importováni - prozatím není stanovena metoda přenosu dat, neproběhla analýza. "/>

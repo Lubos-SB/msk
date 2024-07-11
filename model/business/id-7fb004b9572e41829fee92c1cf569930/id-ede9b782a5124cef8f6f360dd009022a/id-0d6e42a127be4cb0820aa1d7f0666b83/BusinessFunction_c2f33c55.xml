@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vydávání stanovisek vlastníka silnice_P010"
+    id="c2f33c55"
+    documentation="Vydávání stanovisek vlastníka silnice II. a III. třídy v rozsahu stanoveném zákonem č. 13/1997 sb., o pozemních komunikacích, ve znění pozdějších předpisů.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessFunction>

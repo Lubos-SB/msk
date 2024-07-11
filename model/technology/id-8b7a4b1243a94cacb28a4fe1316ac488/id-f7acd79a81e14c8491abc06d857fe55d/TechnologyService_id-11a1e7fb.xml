@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identity and access management Krajského úřadu_KU"
+    id="id-11a1e7fb"
+    documentation="Slouží jako zobecnění celého IDM, k napojení na IDM.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Analýza a návrh řešení: Správa identit korporace"/>
+  <properties
+      key="Datum_terminace"
+      value="2020"/>
+</archimate:TechnologyService>

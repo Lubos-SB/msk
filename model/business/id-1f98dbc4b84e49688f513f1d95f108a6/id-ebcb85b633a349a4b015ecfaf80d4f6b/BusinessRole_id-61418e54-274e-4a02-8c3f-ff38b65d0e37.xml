@@ -1,0 +1,20 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Super administrátor telemedicíny"
+    id="id-61418e54-274e-4a02-8c3f-ff38b65d0e37">
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Datum_aktualizace"
+      value="16.11.2018"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Šrubařová"/>
+</archimate:BusinessRole>

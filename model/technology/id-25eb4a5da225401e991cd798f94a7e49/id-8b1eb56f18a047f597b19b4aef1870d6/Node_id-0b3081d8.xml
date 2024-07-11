@@ -1,0 +1,15 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IDM_KU"
+    id="id-0b3081d8"
+    documentation="Prvek je realizován v modelu:&#xD;&#xA;Současný stav 2016 / KK_Krajská korporace/AS_KK_STR: Zabezpečení sdílených aplikací&#xD;&#xA;IDM systém je provozován na technologii Novell e-Directory. Jsou v něm spravovány všechny uživatelské identity, prostřednictvím kterých interní nebo externí uživatel přistupuje ke krajským informačním systémům.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="KPIT000164"/>
+</archimate:Node>

@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rozpočet_KU"
+    id="id-72c9322f"
+    documentation="Načtení a kontrola všech potřebných podkladů pro zpracování rozpočtu jsou zpracovány tak, aby byly především omezeny nároky na pracnost. Načtení sítě škol a výkonů ze statistických výkazů je automatické (data se importují z databází vytvářených příslušnými programy ÚIV), uživatel provádí pouze jejich kontrolu a případné úpravy. Mzdové podklady lze zadat ručně nebo je možné bezplatně použít speciální program MP rozpočet JASU. Ten se zasílá na jednotlivá školská zařízení, která sama provedou naplnění hodnot a zpět zasílají pouze soubor s požadovanými podklady.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="185"/>
+</archimate:ApplicationComponent>

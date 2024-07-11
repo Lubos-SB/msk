@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AuditPro_KU"
+    id="id-9ec8b87e"
+    documentation="Sběr dat uživatelů domény za účelem sledování stavu licencí a technické informace o jednotlivých PC.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="144"/>
+</archimate:ApplicationComponent>

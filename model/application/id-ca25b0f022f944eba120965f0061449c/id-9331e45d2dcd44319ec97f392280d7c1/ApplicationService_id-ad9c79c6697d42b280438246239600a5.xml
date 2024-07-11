@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notifikace_KU"
+    id="id-ad9c79c6697d42b280438246239600a5"
+    documentation="Zasílání oznámení (notifikací) dle nastavení aplikace."/>

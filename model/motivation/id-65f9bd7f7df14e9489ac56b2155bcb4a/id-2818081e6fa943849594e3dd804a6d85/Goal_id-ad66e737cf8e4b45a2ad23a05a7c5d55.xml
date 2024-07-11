@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CQ1. Zajištění kvality dat"
+    id="id-ad66e737cf8e4b45a2ad23a05a7c5d55"
+    documentation="Zahrnuje výběr optimálního úložiště, struktury uložených dat, včasnou aktualizaci údajů, kontroly obsahu dat, kontroly integrity dat, záznamy o editorech, kontroly proti ISZR aj."/>

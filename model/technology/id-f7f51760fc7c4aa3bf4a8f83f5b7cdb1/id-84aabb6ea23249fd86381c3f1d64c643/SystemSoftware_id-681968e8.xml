@@ -1,0 +1,14 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MS Exchange 2007 (MSB)_KU"
+    id="id-681968e8">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Analýza a návrh řešení: Centrální e-mail korporace"/>
+  <properties
+      key="Datum_terminace"
+      value="2020"/>
+</archimate:SystemSoftware>

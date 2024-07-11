@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Centrální archiv elektronické dokumentace (EZD) - v roli DocumentRepository (DocRep) HC"
+    id="id-be951211a27447eebe6b00e14f8c6776"
+    documentation="Aplikační služba Centrálního archivu elektronické dokumentace pro řešení Hospital CLOUD (HC)"/>

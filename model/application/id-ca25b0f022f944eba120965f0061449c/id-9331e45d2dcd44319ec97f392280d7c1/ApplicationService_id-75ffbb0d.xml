@@ -1,0 +1,14 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informační systém dotací Mze a KÚ _KU"
+    id="id-75ffbb0d">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Výpis z katalogu služeb"/>
+  <properties
+      key="Typ_služby"
+      value="Místní"/>
+</archimate:ApplicationService>

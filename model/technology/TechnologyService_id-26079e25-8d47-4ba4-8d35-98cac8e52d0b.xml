@@ -1,0 +1,20 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služby GSM brány_KK"
+    id="id-26079e25-8d47-4ba4-8d35-98cac8e52d0b">
+  <properties
+      key="Datum_zakreslení"
+      value="11.10.2018"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Plaček"/>
+</archimate:TechnologyService>

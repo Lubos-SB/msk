@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-80569296-47f8-44bd-b07b-66b1930d437e"
+    documentation="Objednání dopravy pacientů bude součástí portálu pacienta">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9293226a.xml#id-9293226a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-913ebcd3.xml#id-913ebcd3"/>
+</archimate:ServingRelationship>

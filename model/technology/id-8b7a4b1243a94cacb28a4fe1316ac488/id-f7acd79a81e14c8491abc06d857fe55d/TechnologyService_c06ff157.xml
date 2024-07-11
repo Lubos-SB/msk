@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služby sdílených složek/disků_KU"
+    id="c06ff157"
+    documentation="Zajišťuje přístup a správu sdílených složek a disků.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Výpis z katalogu zdroje"/>
+</archimate:TechnologyService>

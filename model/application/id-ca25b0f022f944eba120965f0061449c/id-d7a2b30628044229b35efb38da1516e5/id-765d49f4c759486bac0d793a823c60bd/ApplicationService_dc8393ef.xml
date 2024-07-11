@@ -1,0 +1,11 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služba webové prezentace školy_P004"
+    id="dc8393ef">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Odkaz_zdroj"
+      value="http://www.zuspetrkovice.cz/"/>
+</archimate:ApplicationService>

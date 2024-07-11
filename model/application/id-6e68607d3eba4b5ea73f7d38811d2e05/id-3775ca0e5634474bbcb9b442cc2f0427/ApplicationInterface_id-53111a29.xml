@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spolehlivost plátce_GOV"
+    id="id-53111a29"
+    documentation="Finanční správa připravila technické řešení formou webové služby, které umožní on-line zjišťování spolehlivosti plátců DPH a registrovaných bankovních účtů plátců DPH. Webová služba byla zprovozněna 1.4.2013 a je určena výhradně pro vzdálený přístup ze SW třetích stran."/>

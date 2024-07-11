@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rozhraní pro výběrová řízení_KK"
+    id="id-d321a10ce2124e7e9e8d5d1b30210ebb"
+    documentation="Export číselníku výběrových řízení z JPMS do systému 3. stran - prozatím nevíme formát ani způsob přenosu, protože neproběhla analýza&#xD;&#xA;Import uchazečů do JPMS na základě vyplněných dat ke konkrétním výběrovým řízení - prozatím nevíme formát importu, neproběhla analýza"/>

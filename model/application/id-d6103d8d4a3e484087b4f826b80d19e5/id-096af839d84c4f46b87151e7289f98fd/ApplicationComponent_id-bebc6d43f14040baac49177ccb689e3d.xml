@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Centrální registr pacientů MPI HC"
+    id="id-bebc6d43f14040baac49177ccb689e3d"
+    documentation="Aplikace Centrálního registru pacientů MPI v prostředí Hospital CLOUD (HC)"/>

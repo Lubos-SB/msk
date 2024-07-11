@@ -1,0 +1,11 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Docházková čtečka pro zaměstnance_P007"
+    id="id-32ce808e">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Připomínky PO"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,16 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Projektové řízení_KK"
+    id="id-8a7b5c9c">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Název_zdroje"
+      value="Akční plán Strategie ICT_leden 2016"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:BusinessService>

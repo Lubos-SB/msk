@@ -1,0 +1,17 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Správa identit korporace_KK"
+    id="af96e295"
+    documentation="Cílem je zajistit rozšíření stávajících prostředků pro správu identit krajského úřadu tak, aby byly pokryly veškeré plánované aktivity související s rozvojem sdílených služeb (centrální e-mail korporace, jednotný mzdový a personální systém atd.) a rozšířit využívání technologie IDM v ICT vybraných zřizovaných organizací Moravskoslezského kraje (lokální IDM, integrace významných systémů organizace, napojení na Active Directory atd.).">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Název_zdroje"
+      value="Projektová fiše pro velké projekty realizované v rámci programového období EU 2014-2020"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:ApplicationService>

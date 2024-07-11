@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kontrola politik dokumentů_KU"
+    id="id-734098a0">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+</archimate:ApplicationService>

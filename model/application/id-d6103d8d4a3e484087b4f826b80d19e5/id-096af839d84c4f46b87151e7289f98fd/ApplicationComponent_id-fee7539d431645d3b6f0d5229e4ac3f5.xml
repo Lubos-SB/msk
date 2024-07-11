@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Laboratorní informační sytém (LIS) HC"
+    id="id-fee7539d431645d3b6f0d5229e4ac3f5"
+    documentation="Aplikace laboratorního informačního systému (LIS) pro multitenantní NIS (jedná se o aplikaci v HC řešení nahrazující aplikaci LIS v lokálním prostředí NEM)"/>

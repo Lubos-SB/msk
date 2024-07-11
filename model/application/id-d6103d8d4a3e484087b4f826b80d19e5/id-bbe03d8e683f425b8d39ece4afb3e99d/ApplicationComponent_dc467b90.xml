@@ -1,0 +1,17 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Clavius_KU"
+    id="dc467b90">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="126"/>
+  <properties
+      key="Typ_aplikace"
+      value="Místní"/>
+</archimate:ApplicationComponent>

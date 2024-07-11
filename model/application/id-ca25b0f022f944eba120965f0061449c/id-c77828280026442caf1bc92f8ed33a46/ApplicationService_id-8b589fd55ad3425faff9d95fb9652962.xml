@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služba IaaS - zálohování dat v Hospital CLOUD HC"
+    id="id-8b589fd55ad3425faff9d95fb9652962"
+    documentation="Aplikační služba IaaS pro zálohování dat pro řešení Hospital CLOUD (HC) - nahrazuje aplikační službu Zálohování dat korporace KK"/>

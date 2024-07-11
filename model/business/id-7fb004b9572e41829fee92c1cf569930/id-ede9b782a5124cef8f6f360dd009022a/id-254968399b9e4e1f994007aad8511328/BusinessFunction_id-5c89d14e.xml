@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zajišťování informačních potřeb uživatelů_P009"
+    id="id-5c89d14e"
+    documentation="Umožňuje při zajišťování informačních potřeb uživatelům přístup k internetu a zprostředkovává přístup k vzdáleným elektronickým informačním zdrojům">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/071/2001"/>
+</archimate:BusinessFunction>

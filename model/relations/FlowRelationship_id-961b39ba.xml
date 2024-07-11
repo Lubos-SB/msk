@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Federace identit"
+    id="id-961b39ba">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_fbb4badc.xml#fbb4badc"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3596ade5.xml#id-3596ade5"/>
+</archimate:FlowRelationship>

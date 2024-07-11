@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pronájem majetku_P002"
+    id="id-61123074"
+    documentation="Pronájem majetku.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/175/2001"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,14 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Server - EXB_KU"
+    id="id-7c26ad33">
+  <properties
+      key="Datum_terminace"
+      value="2020"/>
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Datum_zániku_entity"
+      value="3.5.2018"/>
+</archimate:Device>

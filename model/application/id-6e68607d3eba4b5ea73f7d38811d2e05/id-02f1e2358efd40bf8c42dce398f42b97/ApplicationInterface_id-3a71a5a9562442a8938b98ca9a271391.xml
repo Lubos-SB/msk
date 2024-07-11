@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mzdové vstupy_KK"
+    id="id-3a71a5a9562442a8938b98ca9a271391"
+    documentation="Obecný import SLM, který umožňuje hromadně nahrát vstupní data (SLM) zaměstnanců z jiných systémů za sledované zúčtovací období do formuláře Vyp01. V požadovaných standardních formátech EGJE. &#xD;&#xA;Import vstupních dat realizovaný prostřednictvím: &#xD;&#xA;- Vst06 – Import SLM &#xD;&#xA;- Vst11 – Kontrola a import dalších vstupů  &#xD;&#xA;&#xD;&#xA;soubory formátu csv nebo xls(x)&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"/>

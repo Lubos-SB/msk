@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poskytování služeb za úplatu_P008"
+    id="id-1569935f"
+    documentation="Za úplatu umožňuje fotografování, filmování, pořizování videozáznamů, kopií dokumentů a další služby související s hlavní činností organizace, a to prodej katalogů, upomínkových 3 předmětů. Poskytuje reklamní služby při zpřístupňování svých sbírek. Poskytuje služby konzervátorských a restaurátorských dílen, učeben a laboratoří.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessFunction>

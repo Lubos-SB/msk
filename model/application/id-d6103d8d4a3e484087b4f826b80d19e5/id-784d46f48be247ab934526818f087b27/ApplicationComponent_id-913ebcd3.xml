@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portál pacienta_KK"
+    id="id-913ebcd3"
+    documentation="Přístup k elektronicky podepsaným zdravotním dokumentacím z portálu pacienta">
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Datum_aktualizace"
+      value="8.10.2018"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Plaček"/>
+</archimate:ApplicationComponent>

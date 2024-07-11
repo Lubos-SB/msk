@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dokumenty zaměstnance_KK"
+    id="id-b4979664849b48f69c05de6b1689121c"
+    documentation="Zaměstnanci mají možnost požádat o dokumenty definované zákazníkem přes HR Portál. Mzdová účtárna obdrží žádost, dokument vygeneruje, systém zaměstnance upozorní a dokument je možno si přes HR portál vyzvednout. Mzdová účetní má i možnost tohoto aparátu využít k hromadnému odeslání vybraných dokumentů bez předchozí žádosti zaměstnance."/>

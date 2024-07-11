@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ISP_GOV"
+    id="id-975e0f65">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Typ_aplikace"
+      value="Externí"/>
+</archimate:ApplicationComponent>

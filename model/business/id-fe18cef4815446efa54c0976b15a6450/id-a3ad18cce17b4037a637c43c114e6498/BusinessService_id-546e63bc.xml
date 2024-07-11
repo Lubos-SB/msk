@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služby bezpečnostních politik IT pro KÚ MSK_KU"
+    id="id-546e63bc"
+    documentation="Cílem je vytvoření návrhu metodiky zpracování jednotlivých bezpečnostních politik pro PO a aktualizace bezpečnostních politik a dokumentace pro dlouhodobé řízení ISVS povinného subjektu podle zákona číslo 365/2000 Sb., o Informačních systémech veřejné správy a na základě zákona č. 181/2014 Sb. s ohledem na povinných 14 oblastí definovaných ve vyhlášce č. 316/2014 Sb. Aktualizovány budou dokumenty ve verzích aktuálních k datu realizace aktualizací pro KÚ MSK.">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Typ_služby"
+      value="Místní"/>
+  <properties
+      key="Název_zdroje"
+      value="Projektová fiše pro velké projekty realizované v rámci programového období EU 2014-2020"/>
+</archimate:BusinessService>

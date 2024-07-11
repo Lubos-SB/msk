@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zdravotnictví"
+    id="id-6e92b785">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessRole>

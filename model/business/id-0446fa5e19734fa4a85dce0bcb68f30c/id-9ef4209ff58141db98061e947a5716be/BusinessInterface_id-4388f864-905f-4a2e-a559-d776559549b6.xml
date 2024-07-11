@@ -1,0 +1,21 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API telemedicíny_KU"
+    id="id-4388f864-905f-4a2e-a559-d776559549b6"
+    documentation="Rozhraní pro komunikaci se systémy NIS v nemocnicích - předávání zprav ve formátu PDF, synchronizace pacientů.">
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Datum_zakreslení"
+      value="24.9.2018"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Plaček"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+</archimate:BusinessInterface>

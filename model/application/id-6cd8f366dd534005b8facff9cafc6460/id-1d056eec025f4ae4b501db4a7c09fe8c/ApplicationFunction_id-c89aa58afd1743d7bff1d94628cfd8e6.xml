@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Benefity _KK"
+    id="id-c89aa58afd1743d7bff1d94628cfd8e6"
+    documentation="Okruh řešení Ben = Benefity řeší evidenci poskytovaných benefit – zaměstnaneckých výhod rozdělených podle specifických druhů.&#xD;&#xA;Základní vazbou tohoto okruhu je vazba mezi osobou a číselníkem ZV (Ben01 -> Bec01).&#xD;&#xA;Další vazby se týkají specifických druhů benefit s případným rozlišením podle profesních typů osob.&#xD;&#xA;&#xD;&#xA;Řešení FKSP."/>

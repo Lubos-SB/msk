@@ -1,0 +1,12 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notebooky_zastupitel"
+    id="bb855906-c719-4971-bdb1-21e978fa2fe4"
+    documentation="Zařízení  ve vlastnictví zastupitelů, kteří se připojují do interní sítě KÚ.">
+  <properties
+      key="Datum_zakreslení"
+      value="19.7.2018"/>
+  <properties
+      key="Stav"
+      value="Aktivní"/>
+</archimate:Device>

@@ -1,0 +1,20 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GSM_PP"
+    id="d0c82446">
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="PP"/>
+  <properties
+      key="Datum_aktualizace"
+      value="16.11.2018"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Plaček"/>
+</archimate:Node>

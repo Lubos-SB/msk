@@ -1,0 +1,36 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ELM – LOGARCHIVE_KU"
+    id="id-08f5b4b8-03e6-41cb-b569-164a7f79fcfa"
+    documentation="Pro potřebu dlouhodobé archivace, byl vytvořen Log Archive. Data bez normalizace jsou dostupná přes dashboard v konzoli McAfee. V těchto datech lze vyhledávat fulltextově přímo v packetech. &#xD;&#xA;Logy se ze zákona ukládají min. 1 rok.">
+  <properties
+      key="Datum_aktualizace"/>
+  <properties
+      key="Datum_vzniku_entity"
+      value="17.12.2018"/>
+  <properties
+      key="Datum_zakreslení"
+      value="17.12.2018"/>
+  <properties
+      key="Datum_zániku_entity"/>
+  <properties
+      key="ID"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Osoba_Autor"
+      value="Alois Slovák"/>
+  <properties
+      key="Osoba_Správce"
+      value="Bezpečnostní manažer"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Tomáš Vašica"/>
+  <properties
+      key="Stav"
+      value="Aktivní"/>
+</archimate:DataObject>

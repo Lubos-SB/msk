@@ -1,0 +1,14 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Webové stránky_P009"
+    id="id-4ee5a8e8">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Internet"/>
+  <properties
+      key="Odkaz_zdroj"
+      value="http://www.svkos.cz/"/>
+</archimate:ApplicationService>

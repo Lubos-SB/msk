@@ -1,0 +1,15 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ArcGIS Licence Manager 10.3.1_KU"
+    id="e45e8513"
+    documentation="Umožňuje v intranetové síti spustit, dle licenčního souboru, daný počet instancí aplikačního GIS SW (ArcView, ArcEditor, ArcInfo a další speciální nádstavby pro tyto produkty).">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="190"/>
+</archimate:SystemSoftware>

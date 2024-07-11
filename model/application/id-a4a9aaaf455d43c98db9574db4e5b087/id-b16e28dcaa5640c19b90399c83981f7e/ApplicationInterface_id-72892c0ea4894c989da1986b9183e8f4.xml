@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Komunikační adaptéry ESB HC"
+    id="id-72892c0ea4894c989da1986b9183e8f4"
+    documentation="Rozhraní komunikačních adapterů/protokolů ESB v prostředí Hospital CLOUD (HC)"/>

@@ -1,0 +1,36 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CTY KMORSLEZ OWN"
+    id="f3cc5513"
+    purpose="Klasifikace metamodelu úřadu dle principu Šanonu&#xD;&#xA; &#xD;&#xA;zdroj: NAR Architektura eGovernmentu ČR (https://archi.gov.cz/znalostni_baze:atributy) &#xD;&#xA;&#xD;&#xA;-- Každý úřad má svůj šanon, podle kterého je jasně identifikovatelný (Klasifikace modelovaného úřadu)&#xD;&#xA;-- Každý úřad má JEDEN svůj celkový model, popisující úřad jako celek ve zjednodušené formě (Klasifikace modelu úřadu)&#xD;&#xA;-- Každý úřad má mnoho pohledů na své modely (Klasifikace pohledu - diagramu).&#xD;&#xA;-- Každý úřad má jeden model (diagram) pro jeden provozovaný informační systém ve veřejné správě (Klasifikace informačního systému)&#xD;&#xA;-- Model jest soubor objektů a vazeb mezi objekty zobrazené v předem definovaných definic pohledů&#xD;&#xA;-- Model jest v šanonu oddělovací papír (záložka) se svojí klasifikací a jsou jednotlivé pohledy na model jako samostatné listy&#xD;&#xA;-- Každý model obsahuje kromě své klasifikace i klasifikaci modelujícího úřadu&#xD;&#xA;-- Jedná se jen o klasifikace modelů, ne o klasifikace pohledů či objektů&#xD;&#xA;-- Fyzicky je model přenosový soubor dle standardu (T)OGAMEFF 2.0 (https://www.mvcr.cz/mvcren/ViewFile.aspx?docid=22040967) - ještě není v detailu dokončeno, ani dle NAR&#xD;&#xA;&#xD;&#xA;@fryc@servodata.net&#xD;&#xA;-- praktičtější je používat stadardní výměnný formát OGAMEFF 1.1 (Open Group ArchiMate® Model Exchange File Format) - kompletní dokumentace zde (https://pubs.opengroup.org/architecture/archimate31-exchange-file-format-guide/)&#xD;&#xA;&#xD;&#xA;Rozcestník:&#xD;&#xA;&#xD;&#xA;-- Úřad&#xD;&#xA;&#x9;--- Model&#xD;&#xA;&#x9;&#x9;---- Pohled&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;----- Obecný prvek&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;----- Obecná vazba&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;------ Business funkce (není ještě v NAR definováno)&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;------ Informační systém (probíhá v NAR konsolidací, v modelu CTY KMORSLEZ OWN bude upraveno následně)"
+    version="5.0.0">
+  <properties
+      key="agency_ID [identifikace_uradu]"
+      value="70890692"/>
+  <properties
+      key="agency_PS_level [uroven_VS]"
+      value="CTY [KRJ]"/>
+  <properties
+      key="model_ID [ID_modelu]"/>
+  <properties
+      key="model_type [druh_modelu]"
+      value="IM [IM]"/>
+  <properties
+      key="model-name [jmeno_modelu]"
+      value="CTY KMORSLEZ OWN"/>
+  <properties
+      key="model_version [verze_modelu]"
+      value="0.1"/>
+  <properties
+      key="model_resp_pers_ID [ID_odp_osoba_model]"
+      value="&lt;id_sluzebni_cislo>"/>
+  <properties
+      key="model_resp_pers_name [odp_osoba_jmeno_model]"
+      value="Alois Slovák"/>
+  <properties
+      key="model_update_date [aktualizace_modelu_datum]"
+      value="17.01.2021"/>
+  <properties
+      key="model_valid_to [platnost_modelu_do_datum]"
+      value="dd.mm.rrrr"/>
+</archimate:ArchimateModel>

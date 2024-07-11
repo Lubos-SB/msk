@@ -1,0 +1,35 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Server - VM - EX16F2_KU"
+    id="a12ea9ab-d48a-48bb-a0a2-c0d29ff61814">
+  <properties
+      key="Datum_aktualizace"
+      value="20.4.2018"/>
+  <properties
+      key="Datum_vzniku_entity"
+      value="10.1.2018"/>
+  <properties
+      key="Datum_zakreslení"
+      value="20.4.2018"/>
+  <properties
+      key="Datum_zániku_entity"/>
+  <properties
+      key="ID"/>
+  <properties
+      key="Míra_detailu"/>
+  <properties
+      key="Organizace_Popisovana"
+      value="KU"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Osoba_Autor"
+      value="Tomáš Kejha"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Petr Čáp"/>
+  <properties
+      key="Stav"
+      value="Aktivní"/>
+</archimate:Device>

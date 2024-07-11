@@ -1,0 +1,14 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Windows Server 2008 Enterprise x64 (MSA)_KU"
+    id="id-6e9e6b15">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Analýza a návrh řešení: Centrální e-mail korporace"/>
+  <properties
+      key="Datum_terminace"
+      value="2020"/>
+</archimate:SystemSoftware>

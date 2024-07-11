@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vyúčtování stravného SP_KK"
+    id="a9ccb32b"
+    documentation="•&#x9;Vyúčtování stravného zahrnuje předpisy a platby, převody mezi měsíci, hromadné nástroje, tisk pokladních dokladů, podkladů pro vyúčtování.&#xD;&#xA;•&#x9;Vytváření měsíčních uzávěrek, možnost zrušení uzávěrky bez ztráty dat.&#xD;&#xA;•&#x9;Tisk výdejek potravin, rozpisů pro kuchaře, jídelních lístků, rozborů nutričních hodnot, přehledů stravovacích norem."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Správa smluv_KK"
+    id="id-077bfae4"
+    documentation="Funkce pro správu smluv.&#xD;&#xA;-&#x9;evidence všech typů smluv včetně dodatků, zajištění procesu životního cyklu smlouvy včetně tvorby dokumentů a tiskových sestav,&#xD;&#xA;-&#x9;zajištění kompletní historie záznamů v čase, &#xD;&#xA;-&#x9;založení smlouvy s možností příloh, dodatků a možností připsání poznámky, &#xD;&#xA;-&#x9;automatické číslování smluv dle nastavených číselníků (číselných řad smluv),&#xD;&#xA;-&#x9;přednastavení smluvní strany, libovolné množství smluvních stran a podepisovatelů, &#xD;&#xA;-&#x9;možnost dodatkování smluv (změny parametrů), &#xD;&#xA;-&#x9;vkládání naskenovaných smluv, dodatků a příloh"/>

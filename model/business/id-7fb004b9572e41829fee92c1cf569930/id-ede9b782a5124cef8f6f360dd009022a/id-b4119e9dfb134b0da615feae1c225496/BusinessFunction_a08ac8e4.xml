@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Účast v odborných sdruženích_P008"
+    id="a08ac8e4"
+    documentation="Vstupuje do profesních sdružení za účelem koordinace odborné činnosti. V oboru své činnosti spolupracuje s tuzemskými i zahraničními partnery.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessFunction>

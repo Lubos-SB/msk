@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WCL webové rozhraní_KU"
+    id="id-58af6b07">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"/>
+  <properties
+      key="Kód_CMDB"/>
+</archimate:ApplicationComponent>

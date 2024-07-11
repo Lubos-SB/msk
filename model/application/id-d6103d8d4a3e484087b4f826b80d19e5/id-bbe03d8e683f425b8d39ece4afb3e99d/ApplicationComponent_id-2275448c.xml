@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geoserver Manager_KU"
+    id="id-2275448c">
+  <properties
+      key="Název_zdroje"/>
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Kód_CMDB"/>
+</archimate:ApplicationComponent>

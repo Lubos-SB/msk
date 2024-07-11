@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KRIZDATA_KU"
+    id="id-0b3bf370"
+    documentation="Malá lokální aplikace, která je nainstalovaná na noteboocích pracovníků oddělení pro krizové řízení – obsahuje kontakty na statní zásoby hmotných rezerv.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="644"/>
+</archimate:ApplicationComponent>

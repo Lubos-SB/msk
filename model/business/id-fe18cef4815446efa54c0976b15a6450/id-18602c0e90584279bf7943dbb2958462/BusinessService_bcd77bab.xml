@@ -1,0 +1,14 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cash pooling_KK"
+    id="bcd77bab"
+    documentation="Zajištění výhodnějšího zhodnocení finančních prostředků pomocí vyšší úrokové sazby dosažené fiktivním sdružením kreditních zůstatků bankovních účtů přidružených organizací u jedné banky">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:BusinessService>

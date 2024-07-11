@@ -1,0 +1,11 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autentizace fyzické osoby_GOV"
+    id="id-309cdf7e-dae9-4d33-bd04-901261357e53">
+  <properties
+      key="Datum_zakreslení"
+      value="8.10.2018"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+</archimate:ApplicationService>

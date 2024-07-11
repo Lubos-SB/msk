@@ -1,0 +1,11 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Obchodním rejstřík _GOV"
+    id="id-4068ea52">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Mapa procesů KU"/>
+</archimate:ApplicationService>

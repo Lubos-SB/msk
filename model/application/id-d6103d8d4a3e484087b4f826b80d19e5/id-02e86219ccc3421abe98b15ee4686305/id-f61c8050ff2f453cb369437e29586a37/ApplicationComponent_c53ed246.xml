@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fons Reports_P005"
+    id="c53ed246"
+    documentation="Mají také vlastní systém Fons report (převážně pro kontrolu dat ve sdíleném systému, nebo využití dle zvyku uživatele)">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:ApplicationComponent>

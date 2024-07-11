@@ -1,0 +1,11 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Občan_KU"
+    id="f3dfb8f0">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Procesní mapa KU"/>
+</archimate:BusinessActor>

@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KDU PACS_KU"
+    id="id-7e72782f">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Datum_aktualizace"
+      value="21.7.2018"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KÚ"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KÚ"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Kamil Plaček"/>
+  <properties
+      key="Stav"
+      value="Aktivní"/>
+</archimate:ApplicationComponent>

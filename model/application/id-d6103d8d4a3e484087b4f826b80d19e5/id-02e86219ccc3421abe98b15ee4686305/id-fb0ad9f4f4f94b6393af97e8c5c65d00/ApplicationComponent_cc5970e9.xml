@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inventarizace_P001"
+    id="cc5970e9"
+    documentation="Obecně se jedná o SW evidence majetku. Dodavatelem je Bolcek.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Dotazník"/>
+  <properties
+      key="Sheet"
+      value="G4-G10"/>
+  <properties
+      key="Datum_terminace"
+      value="2020"/>
+</archimate:ApplicationComponent>

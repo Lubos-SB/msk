@@ -1,0 +1,16 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jednotná metodika personálního řízení_KK"
+    id="id-650ef225">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Název_zdroje"
+      value="Vstupní analýza zavedení jednotného personálního a mzdového systému"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:BusinessService>

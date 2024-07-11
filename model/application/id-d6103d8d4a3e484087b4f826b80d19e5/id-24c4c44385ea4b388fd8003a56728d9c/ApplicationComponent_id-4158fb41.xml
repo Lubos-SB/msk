@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Speciální sklady_KK"
+    id="id-4158fb41"
+    documentation="Nástroje pro evidenci libovolného počtu skladů. Obsažené nástroje usnadní zadávání příjemek a výdejek, tisk výkazů, provádění inventur a uzávěrek. V rámci informačního systému je používány především sklady potravin. Z jejich položek se vytváří receptury pro stravovací provoz a lze z nich odepisovat výdejky.&#xD;&#xA;Sklad je speciální pro danou problematiku a proto nebude napojen na JEIS."/>

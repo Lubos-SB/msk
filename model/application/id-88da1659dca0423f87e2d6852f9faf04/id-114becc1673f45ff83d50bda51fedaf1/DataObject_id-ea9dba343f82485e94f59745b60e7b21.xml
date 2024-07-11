@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Účetní data mzdová_KK"
+    id="id-ea9dba343f82485e94f59745b60e7b21"
+    documentation="Data pro vazbu na účetní systémy &#xD;&#xA;Bude specifikován soubor, který se bude přenášet do jednotlivých účetních systémů."/>

@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evidování a zpracovávání dokumentů_P009"
+    id="id-3da63f52"
+    documentation="Eviduje a zpracovává získané dokumenty, přičemž vytváří databáze v rámci informačního fondu">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/071/2001"/>
+</archimate:BusinessFunction>

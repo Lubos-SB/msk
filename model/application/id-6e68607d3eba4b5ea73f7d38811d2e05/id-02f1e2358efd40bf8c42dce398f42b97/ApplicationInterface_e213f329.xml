@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nový zaměstnanec_KK"
+    id="e213f329"
+    documentation="Poskytnutí dat o novém zaměstnanci, případně změně pracovního zařazení. Např. docházka, přístupy do budov apod."/>

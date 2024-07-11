@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MFČR_GOV"
+    id="c044c6f0"
+    documentation="Ministerstvo financí České republiky">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessActor>

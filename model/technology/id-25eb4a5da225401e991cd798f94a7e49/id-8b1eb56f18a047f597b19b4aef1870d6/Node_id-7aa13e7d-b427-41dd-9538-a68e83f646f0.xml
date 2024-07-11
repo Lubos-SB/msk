@@ -1,0 +1,36 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SARCH_KU"
+    id="id-7aa13e7d-b427-41dd-9538-a68e83f646f0"
+    documentation="CIFS uložiště \\sarch\siemarch IP: 172.30.53.54 . Pro připojení uložiště byl využit servisní účet agentSIEM. Toto uložiště slouží pro dlouhodobé ukládání RAW logů (Logmanagement). jde o windows virtuální server.&#xD;&#xA;&#xD;&#xA;Při odpojení CIFS, nedojde k omezení funkčnosti příjmu a zpracování real-time dat SIEMU. Zpracování a vyhledávání logarchivních dat nebude po dobu odpojení CIFS možné. Data jsou zajištěna za pomoci digitálního podpisu a kontroly kontrolního součtu.&#xD;&#xA;&#xD;&#xA;Obnova:&#xD;&#xA;Pro obnovení systému je nutné provést obnovení dvou částí systému ESM a ELM. Oba tyto systémy mají vlastní zálohu.&#xD;&#xA;&#xD;&#xA;1. Postup pro obnovení ESM:&#xD;&#xA;V případě nutnosti re-image celého systému je vždy nutné řešit se supportem Mcafee. Záloha musí být provedena na stejnou verzi OS na kterém byla vytvořena. Další popis zálohování a obnovení je obsažen v dokumetaci výrobce.&#xD;&#xA;V systému je nastveno přírustkové zálohování na každý den. Je tedy možné obnovit jen určitý počet dní. Pokud např. je nutné obnovit zálohu konfigurace a real-time data za poslední 3dny je nutné označit poslední 3 zálohy.&#xD;&#xA;&#xD;&#xA;2. Postup pro obnovení konfigurace ELM:&#xD;&#xA;V případě, že je již konfigurace ESM funkční je nutné provést obnovení nastavení pro ELM. Toto nastavení je automatizovaně ukládáno každý den na CIFS share. Pro obnovení je nutné nakonfigurovat CIFS stejně jako je uvedeno v kapitole ELM. Dále pak spustit obnovu ze zálohy.">
+  <properties
+      key="Datum_aktualizace"/>
+  <properties
+      key="Datum_vzniku_entity"
+      value="17.12.2018"/>
+  <properties
+      key="Datum_zakreslení"
+      value="17.12.2018"/>
+  <properties
+      key="Datum_zániku_entity"/>
+  <properties
+      key="ID"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Osoba_Autor"
+      value="Alois Slovák"/>
+  <properties
+      key="Osoba_Správce"
+      value="Správce operačních systémů a správce sítí"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Tomáš Vašica"/>
+  <properties
+      key="Stav"
+      value="Aktivní"/>
+</archimate:Node>

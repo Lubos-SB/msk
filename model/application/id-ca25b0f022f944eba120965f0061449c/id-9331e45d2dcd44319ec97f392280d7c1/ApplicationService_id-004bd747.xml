@@ -1,0 +1,14 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cloudová podpora týmové spolupráce_KU"
+    id="id-004bd747">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Typ_služby"
+      value="Místní"/>
+  <properties
+      key="Název_zdroje"
+      value="Připomínka pana Slováka ze dne 22.6.2016 zaslaná e-mailem"/>
+</archimate:ApplicationService>

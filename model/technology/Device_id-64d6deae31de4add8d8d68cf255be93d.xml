@@ -1,0 +1,11 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hardware virtualizačního hostu 1"
+    id="id-64d6deae31de4add8d8d68cf255be93d">
+  <properties
+      key="Vyrobce"
+      value="HPE"/>
+  <properties
+      key="Typ"
+      value="ProLiant DL385 Gen10 Plus v2 8LFF Configure-to-order Server"/>
+</archimate:Device>

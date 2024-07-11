@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Periodické a neperiodické publikace_P008"
+    id="e5142cb1"
+    documentation="Vydává a veřejně šíří periodické a neperiodické publikace">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessFunction>

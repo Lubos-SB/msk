@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mimoškolské aktivity_P003"
+    id="db5f0c56"
+    documentation="Mimoškolní výchova a vzdělávání, výchovné, relaxační, zotavovací akce a sportovní kurzy.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/020/2001"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Parametrické vyhledávání JESS_KK"
+    id="e7df5cbb"
+    documentation="Zajištění parametrického vyhledávání přes celý systém napříč všemi daty včetně vedlejších tabulek na základě zadaných kritérií.&#xD;&#xA;Podpora fulltextového vyhledávání přes celý systém – včetně všech vedlejších tabulek včetně přiložených dokumentů, které jsou opatřena textovou vrstvou.&#xD;&#xA;Podpora snadného řazení, vyhledávání a filtrování, včetně sestav. &#xD;&#xA;Podpora ukládání uživatelských filtrů a nastavení."/>

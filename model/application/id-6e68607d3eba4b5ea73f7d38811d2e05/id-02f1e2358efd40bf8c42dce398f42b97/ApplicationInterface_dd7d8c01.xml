@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Export sestav pro PF_KK"
+    id="dd7d8c01"
+    documentation="Generování sestavy do požadovaného formátu pro další zpracování pro penzijní a životní pojištění"/>

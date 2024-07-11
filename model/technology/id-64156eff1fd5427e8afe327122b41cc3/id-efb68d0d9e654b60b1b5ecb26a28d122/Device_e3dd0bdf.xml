@@ -1,0 +1,8 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tiskárny_KU"
+    id="e3dd0bdf">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:Device>

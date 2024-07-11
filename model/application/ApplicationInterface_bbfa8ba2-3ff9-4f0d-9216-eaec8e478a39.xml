@@ -1,0 +1,21 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rozhraní měřícího přístroje_PP"
+    id="bbfa8ba2-3ff9-4f0d-9216-eaec8e478a39"
+    documentation="Rozhraní pro odesílání naměřených dat pacienta">
+  <properties
+      key="Datum_zakreslení"
+      value="3.10.2018"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Plaček"/>
+</archimate:ApplicationInterface>

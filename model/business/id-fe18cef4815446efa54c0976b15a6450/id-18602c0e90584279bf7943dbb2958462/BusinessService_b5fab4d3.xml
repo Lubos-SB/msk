@@ -1,0 +1,16 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Podpora EA_KK"
+    id="b5fab4d3">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Název_zdroje"
+      value="Navrhováno dodavatelem KPMG"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:BusinessService>

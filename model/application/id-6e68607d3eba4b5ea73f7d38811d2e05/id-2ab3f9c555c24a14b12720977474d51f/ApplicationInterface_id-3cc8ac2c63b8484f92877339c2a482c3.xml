@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Příjem auditní události dle ATNA (ITI20) HC"
+    id="id-3cc8ac2c63b8484f92877339c2a482c3"
+    documentation="Rozhraní pro příjem auditní informace dle ATNA (ITI20)"/>

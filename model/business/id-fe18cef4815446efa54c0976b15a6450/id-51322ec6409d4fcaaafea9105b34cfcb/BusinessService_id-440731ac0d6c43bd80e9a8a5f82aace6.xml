@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služba zajišťování komunikace s externími systémy HC"
+    id="id-440731ac0d6c43bd80e9a8a5f82aace6"
+    documentation="Business služba pro zajištění komunikace s externími systémy (služby veřejné správy, služby veřejných CLOUDů, služby základních regstrů)"/>

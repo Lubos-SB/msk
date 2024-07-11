@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služby pro začlenění do federace sběrnic služeb_KU"
+    id="dcffa66d"
+    documentation="Služby, které zajišťují spolupráci sběrnice služeb daného&#xD;&#xA;OVM s centrální sběrnicí veřejné spráby (eGSB). Tyto&#xD;&#xA;služby se dělí na dvě základní skupiny:&#xD;&#xA;- služby pro poskytování a publikace vlastních služeb OVM&#xD;&#xA;na vyšší agregační úrovni federace sběrnic (metadata:&#xD;&#xA;včetně části obsahu katalogu služeb, který nabízené služby&#xD;&#xA;popisuje)&#xD;&#xA;- konzumace nabízených služeb jinými subjekty na vyšší&#xD;&#xA;agregační úrovni federace sběrnic">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Název_zdroje"
+      value="Krajský architektonický model eGovernmentu"/>
+</archimate:TechnologyService>

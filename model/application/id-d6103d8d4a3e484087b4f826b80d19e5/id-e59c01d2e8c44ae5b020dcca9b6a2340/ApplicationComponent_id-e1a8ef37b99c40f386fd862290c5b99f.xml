@@ -1,0 +1,26 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Design systém_GOV"
+    id="id-e1a8ef37b99c40f386fd862290c5b99f"
+    documentation="Design systém gov.cz (https://designsystem.gov.cz/#/)&#xD;&#xA;Design systém je scénář, podle kterého Ministerstvo vnitra navrhuje a vyvíjí weby a digitální produkty. Design systém má pomoci dalším týmům rychleji vytvářet digitální produkty, které budou konzistentní napříč veřejnou správou.">
+  <properties
+      key="Datum_aktualizace"/>
+  <properties
+      key="Datum_terminace"/>
+  <properties
+      key="Datum_vzniku"/>
+  <properties
+      key="Datum_vzniku_entity"/>
+  <properties
+      key="Datum_zakreslení"
+      value="28.6.2022"/>
+  <properties
+      key="Datum_zániku_entity"/>
+  <properties
+      key="Organizace_Provozovatel"/>
+  <properties
+      key="Organizace_Spravce"/>
+  <properties
+      key="Osoba_Autor"
+      value="Kamil Plaček"/>
+</archimate:ApplicationComponent>

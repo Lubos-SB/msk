@@ -1,0 +1,23 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Správa majetku (FAMA+)_KK"
+    id="d76d137f"
+    documentation="Komplexní systém pro správu nehmotného majetku včetně energetického managementu.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="https://portal.kr-moravskoslezsky.cz/pokr/www/katalog/"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Odkaz_zdroj"
+      value="https://portal.kr-moravskoslezsky.cz/pokr/www/katalog/default/detail/32"/>
+  <properties
+      key="Datum_terminace"
+      value="2020"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:ApplicationService>

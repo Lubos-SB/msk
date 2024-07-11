@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služba objednání HC"
+    id="id-4e45065875bc4d80bddf35539b1e4c58"
+    documentation="Sužba pro objednání pacienta"/>

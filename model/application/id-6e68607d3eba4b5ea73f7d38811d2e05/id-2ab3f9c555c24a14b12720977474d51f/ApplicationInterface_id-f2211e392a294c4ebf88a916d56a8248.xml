@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vstupní API pro centrální číselníky HC"
+    id="id-f2211e392a294c4ebf88a916d56a8248"
+    documentation="Rozhraní vstupního API pro vytvoření/editaci centrálních číselníků"/>

@@ -1,0 +1,14 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informační systém &quot;OKSlužby - poskytovatel&quot;_GOV"
+    id="id-1f7c6f64">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Typ_aplikace"
+      value="Externí"/>
+  <properties
+      key="Název_zdroje"
+      value="Procesní mapa"/>
+</archimate:ApplicationComponent>

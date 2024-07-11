@@ -1,0 +1,20 @@
+<archimate:ApplicationCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rezervace a plánování termínů_KK"
+    id="id-3ae1dce0-0177-4f6f-9c01-bc9031d8e1ee">
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Datum_aktualizace"
+      value="25.10.2018"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Plaček"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+</archimate:ApplicationCollaboration>

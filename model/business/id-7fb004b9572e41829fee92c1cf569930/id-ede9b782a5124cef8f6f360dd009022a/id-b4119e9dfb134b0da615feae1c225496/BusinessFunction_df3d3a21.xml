@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Odborné konference a akce_P008"
+    id="df3d3a21"
+    documentation="Pořádá samostatně či v součinnosti s jinými právnickými nebo fyzickými osobami odborné konference a akce obdobného charakteru vztahující se k předmětu hlavní činnosti. Na svěřeném úseku pořádá tematické kulturní, vzdělávací a přednáškové akce">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessFunction>

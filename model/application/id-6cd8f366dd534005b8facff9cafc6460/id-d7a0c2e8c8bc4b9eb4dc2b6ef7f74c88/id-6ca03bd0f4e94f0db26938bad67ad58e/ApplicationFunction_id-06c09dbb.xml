@@ -1,0 +1,11 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Komunikace s bankou_P007"
+    id="id-06c09dbb">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Připomínky"/>
+</archimate:ApplicationFunction>

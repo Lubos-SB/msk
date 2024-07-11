@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ESB integrační rozhraní HC"
+    id="id-29d44cce61a54839a87cc33b139f2415"
+    documentation="ESB integrační rozhraní pro umožnění komunikace s komponentou ESB integrační rozhraní"/>

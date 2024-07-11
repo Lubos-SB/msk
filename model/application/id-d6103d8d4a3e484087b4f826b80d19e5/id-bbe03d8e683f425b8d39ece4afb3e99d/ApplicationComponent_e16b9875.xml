@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TAGRA.euc _KU"
+    id="e16b9875"
+    documentation="Vyhodnocení dat ze záznamových listů a z digitálních karet řidičů jakož i záznamových zařízení (tachografů). Databáze je instalována na 2 přenosných počítačích (svobodanb, gulanb) a data jsou synchronizována s databází na serveru.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="133"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IDM_KK"
+    id="f96e15bb"
+    documentation="Správa uživatelů, autentifikace do všech poskytovaných systémů"/>

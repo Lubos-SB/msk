@@ -1,0 +1,12 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elektronická správa řídících dokumentů_KU"
+    id="f316a90b"
+    documentation="Jedná se o: SW umožňujícího tvorbu, publikaci, podepisování a bezpečnou archivaci vnitřních předpisů, jejich vzájemné propojení a dále jejich propojení s katalogem rizik, katalogem aktiv a dokumenty procesního řízení">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Název_zdroje"
+      value="Fiše: SW umožňujícího tvorbu, publikaci, podepisování a bezpečnou archivaci vnitřních předpisů, jejich vzájemné propojení a dále jejich propojení s katalogem rizik, katalogem aktiv a dokumenty procesního řízení"/>
+</archimate:ApplicationService>

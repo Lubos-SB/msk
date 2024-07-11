@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Předávání auditních událostí HC"
+    id="id-25c456b353e34478a24e575365ada615"
+    documentation="Služba pro předávání auditních událostí HC"/>

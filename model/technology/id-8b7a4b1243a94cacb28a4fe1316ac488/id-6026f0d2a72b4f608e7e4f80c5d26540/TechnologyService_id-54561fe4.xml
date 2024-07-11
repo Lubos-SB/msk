@@ -1,0 +1,23 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vysokorychlostní síť MSK_KK"
+    id="id-54561fe4"
+    documentation="Pořízení vysokorychlostní, otevřené, moderní a bezpečné datové sítě Moravskoslezského kraje podporující rozvoj sdílených služeb. Vysokorychlostní datovou sítí bude propojeno technologické centrum kraje s klíčovými organizacemi zřizovanými a popř. zakládanými krajem a složkami IZS. V rámci projektu je plánováno propojení vysokorychlostní datové sítě na dotčené metropolitní datové sítě na území kraje a infrastrukturu dalších subjektů veřejné správy s umožněním sdílení s krizovou infrastrukturou řešenou státem.">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Název_zdroje"
+      value="Odvětvové strategické záměry"/>
+  <properties
+      key="Název_zdroje"
+      value="Projektová fiše pro velké projekty realizované v rámci programového období EU 2014-2020"/>
+  <properties
+      key="Název_zdroje"
+      value="Vysokorychlostní datová síť Moravskoslezského kraje"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:TechnologyService>

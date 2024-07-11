@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vědecký a vzdělávací portál HC"
+    id="id-576b03209583490ca838eaad74784bbf"
+    documentation="Aplikační služba reprezentující Vědecký a vzdělávací portál pro řešení Hospital CLOUD (HC). Bude vytvářet prostředí pro další vzdělávání lékařů a sester."/>

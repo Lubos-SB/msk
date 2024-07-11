@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Propagace a osvěta_P011"
+    id="id-77ab04f9"
+    documentation="Zajišťování propagace a osvěty v oblasti energetických úspor a obnovitelných zdrojů energie">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/362/2014"/>
+</archimate:BusinessFunction>

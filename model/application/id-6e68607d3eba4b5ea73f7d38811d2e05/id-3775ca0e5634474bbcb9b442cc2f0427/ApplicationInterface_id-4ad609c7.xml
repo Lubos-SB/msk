@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VE čtení ČT_GOV"
+    id="id-4ad609c7"
+    documentation="Poskytující konektor vnějšího rozhraní informačního systému základních registrů čtenářskému agendovému informačnímu systému pro čtení ze základních registrů prostřednictvím informačního systému základních registrů."/>

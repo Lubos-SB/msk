@@ -1,0 +1,17 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Server - MSA_KU"
+    id="fc947093">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="264"/>
+  <properties
+      key="Datum_zániku_entity"
+      value="2017"/>
+</archimate:Device>

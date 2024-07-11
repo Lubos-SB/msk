@@ -1,0 +1,18 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pravidelný audit logů_KU"
+    id="id-2bda652b"
+    documentation="Systém pro pravidelný audit logů z jednotlivých systémů (např. Active Directory, popř. systému, které byly zařazeny dle zákona o kybernetické bezpečnosti mezi významné informační systémy). V Active Directory jde zejména zavedení auditu nad všemi objekty v Active Directory, detailního přehledu změn typu Kdo, Kdy, Co, Kde, Jak a automatické kontroly u důležitých změn v Active Directory, portálu kraje a v systémech vnitřní integrace úřadu, významných informačních systémech a klíčových informačních systémech.">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Typ_služby"
+      value="Místní"/>
+  <properties
+      key="Název_zdroje"
+      value="Projektová fiše pro velké projekty realizované v rámci programového období EU 2014-2020"/>
+  <properties
+      key="Název_projektu"
+      value="Realizace bezpečnostních opatření podle zákona o kybernetické bezpečnosti"/>
+</archimate:ApplicationService>

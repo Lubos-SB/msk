@@ -1,0 +1,20 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pacient"
+    id="ab91b996">
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Šrubařová"/>
+  <properties
+      key="Datum_aktualizace"
+      value="25.10.2018"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KK"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+</archimate:BusinessRole>

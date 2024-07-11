@@ -1,0 +1,11 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Přístup pro MDM zařízení_KU"
+    id="id-1c3c86ac">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Analýza a návrh řešení: Centrální e-mail korporace"/>
+</archimate:TechnologyInterface>

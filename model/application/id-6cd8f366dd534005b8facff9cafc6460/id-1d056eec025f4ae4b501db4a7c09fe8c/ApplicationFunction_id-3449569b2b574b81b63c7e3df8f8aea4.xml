@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evidence dokumentů_KK"
+    id="id-3449569b2b574b81b63c7e3df8f8aea4"
+    documentation="Dokumetny zaměstnance pro personální oddělení.&#xD;&#xA;Přehledy dokumentů&#xD;&#xA;Formulář Opv31 umožňující přikládat dokumenty, které se váží k osobě a k PV. Vlastní dokumenty jsou uloženy v databázi v objektu typu BLOB (cetpvdok.dokument) a to bez komprimace aplikací.&#xD;&#xA;Maximální velikost vkládaného dokumentu je 5 MB.&#xD;&#xA;EGJE obsahuje možnost sledování evidence, že si někdo dokument přečetl. Eviduje, že si uživatel dokument stáhl a umožňuje mu pomocí tlačítka  &quot;Seznámil jsem se s dokumentem&quot; zanést tuto skutečnost do EGJE. &#xD;&#xA;Tlačítkem je vybaven jednak standardní Opv31. Tlačítko je viditelné tehdy, když se jedná o dokument evidovaný na PV zaměstnance, který je jako uživatel právě přihlášen (typicky zaměstnanecký profil). Poté, co si uživatel dokument stáhne (&quot;Otevři dokument&quot;), se tlačítko zpřístupní (v některých případech je zapotřebí znovuotevření formuláře či znovunačtení dat).&#xD;&#xA;"/>

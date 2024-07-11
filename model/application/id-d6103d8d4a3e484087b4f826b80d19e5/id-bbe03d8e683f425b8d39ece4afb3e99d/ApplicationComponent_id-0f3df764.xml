@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SIEM_KU"
+    id="id-0f3df764"
+    documentation="McAfee Enterprise Security Manager (McAfee ETM-5700-ELM) – jedná se o all-in-one HW 1U box, který řeší management bezpečnostních informací a událostí včetně Log managementu. &#xD;&#xA;&#xD;&#xA;Pro přístup k systému je dostupná webová konzola, která využívá HTML5 a adobe flash. Pro správnou funkčnost je nutné, aby prohlížeč podporoval obě tyto technologie.&#xD;&#xA;&#xD;&#xA;System je nakonfigurován pro ověřování v AD. Pro lokální přihlášení je nutné využít účet NGCP.&#xD;&#xA;Pro vytvoření nové skupiny, která bude ověřována v AD je nutné, aby se skupina vytvořena v bezpečnostním dohledovém systému jmenovala stejně jako skupina vytvořena v AD.">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+</archimate:ApplicationComponent>

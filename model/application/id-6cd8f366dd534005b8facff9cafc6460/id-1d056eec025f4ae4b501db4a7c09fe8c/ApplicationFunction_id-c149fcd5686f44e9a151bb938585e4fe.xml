@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interní pošta_KK"
+    id="id-c149fcd5686f44e9a151bb938585e4fe"
+    documentation="Typické použití - předávání a uchovávání citlivých sestav a zpráv mezi uživateli EGJE pomocí interního mailu v aplikaci. &#xD;&#xA;Hlavním použitím je vytvoření sestavy nějakým uživatelem a odeslání jinému uživateli&#xD;&#xA;(pomocí nových tlačítek Pošli vnitřní poštou a Zobraz &amp; pošli)."/>

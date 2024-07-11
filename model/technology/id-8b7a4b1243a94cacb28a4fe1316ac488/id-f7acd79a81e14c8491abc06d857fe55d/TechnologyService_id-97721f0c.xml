@@ -1,0 +1,11 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autonomní systém_KU"
+    id="id-97721f0c">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Název_zdroje"
+      value="Připomínky k TO-BE architektuře ze dne 22.6."/>
+</archimate:TechnologyService>

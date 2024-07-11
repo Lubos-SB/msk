@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kontrolní vážení_P010"
+    id="id-221c846d"
+    documentation="Zajištění kontrolního vážení vozidel podle zákona č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších, včetně vydávání pověření ke kontrolnímu vážení vozidel jiné osobě.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessFunction>

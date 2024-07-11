@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Automatická konfigurace"
+    id="id-141b0bb7">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5d02e04c.xml#id-5d02e04c"/>
+  <target
+      xsi:type="archimate:ApplicationCollaboration"
+      href="ApplicationCollaboration_bbc539a7.xml#bbc539a7"/>
+</archimate:FlowRelationship>

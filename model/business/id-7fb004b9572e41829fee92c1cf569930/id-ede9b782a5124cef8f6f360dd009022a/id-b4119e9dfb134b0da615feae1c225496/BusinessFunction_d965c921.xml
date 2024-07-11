@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poskytování odporné pomoci_P008"
+    id="d965c921"
+    documentation="Ve smyslu vyhlášky Ministerstva kultury č. 275/2000 Sb. poskytuje odbornou pomoc a služby vlastníkům sbírek muzejní povahy. Odbornou pomoc ostatním vlastníkům sbírek a jednotlivých uměleckých děl poskytuje za úplatu podle sazebníku stanoveného vnitřním předpisem.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessFunction>

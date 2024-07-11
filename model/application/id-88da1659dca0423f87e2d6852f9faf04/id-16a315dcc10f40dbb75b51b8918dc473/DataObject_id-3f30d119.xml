@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Seznam uživatelů Geoportálu ÚAP_KU"
+    id="id-3f30d119">
+  <properties
+      key="Datum_vzniku"
+      value="11/2017"/>
+  <properties
+      key="Název_zdroje"
+      value="Geoportál ÚAP - autentizace a autorizace"/>
+</archimate:DataObject>

@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Údržba a opravy silnic_P010"
+    id="id-31a7c00e"
+    documentation="Údržba a opravy silnic II. a III. třídy včetně jejích součástí a příslušenství v rámci působnosti organizace.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessFunction>

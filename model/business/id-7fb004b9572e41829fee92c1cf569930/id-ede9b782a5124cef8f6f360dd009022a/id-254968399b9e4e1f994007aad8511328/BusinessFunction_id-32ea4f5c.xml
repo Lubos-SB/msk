@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organizace vzdělávacích akcí_P009"
+    id="id-32ea4f5c"
+    documentation="Organizuje vzdělávací akce pro pracovníky knihoven a informačních pracovišť">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/071/2001"/>
+</archimate:BusinessFunction>

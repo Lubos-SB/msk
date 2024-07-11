@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uživatel Integrační platformy ESB HC"
+    id="id-4afdf0d063b04eff8b5927474f450928"
+    documentation="Uživatelská role pro přístup k aplikační službě ESB v prostředí Hospital CLOUD (HC)"/>

@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Message broker Transmise_KU"
+    id="id-2869fac4-525f-47e9-aff1-c657b12dbfcc">
+  <properties
+      key="Datum_zakreslení"
+      value="11.10.2018"/>
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Plaček"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+</archimate:ApplicationComponent>

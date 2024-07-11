@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shromažďování sbírky výtvarného umění_P008"
+    id="id-7a54ee43"
+    documentation="2.1 Shromažďuje sbírku výtvarného umění české i zahraniční provenience, zejména však českého umění od 19. století do současnosti, se zvláštním zaměřením na severomoravský region, a starého i moderního evropského umění. Sbírku tvoří na základě vědeckého poznání a vlastní koncepce sbírkotvorné činnosti.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessFunction>

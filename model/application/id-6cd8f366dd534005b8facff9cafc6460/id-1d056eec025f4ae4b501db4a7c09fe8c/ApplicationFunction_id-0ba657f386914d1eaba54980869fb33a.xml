@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schvalování dovolené_KK"
+    id="id-0ba657f386914d1eaba54980869fb33a"
+    documentation="Umožňění zadávání dovolené do Plánu a zpřístupněné SLM do procesu schvalování. Z plánované dovolené je také možné zavolat z detailu &quot;Převést na žádost&quot; a tu pak odeslat."/>

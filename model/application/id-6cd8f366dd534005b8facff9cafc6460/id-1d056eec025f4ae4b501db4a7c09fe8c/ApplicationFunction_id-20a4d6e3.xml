@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Výkony a docházka SP_KK"
+    id="id-20a4d6e3"
+    documentation="•&#x9;Účtování dle výkonů:&#xD;&#xA;o&#x9;Možnost vyúčtování dle doby výkonů.&#xD;&#xA;o&#x9;Možnost vyúčtování dle času pracovníků.&#xD;&#xA;•&#x9;Účtování dle docházky:&#xD;&#xA;o&#x9;Možnost vyúčtování dle přehledu docházky klienta na služby tak, jak byla zaznamenána pracovníky organizace.&#xD;&#xA;•&#x9;Zaúčtování odebrané stravy zaznamenané prostřednictvím funkce Stravování"/>

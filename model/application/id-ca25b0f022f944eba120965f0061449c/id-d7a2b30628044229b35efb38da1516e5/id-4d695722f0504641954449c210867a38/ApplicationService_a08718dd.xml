@@ -1,0 +1,14 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služby mzdového a personálního IS_P010"
+    id="a08718dd">
+  <properties
+      key="Datum_terminace"
+      value="2020"/>
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Doplněno během konzultací TO-BE stavu v průběhu kontrolního dne."/>
+</archimate:ApplicationService>

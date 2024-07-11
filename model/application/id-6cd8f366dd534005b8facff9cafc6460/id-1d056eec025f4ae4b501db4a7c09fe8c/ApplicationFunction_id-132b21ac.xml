@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Účtování_KK"
+    id="id-132b21ac"
+    documentation="Vedení účetnictví rozpočtové organizace&#xD;&#xA;- možnost pořizování dat do více období současně,&#xD;&#xA;- tvorba vnitřních účetních dokladů, opravné zápisy, převody mezi účty,  &#xD;&#xA;- provedení účetních závěrek a zajištění přechodu do dalšího zúčtovacího období,"/>

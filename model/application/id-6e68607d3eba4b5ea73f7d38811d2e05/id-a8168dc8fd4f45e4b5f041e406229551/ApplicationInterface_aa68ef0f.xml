@@ -1,0 +1,24 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ESB pro komunikaci PACS_KU"
+    id="aa68ef0f"
+    documentation="Rozhraní pro ukládání obrazov dokuemntace do Krajského digitálního úložiště PACS na straně KDÚ">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KÚ"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KÚ"/>
+  <properties
+      key="Datum_aktualizace"
+      value="21.7.2018"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Kamil Plaček"/>
+  <properties
+      key="Stav"
+      value="Aktivní"/>
+</archimate:ApplicationInterface>

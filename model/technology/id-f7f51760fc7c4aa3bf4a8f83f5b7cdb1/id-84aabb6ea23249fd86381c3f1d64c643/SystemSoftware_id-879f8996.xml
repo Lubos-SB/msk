@@ -1,0 +1,11 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prostorová databáze RUIAN_ISKN"
+    id="id-879f8996">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Požadavek na doplnění pan Vašica"/>
+</archimate:SystemSoftware>

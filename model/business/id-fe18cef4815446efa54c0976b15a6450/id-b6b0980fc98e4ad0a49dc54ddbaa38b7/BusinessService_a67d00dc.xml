@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služby přednemocniční neodkladné péče"
+    id="a67d00dc"
+    documentation="Služby přednemocniční neodkladné péče zabezpečované skupinami rychlé lékařské pomoci, rychlé zdravotnické pomoci a letecké záchranné služby.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessService>

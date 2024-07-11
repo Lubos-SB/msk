@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Konzultace a poradenství pro krajskou korporaci_P011"
+    id="id-04d6744f"
+    documentation="Konzultanční a poradenská činnost pro Moravskoslezský kraj a jím zřízené příspěvkové organizace">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/362/2014"/>
+</archimate:BusinessFunction>

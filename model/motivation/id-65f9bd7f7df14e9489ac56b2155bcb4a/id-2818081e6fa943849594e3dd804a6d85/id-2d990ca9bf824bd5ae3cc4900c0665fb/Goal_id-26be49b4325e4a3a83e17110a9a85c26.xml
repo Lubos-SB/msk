@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CQ1.2. Kontroly dat proti primárním registrům"
+    id="id-26be49b4325e4a3a83e17110a9a85c26"
+    documentation="Všechny údaje, které vede MSK a které mají prvotní uložení v jiných systémech (zejména tzv. základních registrech), by měly být kontrolovány proti těmto registrům."/>

@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="rozšiřuje"
+    id="id-9405aa1a"
+    documentation="Podpora hlavní funkcionality">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_de8b0e5f.xml#de8b0e5f"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-3e7f2e6a.xml#id-3e7f2e6a"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,8 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pokladna_P006"
+    id="ef422cb6">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:ApplicationFunction>

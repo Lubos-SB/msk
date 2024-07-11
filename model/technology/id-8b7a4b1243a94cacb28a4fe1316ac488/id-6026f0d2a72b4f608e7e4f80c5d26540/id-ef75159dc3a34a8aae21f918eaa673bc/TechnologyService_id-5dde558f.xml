@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VOIP_KK"
+    id="id-5dde558f"
+    documentation="•&#x9;Integrace hlasových komunikací: &#xD;&#xA;o&#x9;Síť MSK musí umožnit spolehlivou integraci hlasových služeb založených na technologii IP telefonie, resp. Voice over IP."/>

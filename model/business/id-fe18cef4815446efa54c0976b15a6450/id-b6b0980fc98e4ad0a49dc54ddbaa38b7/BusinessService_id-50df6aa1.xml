@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služby protialkoholní záchytné stanice"
+    id="id-50df6aa1"
+    documentation="Činnosti protialkoholní záchytné stanice">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:BusinessService>

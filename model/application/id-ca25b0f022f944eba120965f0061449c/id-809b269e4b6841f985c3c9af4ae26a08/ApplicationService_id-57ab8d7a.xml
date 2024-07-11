@@ -1,0 +1,19 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jednotný ekonomický systém PO kraje_KK"
+    id="id-57ab8d7a">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+  <properties
+      key="Typ_služby"
+      value="Sdílená"/>
+  <properties
+      key="Název_zdroje"
+      value="Odvětvově strategické záměry"/>
+  <properties
+      key="Název_zdroje"
+      value="Akční plán Strategie ICT_leden 2016"/>
+  <properties
+      key="Katalog_služeb"/>
+</archimate:ApplicationService>

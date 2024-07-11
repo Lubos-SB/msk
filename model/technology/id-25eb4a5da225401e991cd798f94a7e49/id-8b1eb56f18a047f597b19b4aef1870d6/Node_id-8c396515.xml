@@ -1,0 +1,13 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GEP_KU"
+    id="id-8c396515">
+  <properties
+      key="Datum_vzniku"
+      value="11/2017"/>
+  <properties
+      key="Název_zdroje"
+      value="Geoportál ÚAP"/>
+  <properties
+      key="Kód_CMDB"/>
+</archimate:Node>

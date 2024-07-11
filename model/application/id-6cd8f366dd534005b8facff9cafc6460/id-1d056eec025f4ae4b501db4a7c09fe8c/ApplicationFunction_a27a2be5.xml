@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inventarizace majetku_KK"
+    id="a27a2be5"
+    documentation="-&#x9;proces zpracovávání evidence a výstupy souvisejících dokladů (inventurní sestavy, příjemky, výdejky, inventární karty, převodky, apod.),&#xD;&#xA;-&#x9;uživatelem definované výstupy k provedení řádných inventarizací veškerých typů majetku včetně tiskových sestav (elektronicky do formátu pdf, doc, xls),&#xD;&#xA;-&#x9;vedení evidence a inventarizace majetku pomocí čárového kódu, podpora snímacího zařízení (čtečky),"/>

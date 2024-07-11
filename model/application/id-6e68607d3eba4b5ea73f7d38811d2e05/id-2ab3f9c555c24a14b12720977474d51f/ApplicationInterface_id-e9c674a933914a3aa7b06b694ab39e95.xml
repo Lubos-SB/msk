@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rozhraní centrálního registru pacientů MPI HC"
+    id="id-e9c674a933914a3aa7b06b694ab39e95"
+    documentation="Rozhraní centrálního registru pacientů (zprostředkovává komunikaci se službou Centrálního registru pacientů MPI)"/>

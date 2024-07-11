@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Změněná data_KK"
+    id="id-f3cc6e9df8ce48f58a8ffd550cc92f75"
+    documentation="Databázové objekty vytvořené pro tabulky, které jsou zdrojem informací pro IDM. Nad těmito novými tabulkami vytvořené triggery, které budou ukládat ID_TOSO a timestamp (kdy došlo ke změně fyzického sloupce, který obsahuje údaje pro atributy IDM) do pomocné tabulky&#xD;&#xA;Pomocná tabulka bude obsahovat především sloupce ID_TOSO a IDMTS.&#xD;&#xA;"/>

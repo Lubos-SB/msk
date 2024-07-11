@@ -1,0 +1,9 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WAN Bo/Os_KK"
+    id="id-91c9dc50"
+    documentation="WAN  (Bohumín/Ostrava)">
+  <properties
+      key="Datum_vzniku"
+      value="2020"/>
+</archimate:CommunicationNetwork>

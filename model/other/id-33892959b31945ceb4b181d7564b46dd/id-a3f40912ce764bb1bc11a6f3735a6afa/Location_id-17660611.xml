@@ -1,0 +1,15 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Serverovna IBC A_KU"
+    id="id-17660611"
+    documentation="serverovna TS187&#xD;&#xA;IBC, Nemocniční 3328/11, 702 00, Ostrava">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="KPIT000078"/>
+</archimate:Location>

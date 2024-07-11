@@ -1,0 +1,11 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elektronické bankovnictví_KU"
+    id="id-10d3b586">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Mapa procesů KU"/>
+</archimate:ApplicationService>

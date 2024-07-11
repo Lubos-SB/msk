@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rozhraní pro export VŘ_KK"
+    id="id-1603f4143cd44abda6228f1bae611a6a"
+    documentation="Export číselníku výběrových řízení z JPMS do systému 3. stran - prozatím nevíme formát ani způsob přenosu, protože neproběhla analýza"/>

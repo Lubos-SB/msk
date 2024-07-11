@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elektronické testy odborné způsobilosti dopravců_KU"
+    id="id-704987e9"
+    documentation="Skládání testů odborné způsobilosti dopravců a řidičů">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="114"/>
+</archimate:ApplicationComponent>

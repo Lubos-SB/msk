@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Řídící funkce_KU"
+    id="id-45323032"
+    documentation="Pomáhají řídit krajský úřad, definují cíle strategického rozvoje kraje&#xD;&#xA;a krajského úřadu,">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Procesní mapa"/>
+</archimate:BusinessFunction>

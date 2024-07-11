@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datový report"
+    id="id-1fe2a62018084df78794b106024baed3">
+  <properties
+      key="Datum_aktualizace"/>
+  <properties
+      key="Datum_terminace"/>
+  <properties
+      key="Datum_vzniku_entity"
+      value="11.10.2022"/>
+  <properties
+      key="Datum_zakreslení"
+      value="11.10.2022"/>
+</archimate:DataObject>

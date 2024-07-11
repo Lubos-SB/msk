@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zpracování mzdové a účetní agendy pro školy_P002"
+    id="id-43bd512d"
+    documentation="Činnost účetních poradců, vedení účetnictví, vedení daňové evidence.">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="ZL/175/2001"/>
+</archimate:BusinessFunction>

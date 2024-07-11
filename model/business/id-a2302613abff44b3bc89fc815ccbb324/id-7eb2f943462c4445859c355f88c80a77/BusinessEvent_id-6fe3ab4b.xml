@@ -1,0 +1,5 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spuštění testovací migrace"
+    id="id-6fe3ab4b"
+    documentation="Spuštění testovací migrace na kontrolním vzorku podle akceptačních kritérií"/>

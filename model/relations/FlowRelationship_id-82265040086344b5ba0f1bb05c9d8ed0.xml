@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-82265040086344b5ba0f1bb05c9d8ed0"
+    documentation="Ruční nahrání souborů na portál ČSSZ">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-3f27fd31.xml#id-3f27fd31"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-32dca351da7f4cfbbd35944bc37b6509.xml#id-32dca351da7f4cfbbd35944bc37b6509"/>
+</archimate:FlowRelationship>

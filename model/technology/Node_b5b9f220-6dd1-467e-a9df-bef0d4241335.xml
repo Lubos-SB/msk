@@ -1,0 +1,21 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="zs_ap_KK"
+    id="b5b9f220-6dd1-467e-a9df-bef0d4241335"
+    documentation="Komunikační server Transmise">
+  <properties
+      key="Osoba_Autor"
+      value="OR-CZ"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Plaček"/>
+  <properties
+      key="Datum_aktualizace"
+      value="3.6.2019"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+</archimate:Node>

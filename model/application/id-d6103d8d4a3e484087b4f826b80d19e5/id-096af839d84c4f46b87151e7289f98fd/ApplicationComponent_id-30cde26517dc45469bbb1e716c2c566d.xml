@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aplikace klienta mobilní platformy HC"
+    id="id-30cde26517dc45469bbb1e716c2c566d"
+    documentation="Aplikace reprezentující aplikační službu Mobilní platforma v prostředí Hospital CLOUD (HC)"/>

@@ -1,0 +1,41 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poskytování informací o identitě_KU"
+    id="id-0b95d0b6">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="CMDB"/>
+  <properties
+      key="Kód_CMDB"
+      value="540"/>
+  <properties
+      key="Datum_aktualizace"
+      value="20.4.2018"/>
+  <properties
+      key="Datum_vzniku_entity"/>
+  <properties
+      key="Datum_zakreslení"
+      value="20.4.2018"/>
+  <properties
+      key="Datum_zániku_entity"/>
+  <properties
+      key="ID"/>
+  <properties
+      key="Organizace_Popisovana"
+      value="KU"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+  <properties
+      key="Osoba_Autor"
+      value="Tomáš Řehořek"/>
+  <properties
+      key="Osoba_Vlastník"
+      value="Petr Čáp"/>
+  <properties
+      key="Stav"
+      value="Aktivní"/>
+</archimate:TechnologyService>

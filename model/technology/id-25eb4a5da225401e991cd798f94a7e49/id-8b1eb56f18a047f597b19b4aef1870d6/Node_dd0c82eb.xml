@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Server pro aplikaci telemedicíny_KU"
+    id="dd0c82eb">
+  <properties
+      key="Datum_aktualizace"
+      value="24.9.2018"/>
+  <properties
+      key="Organizace_Spravce"
+      value="KU"/>
+  <properties
+      key="Organizace_Provozovatel"
+      value="KU"/>
+</archimate:Node>

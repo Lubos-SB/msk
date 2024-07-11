@@ -1,0 +1,9 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Router 2_KK"
+    id="id-105f0f3f"
+    documentation="Přístupový bod&#xD;&#xA;&#xD;&#xA;o&#x9;Modulární zařízení&#xD;&#xA;o&#x9;Minimální počet slotů v šasi n+2, kde n je nutný počet karet s rozhraními&#xD;&#xA;o&#x9;Redundantní řídící jednotky&#xD;&#xA;o&#x9;Propustnost 400 Gbps&#xD;&#xA;o&#x9;10x Ethernet optické rozhraní 10 Gbps pro připojení LAN a datového centra&#xD;&#xA;o&#x9;Podpora metalických rozhraní 10/100/1000 Mbps a optických rozhraní SM a MM 1000 Mbps, minimálně 64 rozhraní&#xD;&#xA;o&#x9;Podpora 40 Gbps rozhraní&#xD;&#xA;o&#x9;Podpora 100 Gbps rozhraní&#xD;&#xA;o&#x9;Hot-swap redundantní zdroj n+1 - 48V DC&#xD;&#xA;o&#x9;Hot-swap ventilátory&#xD;&#xA;o&#x9;Instalace do standardizované skříně 19“&#xD;&#xA;o&#x9;Zařízení musí pocházet z autorizovaného prodejního kanálu výrobce pro Českou republiku">
+  <properties
+      key="Počet kusů"
+      value="1"/>
+</archimate:Device>

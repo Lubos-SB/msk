@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Řízení laboratorních procesů_P005"
+    id="eb20e498"
+    documentation="Služba Řízení laboratorních procesů_P005">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+</archimate:ApplicationService>

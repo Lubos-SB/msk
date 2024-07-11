@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Služba Centrální registr správy pacientských souhlasů a mandátů HC"
+    id="id-58d39bda15324bfebf07804cfcfba5fb"
+    documentation="Aplikační služba centrálního registru správy souhlasů a mandátů pacientů pro zajištění legislativních požadavků pro přístup ke zdravotnické dokumentaci, s přímou vazbou na centrální registr pacientů a registr zdravotnické dokumentace"/>

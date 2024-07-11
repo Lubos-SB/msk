@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kramerius 5_P009"
+    id="f33313e9"
+    documentation="Webová aplikace pro zpřístupnění digitálních dokumentů&#xD;&#xA;http://www.unidata.cz/system-kramerius/">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Ing. Lea Prchalová, ředitelka"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partnerlink_KU"
+    id="id-9dd48ced"
+    documentation="Nový název &quot;Partnerlink&quot;. Jde o malou aplikaci (NZ Servis), která zajišuje elektronickou komunikaci s orgány státní správy (např. Správu sociálního zabezpečení)">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Seznam dotazů"/>
+</archimate:ApplicationComponent>

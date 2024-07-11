@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CQ1.3. Kontroly obsahu dat"
+    id="id-985db20a859b45f982c140095b4f8dc2"
+    documentation="Ve všech systémech budou využity algoritmy pro vnitřní kontrolu obsahu a integrity dat, a to na všech úrovních (databáze, aplikační logika, vstupní formuláře apod.)."/>

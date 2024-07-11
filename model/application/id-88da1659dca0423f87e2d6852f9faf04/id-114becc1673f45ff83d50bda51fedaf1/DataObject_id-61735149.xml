@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kurzy_KK"
+    id="id-61735149"
+    documentation="Směnný kurz mezi měnami z ČNB&#xD;&#xA;Kurzovní tabulku je možno udržovat buď ručně, nebo je možno využít funkčního tlačítka „Import z webu“, které naplní tabulku údaji z ročního kurzovního lístku uvedeného na webu ČNB (pro ČR) nebo na webu NBS (pro SK)."/>

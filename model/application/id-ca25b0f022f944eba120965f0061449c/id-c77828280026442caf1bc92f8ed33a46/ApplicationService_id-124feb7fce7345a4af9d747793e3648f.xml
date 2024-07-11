@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Platforma pro privátní videohovory HC"
+    id="id-124feb7fce7345a4af9d747793e3648f"
+    documentation="Centrální aplikační nástroj vytvářející specifické privátní prostředí pro uskutečňování videohovorů, posílání zpráv a jejich záznam. Předpokladem je, že tento aplikační nástroj bude využíván (tedy „volán“) z jiných systémů, kde je nutno potřeby těchto služeb v rámci procesů využít. "/>

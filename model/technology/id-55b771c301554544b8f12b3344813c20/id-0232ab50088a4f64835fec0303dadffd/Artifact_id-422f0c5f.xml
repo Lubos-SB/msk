@@ -1,0 +1,11 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mailbox databáze_KU"
+    id="id-422f0c5f">
+  <properties
+      key="Datum_vzniku"
+      value="2016"/>
+  <properties
+      key="Název_zdroje"
+      value="Analýza a návrh řešení: Centrální e-mail korporace"/>
+</archimate:Artifact>

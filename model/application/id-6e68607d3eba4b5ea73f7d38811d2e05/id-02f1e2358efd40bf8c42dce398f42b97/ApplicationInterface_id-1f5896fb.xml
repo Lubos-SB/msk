@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ČT čtení VE_KK"
+    id="id-1f5896fb"
+    documentation="Vyžadující konektor čtenářského AIS pro čtení údajů ze základních registrů prostřednictvím informačního systému základních registrů."/>
