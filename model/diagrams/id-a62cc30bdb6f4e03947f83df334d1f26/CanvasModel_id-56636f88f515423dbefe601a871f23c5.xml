@@ -1,0 +1,18 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="ArchiMate 3.2 Notation Overview (Standard color scheme)"
+    id="id-56636f88f515423dbefe601a871f23c5">
+  <children
+      xsi:type="canvas:CanvasModelImage"
+      id="id-75aae2d7f13045a6be4090dfc39d0999"
+      name="Image"
+      imagePath="images/__WD3wLbAEe2XPYjNYM68HA.png"
+      locked="true">
+    <bounds
+        x="10"
+        y="10"
+        width="1771"
+        height="861"/>
+  </children>
+</canvas:CanvasModel>

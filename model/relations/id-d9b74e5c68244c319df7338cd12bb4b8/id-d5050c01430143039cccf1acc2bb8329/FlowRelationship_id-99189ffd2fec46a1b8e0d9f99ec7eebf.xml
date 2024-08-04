@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kontrola přístupů"
+    id="id-99189ffd2fec46a1b8e0d9f99ec7eebf">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_id-621f3e7d92704453a7d70a21548cb909.xml#id-621f3e7d92704453a7d70a21548cb909"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-52d19649908146d28c2965f7e4e82bec.xml#id-52d19649908146d28c2965f7e4e82bec"/>
+</archimate:FlowRelationship>

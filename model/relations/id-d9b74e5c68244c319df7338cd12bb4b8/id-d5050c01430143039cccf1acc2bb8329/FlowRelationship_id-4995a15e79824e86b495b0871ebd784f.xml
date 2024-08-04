@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="běžné datové toky dle role"
+    id="id-4995a15e79824e86b495b0871ebd784f">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-eb0282f5199346a792b273b92d7123a5.xml#id-eb0282f5199346a792b273b92d7123a5"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-7ef3eb40bca24e8681b4afbdc393b438.xml#id-7ef3eb40bca24e8681b4afbdc393b438"/>
+</archimate:FlowRelationship>

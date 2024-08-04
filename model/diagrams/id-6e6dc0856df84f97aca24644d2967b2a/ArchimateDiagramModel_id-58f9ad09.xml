@@ -15,8 +15,8 @@
     <bounds
         x="15"
         y="33"
-        width="185"
-        height="80"/>
+        width="586"
+        height="40"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -88,8 +88,7 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#c9e7b7"
-      type="1">
+      fillColor="#c9e7b7">
     <bounds
         x="37"
         y="420"
@@ -105,8 +104,7 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#c9e7b7"
-      type="1">
+      fillColor="#c9e7b7">
     <bounds
         x="37"
         y="468"
@@ -122,8 +120,7 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#c9e7b7"
-      type="1">
+      fillColor="#c9e7b7">
     <bounds
         x="35"
         y="504"
@@ -139,8 +136,7 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#c9e7b7"
-      type="1">
+      fillColor="#c9e7b7">
     <bounds
         x="36"
         y="552"
@@ -156,8 +152,7 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#c9e7b7"
-      type="1">
+      fillColor="#c9e7b7">
     <bounds
         x="36"
         y="600"
@@ -173,8 +168,7 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#c9e7b7"
-      type="1">
+      fillColor="#c9e7b7">
     <bounds
         x="36"
         y="648"
@@ -190,8 +184,7 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#c9e7b7"
-      type="1">
+      fillColor="#c9e7b7">
     <bounds
         x="28"
         y="696"
@@ -223,8 +216,7 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#ffeaff"
-      type="1">
+      fillColor="#ffeaff">
     <bounds
         x="36"
         y="842"
@@ -240,8 +232,7 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#b5ffff"
-      type="1">
+      fillColor="#b5ffff">
     <bounds
         x="34"
         y="998"
@@ -257,8 +248,7 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#b5ffff"
-      type="1">
+      fillColor="#b5ffff">
     <bounds
         x="36"
         y="930"
@@ -274,8 +264,7 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#b5ffff"
-      type="1">
+      fillColor="#b5ffff">
     <bounds
         x="199"
         y="564"
@@ -308,8 +297,7 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#ffeaff"
-      type="1">
+      fillColor="#ffeaff">
     <bounds
         x="193"
         y="1248"
@@ -391,8 +379,7 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#b5ffff"
-      type="1">
+      fillColor="#b5ffff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-374c0340-105a-48e7-9853-0085a0350f9f"
@@ -523,8 +510,7 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#c9e7b7"
-      type="1">
+      fillColor="#c9e7b7">
     <bounds
         x="229"
         y="1046"
@@ -613,8 +599,7 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#b5ffff"
-      type="1">
+      fillColor="#b5ffff">
     <bounds
         x="204"
         y="700"
@@ -646,8 +631,7 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#c9e7b7"
-      type="1">
+      fillColor="#c9e7b7">
     <bounds
         x="17"
         y="1086"
@@ -727,8 +711,7 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#c9e7b7"
-      type="1">
+      fillColor="#c9e7b7">
     <bounds
         x="1134"
         y="870"
@@ -744,8 +727,7 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#c9e7b7"
-      type="1">
+      fillColor="#c9e7b7">
     <bounds
         x="1371"
         y="881"
@@ -761,8 +743,7 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#c9e7b7"
-      type="1">
+      fillColor="#c9e7b7">
     <bounds
         x="1152"
         y="687"
@@ -794,8 +775,7 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#b5ffff"
-      type="1">
+      fillColor="#b5ffff">
     <bounds
         x="199"
         y="629"
@@ -858,8 +838,7 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#b5ffff"
-      type="1">
+      fillColor="#b5ffff">
     <bounds
         x="1152"
         y="788"
@@ -875,8 +854,7 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#b5ffff"
-      type="1">
+      fillColor="#b5ffff">
     <bounds
         x="348"
         y="780"

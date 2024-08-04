@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="drát"
+    id="id-f612f6be78fa47e9b32ccc7c11548047">
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-54eac1a9.xml#id-54eac1a9"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_id-ff6b3f4f9a354dfeabe422c0c888d03f.xml#id-ff6b3f4f9a354dfeabe422c0c888d03f"/>
+</archimate:AssociationRelationship>

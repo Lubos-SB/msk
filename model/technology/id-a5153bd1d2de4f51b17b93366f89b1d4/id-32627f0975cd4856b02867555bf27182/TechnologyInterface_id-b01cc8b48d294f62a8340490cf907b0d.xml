@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NetFlow / sFlow"
+    id="id-b01cc8b48d294f62a8340490cf907b0d"
+    documentation="Rozhraní na aktivní prvky, které jsou sondami pro sběr informací o tocích dat."/>

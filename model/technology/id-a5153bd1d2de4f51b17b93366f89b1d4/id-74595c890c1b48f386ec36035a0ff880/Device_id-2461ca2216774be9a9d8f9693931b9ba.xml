@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RADIUS"
+    id="id-2461ca2216774be9a9d8f9693931b9ba"
+    documentation="Z pohledu protokolu IEEE X802.1X ExtremeControl vykonává roli RADIUS (Remote Authentication Dial In User Service) serveru. Tento systém je zodpovědný za správu a řízení uživatelské autentizace, autorizace a účtování (tzv. AAA) v síti. RADIUS server se chová jako prostředník mezi uživatelem žádajícím přístup a síťovými zdroji organizace, na které se daný uživatel snaží připojit.&#xD;&#xA;&#xD;&#xA;Když se uživatel pokusí připojit do sítě, RADIUS server ověřuje jeho přihlašovací údaje, čímž ověřuje jeho identitu. Pokud autentizace proběhne úspěšně, server následně autorizuje úroveň přístupu, kterou by uživatel měl mít na základě předdefinovaných pravidel. Mimo jiné RADIUS zaznamenává informace související s uživatelským přístupem v detailním logu, který je možné použít při řešení problémů, auditování sítě atd. Tím administrátoři získají přehled nad tím, kdo a co se připojuje do sítě, a také možnost ovlivnit úroveň přístupu koncového zařízení."/>

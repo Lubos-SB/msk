@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="primární ověřování identit (doména)"
+    id="id-21731ffe18564b8c86316e15452915bd"
+    documentation="jde o sadu metadt spojených s identitou vedenou v doméně">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_id-2461ca2216774be9a9d8f9693931b9ba.xml#id-2461ca2216774be9a9d8f9693931b9ba"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-a937a05d5ead488d8173f0019b123aa4.xml#id-a937a05d5ead488d8173f0019b123aa4"/>
+</archimate:FlowRelationship>

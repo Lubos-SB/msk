@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bezdrát"
+    id="id-c7cae195d59b4e2ebcf0a88fcd2e5e5a">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-ff6b3f4f9a354dfeabe422c0c888d03f.xml#id-ff6b3f4f9a354dfeabe422c0c888d03f"/>
+  <target
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-cee0b098d6de4fe48d43ce869bc782c8.xml#id-cee0b098d6de4fe48d43ce869bc782c8"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="management"
+    id="id-5f771e3ada3f4c63bdde4d44c4853d9b">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-05139bfd416b4e06a9afb1d2dc2d6853.xml#id-05139bfd416b4e06a9afb1d2dc2d6853"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-35c943880ef04012a0b40b61b81b039c.xml#id-35c943880ef04012a0b40b61b81b039c"/>
+</archimate:FlowRelationship>

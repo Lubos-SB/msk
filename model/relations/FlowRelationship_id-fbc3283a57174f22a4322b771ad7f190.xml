@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="administrace a interní komunikace"
+    id="id-fbc3283a57174f22a4322b771ad7f190">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_id-bfff6d7b3eec4a4685157c9ee300df74.xml#id-bfff6d7b3eec4a4685157c9ee300df74"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-05139bfd416b4e06a9afb1d2dc2d6853.xml#id-05139bfd416b4e06a9afb1d2dc2d6853"/>
+</archimate:FlowRelationship>

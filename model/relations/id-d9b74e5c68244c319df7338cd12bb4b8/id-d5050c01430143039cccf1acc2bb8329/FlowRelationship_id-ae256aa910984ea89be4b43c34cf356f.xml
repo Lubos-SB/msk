@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="syslogs - data pro SOC účely"
+    id="id-ae256aa910984ea89be4b43c34cf356f">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_id-2461ca2216774be9a9d8f9693931b9ba.xml#id-2461ca2216774be9a9d8f9693931b9ba"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-89ba8323a6ea4bec9b00830f671c8a7b.xml#id-89ba8323a6ea4bec9b00830f671c8a7b"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interní PKI infrastruktura (certifikační autorita nemocnice)"
+    id="id-bfff6d7b3eec4a4685157c9ee300df74"
+    documentation="PKI&#xD;&#xA;&#xD;&#xA;Interní PKI infrastruktura (též certifikační autorita) zajišťuje vydávání certifikátů pro ověření identity Endpointů pomocí 802.1X a vydává systémové certifikáty pro jednotlivé komponenty řešení.&#xD;&#xA;Zároveň zajišťují vydávání informací pomocí CRL listů o neplatných certifikátech například pro ukradená nebo vyřazená zařízení. &#xD;&#xA;CRL listy by měly být pravidelně aktualizovány. V případě požadavků na on-line kontrolu lze použít OCSP protokol. V takovém případě je nutné řešit vysokou dostupnost PKI infrastruktury.&#xD;&#xA;Pro projekt budou využity stávající instance PKI, případně budou aktivovány PKI služby na stávajících platformách.&#xD;&#xA;Certifikáty pro návštěvnické portály musí být vystaveny důvěryhodnou veřejnou certifikační autoritou, jinak by podvrhnutá webová stránka (captive portál) nebyla pro hosty důvěryhodná.&#xD;&#xA;"/>

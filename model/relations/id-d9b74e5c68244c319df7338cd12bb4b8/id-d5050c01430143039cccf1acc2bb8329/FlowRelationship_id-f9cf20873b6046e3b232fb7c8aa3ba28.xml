@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="nastavení síťovcýh prvků, správa přístupů"
+    id="id-f9cf20873b6046e3b232fb7c8aa3ba28">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-98de37ca3a8d431a841f24ba1fb9cd0d.xml#id-98de37ca3a8d431a841f24ba1fb9cd0d"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-35c943880ef04012a0b40b61b81b039c.xml#id-35c943880ef04012a0b40b61b81b039c"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WAN (VDS MSK)"
+    id="id-e29abb24d0584bd1b1c66474d5bc87b5"
+    documentation="Zapouzdřovací prvek, který obsahuje VDS, vysokorychlostní datovou síť MSK, zpravidla linkován na pohled VDS topologie."/>

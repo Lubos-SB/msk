@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tvorba / čtení / zápis / výmaz"
+    id="id-6f2be80afe1f467e81928a228f9224a0"
+    accessType="3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6d532a457ed44c8db8d13f8f41de8a73.xml#id-6d532a457ed44c8db8d13f8f41de8a73"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-a5fafea67bf24851b4712aee54132504.xml#id-a5fafea67bf24851b4712aee54132504"/>
+</archimate:AccessRelationship>

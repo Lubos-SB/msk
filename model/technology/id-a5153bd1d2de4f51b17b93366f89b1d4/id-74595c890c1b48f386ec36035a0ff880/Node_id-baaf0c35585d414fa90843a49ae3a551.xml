@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Extreme Analytics Engine"
+    id="id-baaf0c35585d414fa90843a49ae3a551"
+    documentation="ExtremeAnalytics&#xD;&#xA;&#xD;&#xA;Jedná se o součást centrální komponenty XIQ-SE. Cílem je zpracovat a poskytnout ucelený přehled na analytická data získaná ze sítě. Do ExtremeAnalytics je třeba nasměrovat NetFlow / sFlow data z aktivních prvků sítě daného subjektu. Výsledná funkcionalita závisí na schopnostech používaných přepínačů. Počítáme s využitím integrace ExtremeAnalytics se systémem ExtremeControl, což umožní přiřadit komunikačním bodům další zajímavé detaily, jako např. hostname, site, device family, profile a username. &#xD;&#xA;ExtremeAnalytics - analytika, nastavuje sa a ovláda sa pomocou XIQ-SE, reportuje naspäť do XIQ-SE, posielajú do nej dáta jednotlivé prvky LAN/WLAN, pri výpadku XIQ-SE stále dostupné akurát sa nedá meniť konfigurácia."/>

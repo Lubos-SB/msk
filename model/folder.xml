@@ -20,16 +20,16 @@
       value="CTY KMORSLEZ OWN"/>
   <properties
       key="model_version [verze_modelu]"
-      value="0.1"/>
+      value="0.2"/>
   <properties
       key="model_resp_pers_ID [ID_odp_osoba_model]"
       value="&lt;id_sluzebni_cislo>"/>
   <properties
       key="model_resp_pers_name [odp_osoba_jmeno_model]"
-      value="Alois Slovák"/>
+      value="Kamil Plaček, aktualizoval Luboš Fryc"/>
   <properties
       key="model_update_date [aktualizace_modelu_datum]"
-      value="17.01.2021"/>
+      value="04.08.2024"/>
   <properties
       key="model_valid_to [platnost_modelu_do_datum]"
       value="dd.mm.rrrr"/>

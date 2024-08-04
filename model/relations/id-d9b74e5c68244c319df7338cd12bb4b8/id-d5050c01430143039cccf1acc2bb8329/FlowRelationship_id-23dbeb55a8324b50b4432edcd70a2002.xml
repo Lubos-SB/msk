@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="data k analýze síťových toků"
+    id="id-23dbeb55a8324b50b4432edcd70a2002">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-f92c4866ee8a4576baedc9b6825dd233.xml#id-f92c4866ee8a4576baedc9b6825dd233"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-baaf0c35585d414fa90843a49ae3a551.xml#id-baaf0c35585d414fa90843a49ae3a551"/>
+</archimate:FlowRelationship>
