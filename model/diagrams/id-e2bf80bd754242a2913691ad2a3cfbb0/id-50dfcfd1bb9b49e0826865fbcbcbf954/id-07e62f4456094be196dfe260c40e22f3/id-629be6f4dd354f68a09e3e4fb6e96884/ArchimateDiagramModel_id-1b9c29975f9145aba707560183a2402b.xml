@@ -553,7 +553,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-4a3d7515efef4d999b72dd69284c75d5"
-        targetConnections="id-749523a17a3846abaafd1840cbed93df id-4b353ebb99b2443fb04140821682d604 id-773d64b582f1405a884300e83a1d045c id-8c5dc3b8535b474f86671efe1198985a id-d277abd3f23041a89624c330e4129b54 id-cd937b2df76a4c4bb891f115f4df1eba id-fdcb95e03fa14352bb3ac53720e45989"
+        targetConnections="id-749523a17a3846abaafd1840cbed93df id-4b353ebb99b2443fb04140821682d604 id-773d64b582f1405a884300e83a1d045c id-8c5dc3b8535b474f86671efe1198985a id-d277abd3f23041a89624c330e4129b54 id-cd937b2df76a4c4bb891f115f4df1eba id-fdcb95e03fa14352bb3ac53720e45989 id-8e692b2882cb4861a84e723edbeb6599"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -646,6 +646,15 @@
         <archimateRelationship
             xsi:type="archimate:FlowRelationship"
             href="FlowRelationship_id-5f771e3ada3f4c63bdde4d44c4853d9b.xml#id-5f771e3ada3f4c63bdde4d44c4853d9b"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-9caf43274e8e4ff3b4a8235449367dcd"
+          source="id-4a3d7515efef4d999b72dd69284c75d5"
+          target="id-d9685f6cc63843baab714d0baeaaad0c">
+        <archimateRelationship
+            xsi:type="archimate:AssignmentRelationship"
+            href="AssignmentRelationship_id-bd275adf2626468e8c91583aca1c9eab.xml#id-bd275adf2626468e8c91583aca1c9eab"/>
       </sourceConnections>
       <bounds
           x="372"
@@ -804,13 +813,26 @@
           id="id-c94603b7459942fd9025b53a9966d2aa"
           targetConnections="id-c90c803cedb44c8393237d1803ee4629">
         <bounds
-            x="228"
-            y="144"
-            width="145"
-            height="49"/>
+            x="288"
+            y="150"
+            width="109"
+            height="43"/>
         <archimateElement
             xsi:type="archimate:TechnologyInterface"
             href="TechnologyInterface_id-665cdd337ca14ee6abf283ede9a53894.xml#id-665cdd337ca14ee6abf283ede9a53894"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-d9685f6cc63843baab714d0baeaaad0c"
+          targetConnections="id-9caf43274e8e4ff3b4a8235449367dcd">
+        <bounds
+            x="144"
+            y="152"
+            width="129"
+            height="41"/>
+        <archimateElement
+            xsi:type="archimate:Artifact"
+            href="Artifact_id-d2dba3ea13044f5a9d2277a896712259.xml#id-d2dba3ea13044f5a9d2277a896712259"/>
       </children>
       <archimateElement
           xsi:type="archimate:Node"
@@ -889,7 +911,7 @@
       </sourceConnections>
       <bounds
           x="733"
-          y="882"
+          y="916"
           width="120"
           height="55"/>
       <archimateElement
@@ -1072,9 +1094,9 @@
           source="id-d23bad133060412f9557f459e8007d59"
           target="id-4a3d7515efef4d999b72dd69284c75d5">
         <bendpoints
-            startX="12"
-            startY="-57"
-            endX="246"
+            startX="24"
+            startY="-58"
+            endX="258"
             endY="276"/>
         <bendpoints
             startX="-324"
@@ -1104,11 +1126,47 @@
             xsi:type="archimate:FlowRelationship"
             href="FlowRelationship_id-23dbeb55a8324b50b4432edcd70a2002.xml#id-23dbeb55a8324b50b4432edcd70a2002"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-8e692b2882cb4861a84e723edbeb6599"
+          source="id-d23bad133060412f9557f459e8007d59"
+          target="id-4a3d7515efef4d999b72dd69284c75d5">
+        <bendpoints
+            startX="-372"
+            startY="3"
+            endX="-138"
+            endY="336"/>
+        <archimateRelationship
+            xsi:type="archimate:FlowRelationship"
+            href="FlowRelationship_id-62cdc9cc81d54b8d85347614d0cad075.xml#id-62cdc9cc81d54b8d85347614d0cad075"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-9722699fadbe44a392708c70af5b710a"
+          source="id-d23bad133060412f9557f459e8007d59"
+          target="id-34caeaea613b4498839e8010e156e593">
+        <archimateRelationship
+            xsi:type="archimate:AssignmentRelationship"
+            href="AssignmentRelationship_id-f86f0106041249509cbc0b3640935506.xml#id-f86f0106041249509cbc0b3640935506"/>
+      </sourceConnections>
       <bounds
           x="864"
-          y="828"
+          y="815"
           width="168"
-          height="43"/>
+          height="70"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-34caeaea613b4498839e8010e156e593"
+          targetConnections="id-9722699fadbe44a392708c70af5b710a">
+        <bounds
+            x="12"
+            y="24"
+            width="145"
+            height="37"/>
+        <archimateElement
+            xsi:type="archimate:Artifact"
+            href="Artifact_id-ea88c69ca2ec4f57b29615c80534ec3c.xml#id-ea88c69ca2ec4f57b29615c80534ec3c"/>
+      </children>
       <archimateElement
           xsi:type="archimate:Node"
           href="Node_id-f92c4866ee8a4576baedc9b6825dd233.xml#id-f92c4866ee8a4576baedc9b6825dd233"/>
@@ -1146,7 +1204,7 @@
       </sourceConnections>
       <bounds
           x="372"
-          y="882"
+          y="916"
           width="120"
           height="55"/>
       <archimateElement
@@ -1476,12 +1534,12 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-d3dd7b8dc8cc4aa6b0fe90e13817364a"
       textAlignment="1"
-      content="!!! K DORESENI !!!&#xD;&#xA;&#xD;&#xA;ERIK? STANDA?&#xD;&#xA;-- Captive portál – myslím, že se v projektu řešil kvůli připojování k WiFi, tady nevidím. Možná i portál pro běžné uživatele, kde mohou dávat požadavky na přístup. (Zde jsem si nejsem jist, zda je nakonec captive portál využívaný. Jelikož ho nemocnice nechtěly využívat. Ale připomínku zašleme a nechme korigovat ANECT)&#xD;&#xA;--- Lubos: element Captive portálu pro WIFI ...&#xD;&#xA;(Captive portal je technické řešení pro připojení k internetu přes veřejnou wifi síť. Pro uživatele captive portal vypadá jako přihlašovací stránka k síti wi-fi, ke které se připojují prostřednictvím vlastních zařízení (smartphony, tablety, notebooky aj.). Jakmile se uživatel ověří nebo zadá heslo, získá přístup k síti a může používat internet.)  &#xD;&#xA; ... jsem v KK, KU či obecně v MSK nenašel... Hledám špatně?&#xD;&#xA;&#xD;&#xA;STANDA?&#xD;&#xA;-- Nevidím auditní roli MSDC, možná i admin roli Anectu. (auditní role MSDC schází, admin roli ANECT bych osobně neuváděl)&#xD;&#xA;--- Lubos: MSDC není jako organizace, nejsou role auditora či jak to bylo myšleno?&#xD;&#xA;&#xD;&#xA;STANDA? ERIK?&#xD;&#xA;-- PAM rozcestník – není doplněna konkrétní technologie a možná vazba na IDM kraje (uvedené je pravdou, však PAM rozcestník je zaznamenán a očekával bych, že vazba na IDM kraje bude dynamickou vazbou k PAM)&#xD;&#xA;--- Lubos: jednak by se měla deklarovat zkratka PAM - jde o Pluggable Authenticaton Modules? v pojetí Extreme Networks? a jak by toto mělo být &quot;přeneseně vzato&quot; propojeno na IDM ?!&#xD;&#xA;">
+      content="!!! K DORESENI !!!&#xD;&#xA;&#xD;&#xA;STANDA?&#xD;&#xA;-- Nevidím auditní roli MSDC, možná i admin roli Anectu. (auditní role MSDC schází, admin roli ANECT bych osobně neuváděl)&#xD;&#xA;--- Lubos komentar: MSDC není jako organizace, nejsou role auditora či jak to bylo myšleno?&#xD;&#xA;&#xD;&#xA;STANDA?&#xD;&#xA;-- PAM rozcestník – není doplněna konkrétní technologie a možná vazba na IDM kraje (uvedené je pravdou, však PAM rozcestník je zaznamenán a očekával bych, že vazba na IDM kraje bude dynamickou vazbou k PAM)&#xD;&#xA;--- Lubos komentar: jednak by se měla deklarovat zkratka PAM v celem metamodelu - tedy ne Pluggable Authenticaton Modules v pojetí Extreme Networks, ale Priviledged Access Management ... dále domluva nad metamodelem, jak by toto mělo být &quot;přeneseně vzato&quot; propojeno na IDM ?!&#xD;&#xA;">
     <bounds
-        x="1931"
+        x="1872"
         y="564"
         width="649"
-        height="385"/>
+        height="217"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1614,11 +1672,11 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-5a40c58e27b443c2b5effdaeef9462ec"
+      id="id-f849c2e815d048da8d61623d6dfa5993"
       font="1|Segoe UI|9.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Segoe UI"
       textAlignment="1"
       fillColor="#e2e2be"
-      content="VIEW: CAP TGT2024 TA Extreme Networks NEM + HC L2&#xA;VIEWPOINT: Layered&#xA;TIMESTAMP: Sun Aug 04 2024 22:04:36 GMT+0200 (CEST)&#xA;CREATOR: Luboš Fryc">
+      content="VIEW: CAP TGT2024 TA Extreme Networks NEM + HC L2&#xA;VIEWPOINT: Layered&#xA;TIMESTAMP: Tue Aug 06 2024 11:23:58 GMT+0200 (CEST)&#xA;CREATOR: Luboš Fryc">
     <bounds
         x="20"
         y="20"

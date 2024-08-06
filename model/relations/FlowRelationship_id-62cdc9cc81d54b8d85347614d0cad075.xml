@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WLAN řízení XIQ-SE Captive Portal (pouze nemocnice Frýdek-Místek)"
+    id="id-62cdc9cc81d54b8d85347614d0cad075">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-f92c4866ee8a4576baedc9b6825dd233.xml#id-f92c4866ee8a4576baedc9b6825dd233"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-05139bfd416b4e06a9afb1d2dc2d6853.xml#id-05139bfd416b4e06a9afb1d2dc2d6853"/>
+</archimate:FlowRelationship>
