@@ -1,5 +1,4 @@
 <archimate:Device
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="PAM rozcestník - virtuální instance"
-    id="id-621f3e7d92704453a7d70a21548cb909"
-    documentation="PAM (Pluggable Authenticaton Modules) determine how authenticaton, authorization, and password changing are handled on the system, as well as allowing configuration of additional actions to take when starting user sessiongs.&#xD;&#xA;Some PAM module packages provide profiles that can be used to automatically adujst the behavior of all PAM-using applicaitons on the system.&#xD;&#xA;&#xD;&#xA;PAM profiles:&#xD;&#xA;- Pwquality password strength checking&#xD;&#xA;- Cracklib passwords strength checking&#xD;&#xA;- Unix authentication&#xD;&#xA;- Register user sessions in the systemd&#xD;&#xA;- Create home directory on login&#xD;&#xA;- Inheritable Capabilities Management"/>
+    name="PIM/PAM rozcestník - virtuální instance"
+    id="id-621f3e7d92704453a7d70a21548cb909"/>

@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CAP TGT2024 TA Extreme Networks NEM + HC L2"
     id="id-1b9c29975f9145aba707560183a2402b"
-    documentation="LAN&#xD;&#xA;Celé řešení závislé a vynucované přepínači přístupové vrstvy lokální počítačové sítě. Jsou to prvky, na jejichž porty se připojují koncová zařízení. To jsou především osobní počítače, ale také tiskárny, IP telefony, prvky docházkových systémů a zabezpečení, technologická zařízení a v případě nemocnice také různé zdravotnické přístroje.&#xD;&#xA;Z pohledu standardu IEEE 802.1X plní roli autentizátoru, tedy prvku, který provádí akceptaci nebo odmítnutí daného klienta, právě přístupový LAN přepínač. Klient je ve standardu 802.1X označován jako suplikant.&#xD;&#xA;&#xD;&#xA;=== TOTO je zralé na vytvoření technologického procesu(-ů) s odkazem na speciální pohled s hlediskem Technology usage ====&#xD;&#xA;&#xD;&#xA;Na přístupové straně si přepínač s klientem předávají autentizační informace protokolem EAP (Extensible Authentication Protocol dle RFC 3748). EAP zapouzdřený do Ethernet rámců se označuje jako EAPOL (EAP over LAN). EAP umožňuje implementovat různé druhy autentizace (EAP-TLS, EAP-TTLS, EAP-MD5, EAP-OTP, PEAP…).&#xD;&#xA;Na straně infrastruktury komunikuje přepínač s autentizačním serverem (ExtremeControl) protokolem RADIUS (Remote Authentication Dial In User Service). Současné verze protokolu jsou normalizovány jako RFC 2865 a RFC 2866.&#xD;&#xA;Proces ověřování klienta probíhá následovně: ve chvíli, kdy se klient připojí, je daný síťový port v blokovaném stavu. Jediné, co portem prochází, jsou autentizační rámce. Přepínač (v roli autentizátora) vyšle žádost o autentizaci (EAP-Request/Identity) zabalenou do rámců EAPOL. &#xD;&#xA;Klient žádost vyhodnotí a odpoví zprávou EAP-Response/Identity. Autentizátor zprávu přijme, vybalí ji z rámce EAPOL, zabalí do datagramu protokolu RADIUS a odešle ji pro ověření autentizačnímu serveru. Autentizační server si zprávou EAP-Request vyžádá prostřednictvím autentizátoru (přepínače) od suplikanta autentizační údaje (opět dochází na přepínači k přebalení datagramů RADIUS do rámců EAPOL). Klient odpoví autentizační zprávou EAP-Response, kterou autentizátor po přebalení opět přepošle autentizačnímu serveru. V případě, že autentizační informace umožňují přístup, autentizační server odpoví zprávou EAP-Success. Přepínač tuto zprávu vyhodnotí, odblokuje port pro komunikaci, nastaví parametry portu (např. přiřazení do VLAN) a přepošle zprávu EAP-Success klientovi. V této chvíli je celý autentizační proces ukončen a klient může bez problému přistupovat k síti (obvykle v této fázi začíná vyjednávání s DHCP serverem o adresách apod.). Při ukončování komunikace se sítí může klient vyslat zprávu EAPOL-Logoff, kterou dává na vědomí autentizátoru (přepínači), že už dále nehodlá komunikovat a přepínač tedy převede port opět do blokovaného stavu. Do blokovaného stavu se port převede i v případě, kdy dojde k odpojení klienta fyzickým vytažením kabelu ze zásuvky nebo vyprší časový limit, během kterého se měl uživatel znovu autentizovat.&#xD;&#xA;Kromě zprávy o povolení nebo odmítnutí klienta (Autentizace) může RADIUS server přepínači posílat také zprávy, které definují další parametry přístupu klienta, tzv. autorizaci. Typicky se může jednat například o přiřazení určité VLAN, povolené doby připojení (Session Timeout), Access list přidělený klientovi, politiku kvality služby (QoS Policy) a další.&#xD;&#xA;Množina podporovaných autorizačních atributů je vždy závislá na implementaci daným výrobcem do daného typu přepínače a verze software. Při designu pokročilých politik na NAC serveru je vždy nutné zohledňovat možnosti přepínačů, se kterými se pracuje.&#xD;&#xA;Na portech přepínače bude vynucováno ověření zařízení protokolem 802.1X, a pokud klient nebude podporovat 802.1X pomocí MAC adresy (tzv. MAB). Toto ověření nebude typicky konfigurováno na porty, u kterých je zajištěna fyzická bezpečnost (např. porty pro připojení serverů v uzavřených technických místnostech).&#xD;&#xA;&#xD;&#xA;==== Bude to takto MSK chtít zachytit? ====&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;WLAN&#xD;&#xA;&#xD;&#xA;Bezdrátová infrastruktura (WLAN) z pohledu autentizace připojení je stejná přístupová síť, jako přepínaná LAN, pouze používá jiné fyzické médium, tedy radiové vlny místo kabeláže. Z toho důvodu pro ni platí většina informací uvedených v předchozím odstavci.&#xD;&#xA;&#xD;&#xA;=== opět jako výše - zmodelovat samostatné technologické procesy s odkazy na standardy? ====&#xD;&#xA;Soudobé bezdrátové sítě využívají zjednodušené přístupové body (Lightweight Access Points) centrálně řízené bezdrátovým kontrolérem. Komunikace mezi bezdrátovým kontrolérem a AP je zapouzdřena do protokolu LWAPP / CAPWAP. Tímto tunelem se přenáší zprávy řízení samotných AP a případně i autentizační EAP zprávy mezi bezdrátovým kontrolérem a klientem. Cesta uživatelských a autentizačních dat závisí na použité konfiguraci. Buď mohou vycházet přímo z AP, kam je klient připojen, vstupovat do přepínané LAN nebo se přenáší uvnitř tunelu až do bezdrátového kontroléru. S přepínanou LAN pak komunikují na portech bezdrátového kontroléru. &#xD;&#xA;Z pohledu IEEE 802.1X architektury je autentizátorem bezdrátový kontrolér, případně AP, ke kterým se klienti připojují. Bezdrátový kontrolér / AP řídí proces připojení každého WiFi klienta a na základě RADIUS komunikace s ExtremeControl systémem aplikuje příslušná pravidla (VLAN, session timeout, QoS a další). Sada autorizačních atributů je opět závislá na implementaci v daném konkrétním typu bezdrátového kontroléru / AP. &#xD;&#xA;==== ====&#xD;&#xA;&#xD;&#xA;Pre konkrétne role administrátorov/operátorov/helpdesk sa XIQ-SE dotazuje na LDAP servre pre prihlásenie sa do samotného rozhrania XIQ-SE.&#xD;&#xA;Využíva certifikát od CA nemocnice na administráciu a internú komunikáciu.&#xD;&#xA;&#xD;&#xA;Overovanie endpointov pomocou 802.1X alebo MAC adresa (MAB). Overovanie management loginu (prihlásenie na switch). Zdroj identít pre overenie MAB.&#xD;&#xA;NAC brána sa dotazuje na LDAP servre pri autorizácii endpointov cez 802.1X alebo overenie prihlásenia administrátorov/operátorov na LAN prvky."
+    documentation="LAN&#xD;&#xA;Celé řešení závislé a vynucované přepínači přístupové vrstvy lokální počítačové sítě. Jsou to prvky, na jejichž porty se připojují koncová zařízení. To jsou především osobní počítače, ale také tiskárny, IP telefony, prvky docházkových systémů a zabezpečení, technologická zařízení a v případě nemocnice také různé zdravotnické přístroje.&#xD;&#xA;Z pohledu standardu IEEE 802.1X plní roli autentizátoru, tedy prvku, který provádí akceptaci nebo odmítnutí daného klienta, právě přístupový LAN přepínač. Klient je ve standardu 802.1X označován jako suplikant.&#xD;&#xA;&#xD;&#xA;=== TOTO je zralé na vytvoření technologického procesu(-ů) s odkazem na speciální pohled s hlediskem Technology usage ====&#xD;&#xA;&#xD;&#xA;Na přístupové straně si přepínač s klientem předávají autentizační informace protokolem EAP (Extensible Authentication Protocol dle RFC 3748). EAP zapouzdřený do Ethernet rámců se označuje jako EAPOL (EAP over LAN). EAP umožňuje implementovat různé druhy autentizace (EAP-TLS, EAP-TTLS, EAP-MD5, EAP-OTP, PEAP…).&#xD;&#xA;Na straně infrastruktury komunikuje přepínač s autentizačním serverem (ExtremeControl) protokolem RADIUS (Remote Authentication Dial In User Service). Současné verze protokolu jsou normalizovány jako RFC 2865 a RFC 2866.&#xD;&#xA;Proces ověřování klienta probíhá následovně: ve chvíli, kdy se klient připojí, je daný síťový port v blokovaném stavu. Jediné, co portem prochází, jsou autentizační rámce. Přepínač (v roli autentizátora) vyšle žádost o autentizaci (EAP-Request/Identity) zabalenou do rámců EAPOL. &#xD;&#xA;Klient žádost vyhodnotí a odpoví zprávou EAP-Response/Identity. Autentizátor zprávu přijme, vybalí ji z rámce EAPOL, zabalí do datagramu protokolu RADIUS a odešle ji pro ověření autentizačnímu serveru. Autentizační server si zprávou EAP-Request vyžádá prostřednictvím autentizátoru (přepínače) od suplikanta autentizační údaje (opět dochází na přepínači k přebalení datagramů RADIUS do rámců EAPOL). Klient odpoví autentizační zprávou EAP-Response, kterou autentizátor po přebalení opět přepošle autentizačnímu serveru. V případě, že autentizační informace umožňují přístup, autentizační server odpoví zprávou EAP-Success. Přepínač tuto zprávu vyhodnotí, odblokuje port pro komunikaci, nastaví parametry portu (např. přiřazení do VLAN) a přepošle zprávu EAP-Success klientovi. V této chvíli je celý autentizační proces ukončen a klient může bez problému přistupovat k síti (obvykle v této fázi začíná vyjednávání s DHCP serverem o adresách apod.). Při ukončování komunikace se sítí může klient vyslat zprávu EAPOL-Logoff, kterou dává na vědomí autentizátoru (přepínači), že už dále nehodlá komunikovat a přepínač tedy převede port opět do blokovaného stavu. Do blokovaného stavu se port převede i v případě, kdy dojde k odpojení klienta fyzickým vytažením kabelu ze zásuvky nebo vyprší časový limit, během kterého se měl uživatel znovu autentizovat.&#xD;&#xA;Kromě zprávy o povolení nebo odmítnutí klienta (Autentizace) může RADIUS server přepínači posílat také zprávy, které definují další parametry přístupu klienta, tzv. autorizaci. Typicky se může jednat například o přiřazení určité VLAN, povolené doby připojení (Session Timeout), Access list přidělený klientovi, politiku kvality služby (QoS Policy) a další.&#xD;&#xA;Množina podporovaných autorizačních atributů je vždy závislá na implementaci daným výrobcem do daného typu přepínače a verze software. Při designu pokročilých politik na NAC serveru je vždy nutné zohledňovat možnosti přepínačů, se kterými se pracuje.&#xD;&#xA;Na portech přepínače bude vynucováno ověření zařízení protokolem 802.1X, a pokud klient nebude podporovat 802.1X pomocí MAC adresy (tzv. MAB). Toto ověření nebude typicky konfigurováno na porty, u kterých je zajištěna fyzická bezpečnost (např. porty pro připojení serverů v uzavřených technických místnostech).&#xD;&#xA;&#xD;&#xA;==== Bude to takto MSK chtít zachytit? ====&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;WLAN&#xD;&#xA;&#xD;&#xA;Bezdrátová infrastruktura (WLAN) z pohledu autentizace připojení je stejná přístupová síť, jako přepínaná LAN, pouze používá jiné fyzické médium, tedy radiové vlny místo kabeláže. Z toho důvodu pro ni platí většina informací uvedených v předchozím odstavci.&#xD;&#xA;&#xD;&#xA;=== opět jako výše - zmodelovat samostatné technologické procesy s odkazy na standardy? ====&#xD;&#xA;Soudobé bezdrátové sítě využívají zjednodušené přístupové body (Lightweight Access Points) centrálně řízené bezdrátovým kontrolérem. Komunikace mezi bezdrátovým kontrolérem a AP je zapouzdřena do protokolu LWAPP / CAPWAP. Tímto tunelem se přenáší zprávy řízení samotných AP a případně i autentizační EAP zprávy mezi bezdrátovým kontrolérem a klientem. Cesta uživatelských a autentizačních dat závisí na použité konfiguraci. Buď mohou vycházet přímo z AP, kam je klient připojen, vstupovat do přepínané LAN nebo se přenáší uvnitř tunelu až do bezdrátového kontroléru. S přepínanou LAN pak komunikují na portech bezdrátového kontroléru. &#xD;&#xA;Z pohledu IEEE 802.1X architektury je autentizátorem bezdrátový kontrolér, případně AP, ke kterým se klienti připojují. Bezdrátový kontrolér / AP řídí proces připojení každého WiFi klienta a na základě RADIUS komunikace s ExtremeControl systémem aplikuje příslušná pravidla (VLAN, session timeout, QoS a další). Sada autorizačních atributů je opět závislá na implementaci v daném konkrétním typu bezdrátového kontroléru / AP. &#xD;&#xA;==== ====&#xD;&#xA;&#xD;&#xA;Pre konkrétne role administrátorov/operátorov/helpdesk sa XIQ-SE dotazuje na LDAP servre pre prihlásenie sa do samotného rozhrania XIQ-SE. Využíva certifikát od CA nemocnice na administráciu a internú komunikáciu.&#xD;&#xA;&#xD;&#xA;Overovanie endpointov pomocou 802.1X alebo MAC adresa (MAB). Overovanie management loginu (prihlásenie na switch). Zdroj identít pre overenie MAB. NAC brána sa dotazuje na LDAP servre pri autorizácii endpointov cez 802.1X alebo overenie prihlásenia administrátorov/operátorov na LAN prvky."
     viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -61,25 +61,20 @@
             source="id-14684f110add4d3981c9a969b15694f3"
             target="id-63ce3e34fab34d9cb5e8268eb6ca403a">
           <bendpoints
-              startX="-168"
+              startX="-180"
               startY="-6"
-              endX="545"
-              endY="237"/>
+              endX="590"
+              endY="234"/>
           <bendpoints
-              startX="-168"
-              startY="-126"
-              endX="545"
-              endY="117"/>
+              startX="-180"
+              startY="-138"
+              endX="590"
+              endY="78"/>
           <bendpoints
-              startX="-336"
-              startY="-126"
-              endX="377"
-              endY="117"/>
-          <bendpoints
-              startX="-708"
-              startY="-126"
-              endX="5"
-              endY="117"/>
+              startX="-744"
+              startY="-138"
+              endX="26"
+              endY="78"/>
           <archimateRelationship
               xsi:type="archimate:FlowRelationship"
               href="FlowRelationship_id-b5a40e80b9714531911baeb3abcb73bb.xml#id-b5a40e80b9714531911baeb3abcb73bb"/>
@@ -100,25 +95,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-86f1158611ee4383996192e826e58d17"
-        targetConnections="id-a7d45a52e82a458b8d3660ede3fdd508 id-71f5cd9518ac4e1ea4b41a6d89d35d8c">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-bbad1dca56d2449a9da624073b1bf1e2"
-          source="id-86f1158611ee4383996192e826e58d17"
-          target="id-508403b70784433ca74abf3786170d09">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_id-ee68b40051db4156b5dd39211476660b.xml#id-ee68b40051db4156b5dd39211476660b"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-788ec9e4e3014f0d8f4017c1e6caa7f9"
-          source="id-86f1158611ee4383996192e826e58d17"
-          target="id-a563b3d42aa04188bbe56208e142436b">
-        <archimateRelationship
-            xsi:type="archimate:AssignmentRelationship"
-            href="AssignmentRelationship_id-1f9bdd20929c49e9beb3e9f9d7cc1e38.xml#id-1f9bdd20929c49e9beb3e9f9d7cc1e38"/>
-      </sourceConnections>
+        targetConnections="id-a7d45a52e82a458b8d3660ede3fdd508 id-71f5cd9518ac4e1ea4b41a6d89d35d8c id-0250a385736b42a5aed712b0162b01cd">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-4b353ebb99b2443fb04140821682d604"
@@ -144,15 +121,10 @@
           source="id-86f1158611ee4383996192e826e58d17"
           target="id-2da31ce402124985a3566aac5fe3b138">
         <bendpoints
-            startX="198"
+            startX="222"
             startY="30"
-            endX="-54"
+            endX="-30"
             endY="333"/>
-        <bendpoints
-            startX="198"
-            startY="-126"
-            endX="-54"
-            endY="177"/>
         <archimateRelationship
             xsi:type="archimate:FlowRelationship"
             href="FlowRelationship_id-99189ffd2fec46a1b8e0d9f99ec7eebf.xml#id-99189ffd2fec46a1b8e0d9f99ec7eebf"/>
@@ -162,32 +134,6 @@
           y="180"
           width="229"
           height="157"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-508403b70784433ca74abf3786170d09"
-          targetConnections="id-bbad1dca56d2449a9da624073b1bf1e2">
-        <bounds
-            x="24"
-            y="96"
-            width="193"
-            height="43"/>
-        <archimateElement
-            xsi:type="archimate:SystemSoftware"
-            href="SystemSoftware_id-4bf0db09d22b41e9af8f5c46665f37a4.xml#id-4bf0db09d22b41e9af8f5c46665f37a4"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-a563b3d42aa04188bbe56208e142436b"
-          targetConnections="id-788ec9e4e3014f0d8f4017c1e6caa7f9">
-        <bounds
-            x="24"
-            y="36"
-            width="193"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:Artifact"
-            href="Artifact_id-74dca450a82e4742a837d64e40da7605.xml#id-74dca450a82e4742a837d64e40da7605"/>
-      </children>
       <archimateElement
           xsi:type="archimate:Device"
           href="Device_id-621f3e7d92704453a7d70a21548cb909.xml#id-621f3e7d92704453a7d70a21548cb909"/>
@@ -382,33 +328,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-c02a8ddef6e848bc8535c0fa4edc3482"
-        source="id-712c5bc81fb144bdbfb75ba397d6108f"
-        target="id-6776a2b1987a4deea25af69590e3bc93">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-79bb53f2b40d470ca346ffc0dd11fbc7.xml#id-79bb53f2b40d470ca346ffc0dd11fbc7"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-4068d9de34ad48b59fd01876fc6aaa3f"
-        source="id-712c5bc81fb144bdbfb75ba397d6108f"
-        target="id-1723c5b6497140d6948f316865e39d85">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-08bdf9de68664b04a94f323f64f0a245.xml#id-08bdf9de68664b04a94f323f64f0a245"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-4c40db760fec4f2fb5dc659bf6c8597a"
-        source="id-712c5bc81fb144bdbfb75ba397d6108f"
-        target="id-c7e390c75de24afda40efee3be429dd7">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-e05931ffd46f4eeda8302f04d0053c92.xml#id-e05931ffd46f4eeda8302f04d0053c92"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-b770d1f3047b4d5888b081667de25bee"
         source="id-712c5bc81fb144bdbfb75ba397d6108f"
         target="id-d23bad133060412f9557f459e8007d59">
@@ -427,15 +346,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-423966b3abef4d5393bb585961d5ebce"
-        source="id-712c5bc81fb144bdbfb75ba397d6108f"
-        target="id-4806e2ca7c86498dbd581caaa87d7df3">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-758d2b47feb746518aafbb7fc0686011.xml#id-758d2b47feb746518aafbb7fc0686011"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-75d4f9e3af764e719abeddd0a3dde5d4"
         source="id-712c5bc81fb144bdbfb75ba397d6108f"
         target="id-e9f5544cb86f4468a28fdee83cae6e90">
@@ -451,6 +361,24 @@
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-e7bb2ef409dc4836a181b928b534e120.xml#id-e7bb2ef409dc4836a181b928b534e120"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-fcbe8026d48147d7aa7680e438a7952c"
+        source="id-712c5bc81fb144bdbfb75ba397d6108f"
+        target="id-7c63381545c14797894c85047b57fcca">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-80a3550371ff4fda99a16d0c0aaa8c8b.xml#id-80a3550371ff4fda99a16d0c0aaa8c8b"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-a42c4f9dcd984326b6a8613751e7cccd"
+        source="id-712c5bc81fb144bdbfb75ba397d6108f"
+        target="id-d0f83a548f7843d58d294d7096c67786">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-08b1621a9db24adf90d804c17ac55ec4.xml#id-08b1621a9db24adf90d804c17ac55ec4"/>
     </sourceConnections>
     <bounds
         x="48"
@@ -616,15 +544,10 @@
           source="id-4a3d7515efef4d999b72dd69284c75d5"
           target="id-07ca56164b7a4d1aa2bcfbec7744cd12">
         <bendpoints
-            startX="414"
+            startX="462"
             startY="-96"
-            endX="-66"
+            endX="-18"
             endY="273"/>
-        <bendpoints
-            startX="414"
-            startY="-312"
-            endX="-66"
-            endY="57"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-3dd4e31b27f54ea8bc421fad07592fb5.xml#id-3dd4e31b27f54ea8bc421fad07592fb5"/>
@@ -737,18 +660,18 @@
             <bendpoints
                 startX="114"
                 startY="-6"
-                endX="233"
-                endY="237"/>
+                endX="290"
+                endY="234"/>
             <bendpoints
                 startX="114"
                 startY="-114"
-                endX="233"
-                endY="129"/>
+                endX="290"
+                endY="102"/>
             <bendpoints
-                startX="-126"
+                startX="-174"
                 startY="-114"
-                endX="-7"
-                endY="129"/>
+                endX="2"
+                endY="102"/>
             <archimateRelationship
                 xsi:type="archimate:FlowRelationship"
                 href="FlowRelationship_id-21731ffe18564b8c86316e15452915bd.xml#id-21731ffe18564b8c86316e15452915bd"/>
@@ -1213,12 +1136,60 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-1723c5b6497140d6948f316865e39d85"
-        targetConnections="id-4068d9de34ad48b59fd01876fc6aaa3f">
+        id="id-63ce3e34fab34d9cb5e8268eb6ca403a"
+        targetConnections="id-912a25971967469a959a5e1bf0e09fed id-8820a6f572c34bb7931fedb9cd28c71e id-c3b0714e5d974a7cbde66317c19b839a id-cf268e6a9f7b47e8ab21ae9cac6768b1">
+      <bounds
+          x="643"
+          y="264"
+          width="150"
+          height="37"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationInterface"
+          href="ApplicationInterface_id-a937a05d5ead488d8173f0019b123aa4.xml#id-a937a05d5ead488d8173f0019b123aa4"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-e9f5544cb86f4468a28fdee83cae6e90"
+        targetConnections="id-75d4f9e3af764e719abeddd0a3dde5d4 id-4139a125d68c4e559677b1283ddc04f2">
+      <bounds
+          x="799"
+          y="264"
+          width="133"
+          height="37"/>
+      <archimateElement
+          xsi:type="archimate:DataObject"
+          href="DataObject_id-be690ee227c64bc1a621931ebeb897e6.xml#id-be690ee227c64bc1a621931ebeb897e6"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-7c63381545c14797894c85047b57fcca"
+        targetConnections="id-fcbe8026d48147d7aa7680e438a7952c id-8b3d71650fb049b5ba2aafd147f60239">
+      <bounds
+          x="643"
+          y="60"
+          width="289"
+          height="41"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationService"
+          href="ApplicationService_id-8c7696f69b634395913255551882d65b.xml#id-8c7696f69b634395913255551882d65b"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-d0f83a548f7843d58d294d7096c67786"
+        targetConnections="id-a42c4f9dcd984326b6a8613751e7cccd">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-8b3d71650fb049b5ba2aafd147f60239"
+          source="id-d0f83a548f7843d58d294d7096c67786"
+          target="id-7c63381545c14797894c85047b57fcca">
+        <archimateRelationship
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_id-b0841b137065489e824f560224b7fe3c.xml#id-b0841b137065489e824f560224b7fe3c"/>
+      </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-cf268e6a9f7b47e8ab21ae9cac6768b1"
-          source="id-1723c5b6497140d6948f316865e39d85"
+          source="id-d0f83a548f7843d58d294d7096c67786"
           target="id-63ce3e34fab34d9cb5e8268eb6ca403a">
         <archimateRelationship
             xsi:type="archimate:CompositionRelationship"
@@ -1226,123 +1197,21 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-b6c0614a55c5499ea61de3f4df73d190"
-          source="id-1723c5b6497140d6948f316865e39d85"
-          target="id-c7e390c75de24afda40efee3be429dd7">
-        <bendpoints
-            startX="144"
-            startY="9"
-            endX="-54"
-            endY="-51"/>
-        <archimateRelationship
-            xsi:type="archimate:AggregationRelationship"
-            href="AggregationRelationship_id-8da2391d5b894b998959388be3f62771.xml#id-8da2391d5b894b998959388be3f62771"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-b6054b9c24a04323b51af00d88253c4c"
-          source="id-1723c5b6497140d6948f316865e39d85"
-          target="id-6776a2b1987a4deea25af69590e3bc93">
-        <bendpoints
-            startX="-156"
-            startY="9"
-            endX="57"
-            endY="-51"/>
-        <archimateRelationship
-            xsi:type="archimate:AggregationRelationship"
-            href="AggregationRelationship_id-b3ee28bc1e6e40a59096c168e272ff78.xml#id-b3ee28bc1e6e40a59096c168e272ff78"/>
-      </sourceConnections>
-      <bounds
-          x="697"
-          y="129"
-          width="156"
-          height="49"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationCollaboration"
-          href="ApplicationCollaboration_id-fab7fff9163d40edb0161e1f032bac2c.xml#id-fab7fff9163d40edb0161e1f032bac2c"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-6776a2b1987a4deea25af69590e3bc93"
-        targetConnections="id-b6054b9c24a04323b51af00d88253c4c id-c02a8ddef6e848bc8535c0fa4edc3482">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-6823795d4ff44880b736992950e28d91"
-          source="id-6776a2b1987a4deea25af69590e3bc93"
-          target="id-4806e2ca7c86498dbd581caaa87d7df3">
-        <archimateRelationship
-            xsi:type="archimate:AccessRelationship"
-            href="AccessRelationship_id-6f2be80afe1f467e81928a228f9224a0.xml#id-6f2be80afe1f467e81928a228f9224a0"/>
-      </sourceConnections>
-      <bounds
-          x="487"
-          y="198"
-          width="157"
-          height="49"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_id-6d532a457ed44c8db8d13f8f41de8a73.xml#id-6d532a457ed44c8db8d13f8f41de8a73"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-4806e2ca7c86498dbd581caaa87d7df3"
-        targetConnections="id-6823795d4ff44880b736992950e28d91 id-423966b3abef4d5393bb585961d5ebce">
-      <bounds
-          x="487"
-          y="318"
-          width="157"
-          height="37"/>
-      <archimateElement
-          xsi:type="archimate:DataObject"
-          href="DataObject_id-a5fafea67bf24851b4712aee54132504.xml#id-a5fafea67bf24851b4712aee54132504"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-63ce3e34fab34d9cb5e8268eb6ca403a"
-        targetConnections="id-912a25971967469a959a5e1bf0e09fed id-8820a6f572c34bb7931fedb9cd28c71e id-cf268e6a9f7b47e8ab21ae9cac6768b1 id-c3b0714e5d974a7cbde66317c19b839a">
-      <bounds
-          x="715"
-          y="234"
-          width="120"
-          height="43"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationInterface"
-          href="ApplicationInterface_id-a937a05d5ead488d8173f0019b123aa4.xml#id-a937a05d5ead488d8173f0019b123aa4"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-c7e390c75de24afda40efee3be429dd7"
-        targetConnections="id-b6c0614a55c5499ea61de3f4df73d190 id-4c40db760fec4f2fb5dc659bf6c8597a">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-4139a125d68c4e559677b1283ddc04f2"
-          source="id-c7e390c75de24afda40efee3be429dd7"
+          source="id-d0f83a548f7843d58d294d7096c67786"
           target="id-e9f5544cb86f4468a28fdee83cae6e90">
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_id-4975496264ca4633a42e388b546bec8e.xml#id-4975496264ca4633a42e388b546bec8e"/>
       </sourceConnections>
       <bounds
-          x="907"
-          y="198"
-          width="157"
-          height="49"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_id-73eb1b98d0864e9fa4b7807b2a150914.xml#id-73eb1b98d0864e9fa4b7807b2a150914"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-e9f5544cb86f4468a28fdee83cae6e90"
-        targetConnections="id-4139a125d68c4e559677b1283ddc04f2 id-75d4f9e3af764e719abeddd0a3dde5d4">
-      <bounds
-          x="907"
-          y="318"
-          width="157"
+          x="648"
+          y="168"
+          width="289"
           height="37"/>
       <archimateElement
-          xsi:type="archimate:DataObject"
-          href="DataObject_id-be690ee227c64bc1a621931ebeb897e6.xml#id-be690ee227c64bc1a621931ebeb897e6"/>
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-74d7c9d1faf1456390c0ed112d0f8edc.xml#id-74d7c9d1faf1456390c0ed112d0f8edc"/>
     </children>
     <archimateElement
         xsi:type="archimate:Location"
@@ -1468,15 +1337,10 @@
         source="id-a01e3de0ded4457f909d2f2fbb390dcd"
         target="id-2da31ce402124985a3566aac5fe3b138">
       <bendpoints
-          startX="270"
-          startY="6"
-          endX="18"
-          endY="501"/>
-      <bendpoints
-          startX="270"
-          startY="-234"
-          endX="18"
-          endY="261"/>
+          startX="282"
+          startY="-6"
+          endX="30"
+          endY="489"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-8cea1515d3674a8d80bb7b304f6b32ca.xml#id-8cea1515d3674a8d80bb7b304f6b32ca"/>
@@ -1490,11 +1354,6 @@
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_id-d28468b050284d56b62cdabb073dde69.xml#id-d28468b050284d56b62cdabb073dde69"/>
     </sourceConnections>
-    <sourceConnections
-        id="id-420553e6acf64199886986e8b368dcb4"
-        documentation="Probrat se Standou deduplikaci prvků !!! KU /KK, eexterní SIEMy"
-        source="id-a01e3de0ded4457f909d2f2fbb390dcd"
-        target="id-b2d4bf390add45918b42de60604c0c0f"/>
     <bounds
         x="1416"
         y="900"
@@ -1531,17 +1390,6 @@
         href="Node_id-89ba8323a6ea4bec9b00830f671c8a7b.xml#id-89ba8323a6ea4bec9b00830f671c8a7b"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-d3dd7b8dc8cc4aa6b0fe90e13817364a"
-      textAlignment="1"
-      content="!!! K DORESENI !!!&#xD;&#xA;&#xD;&#xA;STANDA? KAMIL?&#xD;&#xA;-- Nevidím auditní roli MSDC, možná i admin roli Anectu. (auditní role MSDC schází, admin roli ANECT bych osobně neuváděl)&#xD;&#xA;--- Lubos komentar: MSDC není jako organizace (Aktér), nejsou tedy role auditora či jak to bylo myšleno?&#xD;&#xA;&#xD;&#xA;STANDA? KAMIL?&#xD;&#xA;-- PAM rozcestník – není doplněna konkrétní technologie a možná vazba na IDM kraje (uvedené je pravdou, však PAM rozcestník je zaznamenán a očekával bych, že vazba na IDM kraje bude dynamickou vazbou k PAM)&#xD;&#xA;--- Lubos komentar: jednak by se měla deklarovat zkratka PAM v celem metamodelu - tedy ne Pluggable Authenticaton Modules v pojetí Extreme Networks, ale Priviledged Access Management ... dále domluva nad metamodelem, jak by toto mělo být &quot;přeneseně vzato&quot; propojeno na IDM ?!&#xD;&#xA;">
-    <bounds
-        x="1872"
-        y="564"
-        width="649"
-        height="217"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-07ca56164b7a4d1aa2bcfbec7744cd12"
       targetConnections="id-8e0d408e26294d62a89145f790179674">
@@ -1564,119 +1412,59 @@
         href="CommunicationNetwork_id-01a7f8d9-dcc0-4976-8fe2-64d58c11c2b8.xml#id-01a7f8d9-dcc0-4976-8fe2-64d58c11c2b8"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-b2d4bf390add45918b42de60604c0c0f"
-      targetConnections="id-420553e6acf64199886986e8b368dcb4"
-      font="1|Segoe UI|12.0|3|WINDOWS|1|-16|0|0|0|700|-1|0|0|-18|3|2|1|34|Segoe UI"
-      textAlignment="1"
-      content="Probrat se Standou deduplikaci prvků KK, KÚ, NEM ?!?">
-    <bounds
-        x="2004"
-        y="972"
-        width="481"
-        height="253"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-9348252c091b4ee7a8a9dc469280af19">
+      id="id-7ec3037a93ca46f9a3d7910ad6f1cfa1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-1e37061b886e447cbae3c77f63efc797"
-        source="id-9348252c091b4ee7a8a9dc469280af19"
-        target="id-d284ec9635ea473384c708105b466e88">
+        id="id-ab11a69bc4414d13a1a89a2c406a28d1"
+        source="id-7ec3037a93ca46f9a3d7910ad6f1cfa1"
+        target="id-ff398c3dc61c40fd91e3ef8f34468c32">
       <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_cb0da828-0beb-412a-816d-fa5853f30fed.xml#cb0da828-0beb-412a-816d-fa5853f30fed"/>
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-3348d471e081428787016906721ee17f.xml#id-3348d471e081428787016906721ee17f"/>
     </sourceConnections>
     <bounds
-        x="2028"
-        y="1152"
-        width="120"
+        x="1884"
+        y="330"
+        width="132"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:TechnologyService"
-        href="TechnologyService_id-6f6a1523-a7e7-48e1-951d-d3a2baee271f.xml#id-6f6a1523-a7e7-48e1-951d-d3a2baee271f"/>
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-e38a735e336f4ccaa8db29cc76b31c71.xml#id-e38a735e336f4ccaa8db29cc76b31c71"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-38ba4356c9a04eefa7c98d2fe7aa2cfe">
+      id="id-ff398c3dc61c40fd91e3ef8f34468c32"
+      targetConnections="id-ab11a69bc4414d13a1a89a2c406a28d1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-0250a385736b42a5aed712b0162b01cd"
+        source="id-ff398c3dc61c40fd91e3ef8f34468c32"
+        target="id-86f1158611ee4383996192e826e58d17">
+      <bendpoints
+          startY="291"
+          endX="426"
+          endY="-18"/>
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_id-46ce4815ccdf4caf97d0054f1b4c48ee.xml#id-46ce4815ccdf4caf97d0054f1b4c48ee"/>
+    </sourceConnections>
     <bounds
-        x="2340"
-        y="1152"
+        x="1890"
+        y="444"
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:Node"
-        href="Node_id-22bd8ac0-4a8e-4b80-8301-e9d8736c06fa.xml#id-22bd8ac0-4a8e-4b80-8301-e9d8736c06fa"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-57eff4a7ea86411799228f4b261ab341">
-    <bounds
-        x="2196"
-        y="1152"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Node"
-        href="Node_id-21e1501e-d0d4-44ff-89e7-fe761df6b8c5.xml#id-21e1501e-d0d4-44ff-89e7-fe761df6b8c5"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-d284ec9635ea473384c708105b466e88"
-      targetConnections="id-1e37061b886e447cbae3c77f63efc797">
-    <bounds
-        x="2028"
-        y="1056"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-0f3df764.xml#id-0f3df764"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-cfcc42f404a844e9bc799bd5e897c2d0">
-    <bounds
-        x="2232"
-        y="1002"
-        width="184"
-        height="55"/>
-    <referencedModel
-        xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_ed0aae1d.xml#ed0aae1d"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-711130e41fd749ad9021cdf66d493203">
-    <bounds
-        x="2196"
-        y="1071"
-        width="120"
-        height="55"/>
-    <referencedModel
-        xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_id-85c097c3.xml#id-85c097c3"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-70c4e0dffc1841b58d2930cec7bc7d04">
-    <bounds
-        x="2340"
-        y="1071"
-        width="120"
-        height="55"/>
-    <referencedModel
-        xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_id-361d3d1f-a561-466e-904e-9079819f0030.xml#id-361d3d1f-a561-466e-904e-9079819f0030"/>
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-535fc80409d44d788bef5b59231fb083.xml#id-535fc80409d44d788bef5b59231fb083"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-f849c2e815d048da8d61623d6dfa5993"
+      id="id-398cc558a5c3414793ccbf532ba68632"
       font="1|Segoe UI|9.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Segoe UI"
       textAlignment="1"
       fillColor="#e2e2be"
-      content="VIEW: CAP TGT2024 TA Extreme Networks NEM + HC L2&#xA;VIEWPOINT: Layered&#xA;TIMESTAMP: Tue Aug 06 2024 11:23:58 GMT+0200 (CEST)&#xA;CREATOR: Luboš Fryc">
+      content="VIEW: CAP TGT2024 TA Extreme Networks NEM + HC L2&#xA;VIEWPOINT: Layered&#xA;TIMESTAMP: Thu Aug 15 2024 13:29:25 GMT+0200 (CEST)&#xA;CREATOR: Luboš Fryc">
     <bounds
         x="20"
         y="20"

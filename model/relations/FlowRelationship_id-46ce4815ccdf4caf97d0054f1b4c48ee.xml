@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="management / auditní kontrola"
+    id="id-46ce4815ccdf4caf97d0054f1b4c48ee">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-535fc80409d44d788bef5b59231fb083.xml#id-535fc80409d44d788bef5b59231fb083"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-621f3e7d92704453a7d70a21548cb909.xml#id-621f3e7d92704453a7d70a21548cb909"/>
+</archimate:FlowRelationship>
