@@ -1,4 +1,5 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SIEM"
-    id="id-f8ab2f57c4974836893bcbec8e141e54"/>
+    name="SIEM NEM"
+    id="id-f8ab2f57c4974836893bcbec8e141e54"
+    documentation="Security Information and Event Management nemocnic zřizovaných KK (dodávané jako SaaS)"/>

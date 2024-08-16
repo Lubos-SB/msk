@@ -1,4 +1,5 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SOC Data Collection DB"
-    id="id-75d904eaffc24fb5b77bf66e3fbd1401"/>
+    name="SOC NEM Data Collection DB"
+    id="id-75d904eaffc24fb5b77bf66e3fbd1401"
+    documentation="Security Operation Center nemocnic (úložiště dat SIEM/SOC) - dodávané jako SaaS"/>
